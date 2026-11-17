@@ -32,7 +32,7 @@ BONUS CONTENT:
 
 ***Exclusive* Darksoft cyber thoughts ONLY in the pre-order:**
 
-<div class="gallery"><img src="/assets/img/listener-s-manual-cover-db74bc.webp" alt="Listener&#x27;s Manual Cover.png" loading="lazy"><img src="/assets/img/hello-world-91829c.webp" alt="HELLO WORLD.png" loading="lazy"><img src="/assets/img/eternal-blue-60c7ae.webp" alt="Eternal Blue.png" loading="lazy"><img src="/assets/img/red-pill-blue-pill-0ca9ca.webp" alt="Red Pill Blue Pill.png" loading="lazy"><img src="/assets/img/listener-s-manual-cover-db74bc.webp" alt="Slide 1" loading="lazy"><img src="/assets/img/hello-world-91829c.webp" alt="Slide 2" loading="lazy"><img src="/assets/img/eternal-blue-60c7ae.webp" alt="Slide 3" loading="lazy"><img src="/assets/img/red-pill-blue-pill-0ca9ca.webp" alt="Slide 4" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/listener-s-manual-cover-db74bc.webp" alt="Photo from Pre-Order New Darksoft Album Meltdown" loading="lazy"><img src="/assets/img/hello-world-91829c.webp" alt="Photo from Pre-Order New Darksoft Album Meltdown" loading="lazy"><img src="/assets/img/eternal-blue-60c7ae.webp" alt="Photo from Pre-Order New Darksoft Album Meltdown" loading="lazy"><img src="/assets/img/red-pill-blue-pill-0ca9ca.webp" alt="Photo from Pre-Order New Darksoft Album Meltdown" loading="lazy"><img src="/assets/img/listener-s-manual-cover-db74bc.webp" alt="Slide 1" loading="lazy"><img src="/assets/img/hello-world-91829c.webp" alt="Slide 2" loading="lazy"><img src="/assets/img/eternal-blue-60c7ae.webp" alt="Slide 3" loading="lazy"><img src="/assets/img/red-pill-blue-pill-0ca9ca.webp" alt="Slide 4" loading="lazy"></div>
 
 ## ABOUT
 

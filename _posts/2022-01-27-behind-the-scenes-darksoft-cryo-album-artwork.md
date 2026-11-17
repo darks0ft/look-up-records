@@ -32,7 +32,7 @@ We also added the wavy hair, as if I'm on a deep space mission in zero gravity. 
 
 Owen threw me in my cry chamber, and after a few design iterations and more mist in the foreground, we landed on what you see here. I chose a more simpler version, though we had some other drafts that were cool too.
 
-<div class="gallery"><img src="/assets/img/another-version-35147e.webp" alt="another version.jpeg" loading="lazy"><img src="/assets/img/screen-grab-d-soft-c3f7d1.webp" alt="screen grab d soft.jpeg" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/another-version-35147e.webp" alt="Photo from BTS: Making The Darksoft Cryo Album Cover" loading="lazy"><img src="/assets/img/screen-grab-d-soft-c3f7d1.webp" alt="Photo from BTS: Making The Darksoft Cryo Album Cover" loading="lazy"></div>
 
 Decided not to add text because who cares nowadays? The album name and artist name are going to show up on your streaming device anyways, so it doesn't matter to me.
 
@@ -46,7 +46,7 @@ First off, I made a sketch for this one too. My idea was to include a larger sce
 
 When we were done with the front cover, Owen bounced out an FBX file of the 3D head/torso model for Jordan to use in his design. When you export these sort of things you pass along these texture maps, which are pretty grotesque looking when spread out flat, hah!
 
-<div class="gallery"><img src="/assets/img/darks0ft-face-64cc8e.webp" alt="darks0ft_face.jpg" loading="lazy"><img src="/assets/img/g8mbasemouthmapd-1005-b0518c.webp" alt="G8MBaseMouthMapD_1005.jpg" loading="lazy"><img src="/assets/img/g8mbaseeyelashesmaptr-1006-45ace5.webp" alt="G8MBaseEyelashesMapTR_1006.jpg" loading="lazy"><img src="/assets/img/g8mbaseeyesmap02d-1007-83cb96.webp" alt="G8MBaseEyesMap02D_1007.jpg" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/darks0ft-face-64cc8e.webp" alt="Photo from BTS: Making The Darksoft Cryo Album Cover" loading="lazy"><img src="/assets/img/g8mbasemouthmapd-1005-b0518c.webp" alt="Photo from BTS: Making The Darksoft Cryo Album Cover" loading="lazy"><img src="/assets/img/g8mbaseeyelashesmaptr-1006-45ace5.webp" alt="Photo from BTS: Making The Darksoft Cryo Album Cover" loading="lazy"><img src="/assets/img/g8mbaseeyesmap02d-1007-83cb96.webp" alt="Photo from BTS: Making The Darksoft Cryo Album Cover" loading="lazy"></div>
 
 So, Jordan essentially took this model and inserted it into the scene he made. I love how some panels reflect the light from other areas — cool attention to detail.
 

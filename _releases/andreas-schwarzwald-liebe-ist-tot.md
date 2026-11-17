@@ -12,4 +12,6 @@ spotify: https://open.spotify.com/album/6YXe3PK1tiAvUkIx64lRyD
 apple_music: https://music.apple.com/ua/album/liebe-ist-tot-ep/1745654566
 announcement: /blog/andreas-schwarzwald-debut-ep-liebe-ist-tot
 permalink: /catalog/andreas-schwarzwald/liebe-ist-tot
+description: "Liebe ist Tot by Andreas Schwarzwald, a 2024 EP released on Look Up Records, catalog number LUR-020. Listen on Bandcamp and streaming services."
+date: "2024-05-24"
 ---

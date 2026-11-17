@@ -24,7 +24,7 @@ Combining freeform jazz and indie pop, Sightings’ lush instrumental tunes are 
 
 <div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/9DH3YW5d5jY" title="YouTube embed" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<div class="gallery"><img src="/assets/img/sightings-2b428d.webp" alt="Sightings.jpg" loading="lazy"><img src="/assets/img/scan-1-85d270.webp" alt="SCAN 1.jpg" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/sightings-2b428d.webp" alt="Photo from Sightings" loading="lazy"><img src="/assets/img/scan-1-85d270.webp" alt="Photo from Sightings" loading="lazy"></div>
 
 ### Bio
 

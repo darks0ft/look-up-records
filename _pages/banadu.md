@@ -21,7 +21,7 @@ image: /assets/img/banadu-profile-c201b6.webp
 >
 > — The Violet Wave , Song of the Day
 
-<div class="gallery"><img src="/assets/img/profile-07a448.webp" alt="PROFILE.png" loading="lazy"><img src="/assets/img/peach-beach-174b47.webp" alt="PEACH BEACH.jpg" loading="lazy"><img src="/assets/img/banadu-83b482.webp" alt="banadu.jpg" loading="lazy"><img src="/assets/img/last-summer-banadu-645506.webp" alt="Last Summer Banadu.jpg" loading="lazy"><img src="/assets/img/pure-mood-background-a62b47.webp" alt="PURE-MOOD-BACKGROUND.jpg" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/profile-07a448.webp" alt="Photo from Banadu" loading="lazy"><img src="/assets/img/peach-beach-174b47.webp" alt="Photo from Banadu" loading="lazy"><img src="/assets/img/banadu-83b482.webp" alt="Photo from Banadu" loading="lazy"><img src="/assets/img/last-summer-banadu-645506.webp" alt="Photo from Banadu" loading="lazy"><img src="/assets/img/pure-mood-background-a62b47.webp" alt="Photo from Banadu" loading="lazy"></div>
 
 ### Airplay
 
@@ -42,6 +42,6 @@ image: /assets/img/banadu-profile-c201b6.webp
 
 Releases:
 
-<div class="gallery"><img src="/assets/img/good-time-artwork-1500px-13359a.webp" alt="GOOD-TIME-ARTWORK 1500px.jpg" loading="lazy"><img src="/assets/img/last-summer-banadu-e6ff89.webp" alt="Last Summer Banadu.jpg" loading="lazy"><img src="/assets/img/dark-and-stormy-f48703.webp" alt="Dark-and-Stormy.png" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/good-time-artwork-1500px-13359a.webp" alt="Photo from Banadu" loading="lazy"><img src="/assets/img/last-summer-banadu-e6ff89.webp" alt="Photo from Banadu" loading="lazy"><img src="/assets/img/dark-and-stormy-f48703.webp" alt="Photo from Banadu" loading="lazy"></div>
 
 <div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/wGhTETUA01M" title="YouTube video" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

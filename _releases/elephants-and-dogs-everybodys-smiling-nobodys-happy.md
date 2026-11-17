@@ -11,4 +11,6 @@ bandcamp: https://elephantsanddogs.bandcamp.com/album/everybodys-smiling-nobodys
 apple_music: https://music.apple.com/us/artist/elephants-and-dogs/1551639893
 announcement: /blog/look-up-releases-new-elephants-and-dogs-album-everybodys-smiling-nobodys-happy
 permalink: /catalog/elephants-and-dogs/everybodys-smiling-nobodys-happy
+description: "Everybody's Smiling Nobody's Happy by Elephants and Dogs, a 2022 album released on Look Up Records, catalog number LUR-018. Listen on Bandcamp and streaming services."
+date: "2022-09-09"
 ---

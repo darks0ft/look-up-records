@@ -10,4 +10,6 @@ bandcamp: https://banadu.bandcamp.com/track/material-life
 spotify: https://open.spotify.com/album/2Y4znhFpRL9g96QgqZHWFY
 announcement: /blog/mt-fog-material-life-banadu-release-single
 permalink: /catalog/mt-fog/material-life
+description: "Material Life by Mt Fog & Banadu, a 2020 single released on Look Up Records. Listen on Bandcamp and streaming services."
+date: "2020-05-15"
 ---

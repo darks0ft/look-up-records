@@ -23,7 +23,7 @@ Alt-psych rock duo SWYM brings swirling delays, stratospheric reverb, and phase-
 >
 > — MAX SCHOENFELD
 
-<div class="gallery"><img src="/assets/img/dsc-6075-f5a1a6.webp" alt="DSC_6075.jpg" loading="lazy"><img src="/assets/img/dsc-5876-6f04e0.webp" alt="DSC_5876.jpg" loading="lazy"><img src="/assets/img/dsc-5975-809ac0.webp" alt="DSC_5975.jpg" loading="lazy"><img src="/assets/img/dsc-6017-a0b795.webp" alt="DSC_6017.jpg" loading="lazy"><img src="/assets/img/dsc-6101-44a5da.webp" alt="DSC_6101.jpg" loading="lazy"><img src="/assets/img/dsc-5936-19f3c5.webp" alt="DSC_5936.jpg" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/dsc-6075-f5a1a6.webp" alt="Photo from SWYM" loading="lazy"><img src="/assets/img/dsc-5876-6f04e0.webp" alt="Photo from SWYM" loading="lazy"><img src="/assets/img/dsc-5975-809ac0.webp" alt="Photo from SWYM" loading="lazy"><img src="/assets/img/dsc-6017-a0b795.webp" alt="Photo from SWYM" loading="lazy"><img src="/assets/img/dsc-6101-44a5da.webp" alt="Photo from SWYM" loading="lazy"><img src="/assets/img/dsc-5936-19f3c5.webp" alt="Photo from SWYM" loading="lazy"></div>
 
 ### Bio
 

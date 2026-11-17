@@ -2,6 +2,7 @@
 layout: page
 title: Code of Conduct
 permalink: /code-of-conduct
+description: "The Look Up Records Code of Conduct: how artists, crew, volunteers and attendees are expected to treat each other at Look Up events and shows."
 ---
 
 ## Code of Conduct

@@ -1,0 +1,66 @@
+---
+layout: null
+sitemap: false
+permalink: /llms-full.txt
+---
+{%- assign releases = site.releases | sort: "release_date", "first" | reverse -%}
+# Look Up Records: full text
+
+> The complete public text of {{ site.url | remove: "https://" }} for language models: label facts, the catalog, artists, Look Up Fest, and every blog post. A shorter guide is at {{ "/llms.txt" | absolute_url }}. Generated {{ site.time | date: "%B %-d, %Y" }}.
+
+Look Up Records is an independent record label and music blog founded in Seattle in 2017 by the musician Darksoft, now based in Portland, Maine. It released dream pop, shoegaze, psych and indie records, ran four Look Up Fest mini music festivals in Seattle (2018 to 2022), and publishes reviews, interviews and DIY advice for independent musicians. The label is not accepting submissions; the site is kept as an archive and as the home for Darksoft's releases. Contact: Instagram @lookuprecords.
+
+## Catalog
+
+{% for r in releases -%}
+### {{ r.title }} by {{ r.artist }}
+URL: {{ r.url | absolute_url }}
+{% if r.catalog_no %}Catalog number: {{ r.catalog_no }}
+{% endif %}Format: {{ r.format }}
+{% if r.release_date.size == 10 %}Released: {{ r.release_date | date: "%B %-d, %Y" }}
+{% elsif r.year %}Released: {{ r.year }}
+{% endif %}{% if r.bandcamp %}Bandcamp: {{ r.bandcamp }}
+{% endif %}{% if r.spotify %}Spotify: {{ r.spotify }}
+{% endif %}{% if r.apple_music %}Apple Music: {{ r.apple_music }}
+{% endif %}{% assign note = r.content | strip_html | normalize_whitespace %}{% if note != "" %}{{ note }}
+{% endif %}
+{% endfor %}
+## Artists
+
+{% for a in site.data.artists -%}
+### {{ a.name }}
+URL: {{ a.page | default: a.post | default: "/artists" | absolute_url }}
+Status: {% if a.status == "current" %}current artist{% else %}alumni{% endif %}{% if a.genre %}
+Genre: {{ a.genre }}{% endif %}{% if a.location %}
+Location: {{ a.location }}{% endif %}{% if a.website %}
+Website: {{ a.website }}{% endif %}{% if a.bandcamp %}
+Bandcamp: {{ a.bandcamp }}{% endif %}
+{{ a.blurb | strip_html | normalize_whitespace }}
+
+{% endfor %}
+## Look Up Fest
+
+Look Up Fest was a community-run, artist-run, sponsor-free mini music festival organized by Look Up Records in Seattle. Each edition had its own theme, live visuals, art installations, a photo booth and a fundraiser for a cause.
+
+{% for f in site.data.fests -%}
+### {{ f.name }}
+URL: {{ f.url | absolute_url }}
+Date: {{ f.date | date: "%B %-d, %Y" }}
+Venue: {{ f.venue }}
+{{ f.blurb }}
+
+{% endfor %}
+## Blog posts
+
+{% for p in site.posts -%}
+{%- assign a = site.data.authors[p.author] -%}
+### {{ p.title }}
+URL: {{ p.url | absolute_url }}
+Date: {{ p.date | date: "%B %-d, %Y" }}{% if a %}
+Author: {{ a.name }}{% endif %}{% if p.categories.size > 0 %}
+Category: {{ p.categories | join: ", " }}{% endif %}{% if p.tags.size > 0 %}
+Tags: {{ p.tags | join: ", " }}{% endif %}
+
+{{ p.content | strip_html | replace: "&nbsp;", " " | replace: "&amp;", "&" | replace: "&#39;", "'" | replace: "&quot;", '"' | strip }}
+
+{% endfor %}

@@ -32,7 +32,7 @@ You can see stacking pennies performing in the Denver area and beyond in the not
 >
 > — Darksoft
 
-<div class="gallery"><img src="/assets/img/costa-rica-comic-61e1b5.webp" alt="Costa Rica Comic.png" loading="lazy"><img src="/assets/img/antique-camera-crystal-river-a6c0ff.webp" alt="Antique Camera Crystal River.JPG" loading="lazy"><img src="/assets/img/disappearing-into-canyonland-14588e.webp" alt="Disappearing into Canyonland.png" loading="lazy"><img src="/assets/img/jungle-hike-01-f016c7.webp" alt="Jungle Hike-01.png" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/costa-rica-comic-61e1b5.webp" alt="Photo from Stacking Pennies" loading="lazy"><img src="/assets/img/antique-camera-crystal-river-a6c0ff.webp" alt="Photo from Stacking Pennies" loading="lazy"><img src="/assets/img/disappearing-into-canyonland-14588e.webp" alt="Photo from Stacking Pennies" loading="lazy"><img src="/assets/img/jungle-hike-01-f016c7.webp" alt="Photo from Stacking Pennies" loading="lazy"></div>
 
 ### Sync Licensing
 

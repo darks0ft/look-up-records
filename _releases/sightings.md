@@ -12,4 +12,6 @@ spotify: https://open.spotify.com/album/5zjLHlEGpfsMOLODDKoIP2
 apple_music: https://music.apple.com/us/artist/sightings/1572499902
 announcement: /blog/look-up-records-releases-debut-ep-by-sightings
 permalink: /catalog/sightings
+description: "Sightings by Sightings, a 2021 EP released on Look Up Records, catalog number LUR-015. Listen on Bandcamp and streaming services."
+date: "2021-07-02"
 ---

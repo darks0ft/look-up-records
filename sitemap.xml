@@ -1,0 +1,39 @@
+---
+layout: null
+sitemap: false
+---
+{%- comment -%}
+  Hand-rolled so it can carry image entries and real lastmod dates, and skip thin pages.
+  Because this file exists, jekyll-sitemap doesn't generate its own.
+  Left out: redirect stubs (legacy, case_aliases), the 404, and tag pages with one post (they're noindex).
+{%- endcomment -%}
+{%- assign latest = site.posts.first.date -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{%- for p in site.html_pages %}
+{%- if p.sitemap == false or p.layout == "redirect" or p.url == "/404.html" %}{% continue %}{% endif %}
+{%- assign mod = nil %}
+{%- if p.url == "/" or p.url == "/blog" %}{% assign mod = latest %}{% endif %}
+{%- if p.url == "/catalog" %}{% assign mod = site.releases | sort: "date" | last | map: "date" | first %}{% endif %}
+<url><loc>{{ p.url | absolute_url | xml_escape }}</loc>{% if mod %}<lastmod>{{ mod | date_to_xmlschema }}</lastmod>{% endif %}{% if p.image %}<image:image><image:loc>{{ p.image | absolute_url | xml_escape }}</image:loc></image:image>{% endif %}</url>
+{%- endfor %}
+{%- for p in site.posts %}
+<url><loc>{{ p.url | absolute_url | xml_escape }}</loc><lastmod>{{ p.last_modified_at | default: p.date | date_to_xmlschema }}</lastmod>{% if p.image %}<image:image><image:loc>{{ p.image | absolute_url | xml_escape }}</image:loc></image:image>{% endif %}</url>
+{%- endfor %}
+{%- for r in site.releases %}
+<url><loc>{{ r.url | absolute_url | xml_escape }}</loc>{% if r.release_date.size == 10 %}<lastmod>{{ r.date | date_to_xmlschema }}</lastmod>{% endif %}{% if r.image %}<image:image><image:loc>{{ r.image | absolute_url | xml_escape }}</image:loc></image:image>{% endif %}</url>
+{%- endfor %}
+{%- for a in site.author_pages %}
+{%- assign ap = site.posts | where: "author", a.author_key | first %}
+<url><loc>{{ a.url | absolute_url | xml_escape }}</loc>{% if ap %}<lastmod>{{ ap.date | date_to_xmlschema }}</lastmod>{% endif %}{% if a.image %}<image:image><image:loc>{{ a.image | absolute_url | xml_escape }}</image:loc></image:image>{% endif %}</url>
+{%- endfor %}
+{%- for c in site.category_pages %}
+{%- assign cp = site.categories[c.category] | first %}
+<url><loc>{{ c.url | absolute_url | xml_escape }}</loc>{% if cp %}<lastmod>{{ cp.date | date_to_xmlschema }}</lastmod>{% endif %}</url>
+{%- endfor %}
+{%- for t in site.tag_pages %}
+{%- assign tp = site.tags[t.tag] %}
+{%- if tp.size < 2 %}{% continue %}{% endif %}
+<url><loc>{{ t.url | absolute_url | xml_escape }}</loc><lastmod>{{ tp.first.date | date_to_xmlschema }}</lastmod></url>
+{%- endfor %}
+</urlset>

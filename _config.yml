@@ -79,3 +79,13 @@ defaults:
     values: { layout: redirect, sitemap: false }
   - scope: { path: "", type: case_aliases }
     values: { layout: redirect, sitemap: false }
+  # jekyll-seo-tag calls every dated collection document a BlogPosting; set the real types.
+  # (Releases get their MusicAlbum JSON-LD from _includes/schema.html.)
+  - scope: { path: "", type: releases }
+    values: { seo: { type: WebPage } }
+  - scope: { path: "", type: tag_pages }
+    values: { seo: { type: CollectionPage } }
+  - scope: { path: "", type: category_pages }
+    values: { seo: { type: CollectionPage } }
+  - scope: { path: "", type: author_pages }
+    values: { seo: { type: ProfilePage } }

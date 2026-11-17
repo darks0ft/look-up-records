@@ -1,0 +1,74 @@
+---
+layout: null
+sitemap: false
+permalink: /llms.txt
+---
+{%- assign releases = site.releases | sort: "release_date", "first" | reverse -%}
+{%- assign first_year = site.posts.last.date | date: "%Y" -%}
+{%- assign guides = site.categories["Advice"] | concat: site.categories["DIY"] | uniq | sort: "date" | reverse -%}
+{%- assign reviews = site.categories["Review"] -%}
+# Look Up Records
+
+> Look Up Records is an independent record label and music blog founded in Seattle in 2017 by the musician Darksoft, and now based in Portland, Maine. It has released dream pop, shoegaze, psychedelic and indie records (catalog numbers LUR-001 to LUR-022), ran Look Up Fest (four themed, one-day mini music festivals in Seattle from 2018 to 2022), and publishes album reviews, interviews and practical advice for independent musicians.
+
+Key facts:
+
+- Name: Look Up Records ("Look Up"). Website: {{ "/" | absolute_url }}
+- Founded: 2017 in Seattle, Washington. Now based in Portland, Maine. Run by Darksoft.
+- Genres: dream pop, shoegaze, psych, indie rock and folk.
+- Roster: {% for a in site.data.artists %}{{ a.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}.
+- Releases: {{ releases.size }} in the catalog; the newest is "{{ releases.first.title }}" by {{ releases.first.artist }} ({{ releases.first.release_date | date: "%B %Y" }}).
+- Blog: {{ site.posts.size }} posts since {{ first_year }}: reviews, interviews, label news and DIY guides, by {{ site.author_pages.size }} writers.
+- Status: the label is not accepting submissions. The site is kept as an archive of the label's music, writing and events, and as the home for Darksoft's releases.
+- Contact: Instagram @lookuprecords (https://instagram.com/lookuprecords). Newsletter: {{ "/newsletter" | absolute_url }}
+- Elsewhere: {% for l in site.social.links %}{{ l }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+
+When citing, please link to the specific page on {{ site.url | remove: "https://" }}. Release pages carry catalog numbers, dates and listening links; artist pages carry bios and press.
+
+## About
+
+- [About Look Up Records]({{ "/about" | absolute_url }}): Who runs the label, what it has released, and where it stands today.
+- [Catalog]({{ "/catalog" | absolute_url }}): Every release, newest first, with catalog numbers and formats.
+- [Artists]({{ "/artists" | absolute_url }}): Current roster and alumni.
+- [Blog]({{ "/blog" | absolute_url }}): All posts, grouped by year, plus categories and writers.
+- [Code of Conduct]({{ "/code-of-conduct" | absolute_url }}): Expectations for artists, crew and attendees at Look Up events.
+- [Logo]({{ "/logo" | absolute_url }}): Downloadable versions of the Look Up flying saucer logo.
+
+## Catalog
+
+{% for r in releases -%}
+- [{{ r.title }} by {{ r.artist }}]({{ r.url | absolute_url }}): {% if r.catalog_no %}{{ r.catalog_no }}, {% endif %}{{ r.format }}{% if r.release_date.size == 10 %}, released {{ r.release_date | date: "%B %-d, %Y" }}{% elsif r.year %}, {{ r.year }}{% endif %}.{% if r.bandcamp %} Bandcamp: {{ r.bandcamp }}{% endif %}
+{% endfor %}
+## Artists
+
+{% for a in site.data.artists -%}
+- [{{ a.name }}]({{ a.page | default: a.post | default: "/artists" | absolute_url }}): {% if a.status == "current" %}Current artist{% else %}Alumni{% endif %}{% if a.genre %}; {{ a.genre | downcase }}{% endif %}{% if a.location %}; {{ a.location }}{% endif %}. {{ a.blurb | strip_html | normalize_whitespace }}
+{% endfor %}
+## Look Up Fest
+
+- [Look Up Fest]({{ "/look-up-fest" | absolute_url }}): Overview of all four festivals, with highlight reels.
+{% for f in site.data.fests -%}
+- [{{ f.name }}]({{ f.url | absolute_url }}): {{ f.date | date: "%B %-d, %Y" }} at {{ f.venue }}. {{ f.blurb }}
+{% endfor %}
+## Guides for independent musicians
+
+{% for p in guides -%}
+- [{{ p.title }}]({{ p.url | absolute_url }}): {{ p.excerpt | strip_html | normalize_whitespace | truncatewords: 30 }}
+{% endfor %}
+## Recent reviews and interviews
+
+{% assign shown = 0 -%}
+{% for p in site.posts -%}
+{%- if shown >= 20 %}{% break %}{% endif -%}
+{%- if p.categories contains "Review" or p.title contains "Interview" or p.title contains "Questions" -%}
+- [{{ p.title }}]({{ p.url | absolute_url }}): {{ p.date | date: "%B %Y" }}. {{ p.excerpt | strip_html | normalize_whitespace | truncatewords: 26 }}
+{% assign shown = shown | plus: 1 -%}
+{%- endif -%}
+{%- endfor %}
+## Optional
+
+- [Full text for language models]({{ "/llms-full.txt" | absolute_url }}): Every page summary and every blog post as plain text.
+- [All {{ reviews.size }} reviews]({{ site.category_pages | where: "category", "Review" | map: "url" | first | absolute_url }})
+- [Writers]({{ "/blog" | absolute_url }}#authors-h): Everyone who has written for the blog.
+- [RSS feed]({{ "/feed.xml" | absolute_url }})
+- [Sitemap]({{ "/sitemap.xml" | absolute_url }})

@@ -12,4 +12,6 @@ spotify: https://open.spotify.com/album/6jUJbMmVMzeWXUH1th8mQv
 apple_music: https://music.apple.com/us/album/with-good-friends/1558316912
 announcement: /blog/look-up-releases-stacking-pennies-album-with-good-friends
 permalink: /catalog/staking-pennies/with-good-friends
+description: "With Good Friends by stacking pennies, a 2021 album released on Look Up Records, catalog number LUR-014. Listen on Bandcamp and streaming services."
+date: "2021-05-07"
 ---

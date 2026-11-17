@@ -12,4 +12,6 @@ spotify: https://open.spotify.com/album/5Y27T3hgkcXG4cCVIqNyZp
 apple_music: https://music.apple.com/us/album/cryo/1592734125
 announcement: /blog/darksoft-releases-album-cryo-2022
 permalink: /catalog/darksoft/cryo
+description: "Cryo by Darksoft, a 2022 album released on Look Up Records, catalog number LUR-016. Listen on Bandcamp and streaming services."
+date: "2022-01-14"
 ---

@@ -26,7 +26,7 @@ Led by Joe Narducci of Toronto, Elephants and Dogs is a syrupy trip of saturated
 
 <div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/Qcjc_4v9H_g" title="YouTube embed" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<div class="gallery"><img src="/assets/img/elephants-and-dogs-ep-cover-no-text-fe84cc.webp" alt="Elephants and Dogs EP cover no text.png" loading="lazy"><img src="/assets/img/outside-snow-1-4884b7.webp" alt="outside snow 1.jpg" loading="lazy"><img src="/assets/img/elephants-and-dogs-new-photo-1-a34ac7.webp" alt="Elephants and Dogs New Photo 1.jpg" loading="lazy"><img src="/assets/img/use-4-crop-7186e6.webp" alt="USE 4 CROP.jpg" loading="lazy"><img src="/assets/img/really-like-9f9b8e.webp" alt="REALLY LIKE.jpg" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/elephants-and-dogs-ep-cover-no-text-fe84cc.webp" alt="Photo from Elephants and Dogs" loading="lazy"><img src="/assets/img/outside-snow-1-4884b7.webp" alt="Photo from Elephants and Dogs" loading="lazy"><img src="/assets/img/elephants-and-dogs-new-photo-1-a34ac7.webp" alt="Photo from Elephants and Dogs" loading="lazy"><img src="/assets/img/use-4-crop-7186e6.webp" alt="Photo from Elephants and Dogs" loading="lazy"><img src="/assets/img/really-like-9f9b8e.webp" alt="Photo from Elephants and Dogs" loading="lazy"></div>
 
 ### Bio
 

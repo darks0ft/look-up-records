@@ -25,7 +25,7 @@ Darksoft is a multi-instrumentalist songwriter and producer who creates dreamy i
 
 <div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/pTzoGJ6mlvs" title="YouTube video" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<div class="gallery"><img src="/assets/img/darksoft-2022-press-photo-lo-res-8c985a.webp" alt="Darksoft 2022 Press Photo Lo Res.jpg" loading="lazy"><img src="/assets/img/darksoft-press-photo-2022-alternate-6af1d4.webp" alt="Darksoft Press Photo 2022 Alternate.jpg" loading="lazy"><img src="/assets/img/dsc-8991-456a63.webp" alt="DSC_8991.jpg" loading="lazy"><img src="/assets/img/darksoft-promo-1-0c1988.webp" alt="Darksoft Promo 1.jpg" loading="lazy"><img src="/assets/img/darksoft-promo-2-45d355.webp" alt="Darksoft Promo 2.jpg" loading="lazy"></div>
+<div class="gallery"><img src="/assets/img/darksoft-2022-press-photo-lo-res-8c985a.webp" alt="Photo from Darksoft" loading="lazy"><img src="/assets/img/darksoft-press-photo-2022-alternate-6af1d4.webp" alt="Photo from Darksoft" loading="lazy"><img src="/assets/img/dsc-8991-456a63.webp" alt="Photo from Darksoft" loading="lazy"><img src="/assets/img/darksoft-promo-1-0c1988.webp" alt="Photo from Darksoft" loading="lazy"><img src="/assets/img/darksoft-promo-2-45d355.webp" alt="Photo from Darksoft" loading="lazy"></div>
 
 ### Bio
 

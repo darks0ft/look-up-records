@@ -10,4 +10,6 @@ image: /assets/img/brain-final-artwork-5000px-8c1e5c.webp
 spotify: https://open.spotify.com/track/21AWPeMpbHxar2nPBea5RK
 announcement: /blog/darksoft-album-brain-announcement-friday
 permalink: /catalog/darksoft/brain
+description: "Brain by Darksoft, a 2018 album released on Look Up Records, catalog number LUR-007. Listen on Bandcamp and streaming services."
+date: "2018-10-26"
 ---

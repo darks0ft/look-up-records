@@ -13,4 +13,6 @@ apple_music: https://music.apple.com/us/artist/darksoft/1438263529
 vinyl_cd: https://elasticstage.com/darksoft/releases/everydayness-album
 announcement: /blog/darksoft-releases-new-album-everydayness
 permalink: /catalog/darksoft/everydayness
+description: "Everydayness by Darksoft, a 2026 album released on Look Up Records, catalog number LUR-022. Listen on Bandcamp and streaming services."
+date: "2026-03-06"
 ---

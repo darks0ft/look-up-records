@@ -2,7 +2,37 @@
 layout: null
 sitemap: false
 ---
+# Look Up Records: independent record label and music blog (est. 2017).
+# Everything here is public and meant to be found: search engines, AI search and
+# answer engines are all welcome to crawl, cite and link to it.
+# A plain-language guide for language models lives at {{ "/llms.txt" | absolute_url }}
+# (full text: {{ "/llms-full.txt" | absolute_url }}).
+
 User-agent: *
+Allow: /
+
+# Named explicitly so a future blanket rule elsewhere never shuts these out by accident.
+# Search and AI answer engines
+User-agent: Googlebot
+User-agent: Google-Extended
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: DuckDuckBot
+User-agent: DuckAssistBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Amazonbot
+User-agent: meta-externalagent
+User-agent: MistralAI-User
+User-agent: cohere-ai
+User-agent: CCBot
 Allow: /
 
 Sitemap: {{ "/sitemap.xml" | absolute_url }}
