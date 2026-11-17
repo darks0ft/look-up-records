@@ -139,6 +139,21 @@ td { padding: .55rem .6rem; border-bottom: 1px solid var(--rule); vertical-align
 .embed { margin: 2rem 0; }
 .embed iframe { width: 100%; border: 0; border-radius: 6px; display: block; background: var(--paper-2); }
 .embed-video iframe { aspect-ratio: 16 / 9; height: auto; }
+/* Spotify draws its own rounded card. color-scheme: normal stops the browser painting an opaque
+   (white) backdrop behind a cross-origin iframe when the page is in dark mode. */
+.embed-spotify iframe { background: transparent; color-scheme: normal; border-radius: 12px; }
+
+/* /logo downloads */
+.logo-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 2rem 1.5rem; }
+.logo-grid li { display: flex; flex-direction: column; gap: .6rem; }
+.logo-grid p { margin: 0; }
+.logo-grid strong { display: block; font-weight: 560; }
+.logo-grid .button { align-self: start; }
+.logo-tile { margin: 0; aspect-ratio: 1; display: grid; place-items: center; border-radius: var(--radius); border: 1px solid var(--rule); overflow: hidden; }
+.logo-tile img { width: 68%; height: auto; }
+.logo-tile.on-dark { background: #17160f; }
+.logo-tile.on-light { background: #fff; }
+.logo-tile.solid img { width: 100%; }
 .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); gap: .5rem; margin: 2rem 0; }
 .gallery img { aspect-ratio: 1; object-fit: cover; width: 100%; }
 .callout { font-family: var(--mono); font-size: .9rem; border: 1px dashed var(--ink); padding: .8rem 1rem; }
