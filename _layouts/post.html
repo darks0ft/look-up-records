@@ -8,7 +8,7 @@ layout: default
       <header class="post-header">
         <p class="kicker"><a href="/blog">Blog</a>{% for c in page.categories %}{% assign cat_page = site.category_pages | where: "category", c | first %} · {% if cat_page %}<a href="{{ cat_page.url }}">{{ c }}</a>{% else %}{{ c }}{% endif %}{% endfor %}</p>
         <h1>{{ page.title }}</h1>
-        <p class="meta">{% if author %}By {{ author.name }} · {% endif %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+        <p class="meta">{% if author %}By <a href="/blog/author/{{ page.author }}">{{ author.name }}</a> · {% endif %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
       </header>
 
       {%- comment -%} Show the cover only when the post body doesn't already open with it {%- endcomment -%}
@@ -20,13 +20,13 @@ layout: default
         {{ content }}
       </div>
 
-      {% if author and author.bio %}
+      {% if author and page.author != "look-up-records" %}
       <aside class="byline-card">
         {% if author.image %}<img src="{{ author.image }}" alt="{{ author.name }}" loading="lazy" width="88" height="88">{% else %}<span></span>{% endif %}
         <div>
           <p class="kicker">About the author</p>
-          <h2>{{ author.name }}</h2>
-          <div class="prose">{{ author.bio | markdownify }}</div>
+          <h2><a href="/blog/author/{{ page.author }}">{{ author.name }}</a></h2>
+          <div class="prose">{% if author.bio %}{{ author.bio | markdownify }}{% endif %}<p><a href="/blog/author/{{ page.author }}">More from {{ author.name }} →</a></p></div>
         </div>
       </aside>
       {% endif %}

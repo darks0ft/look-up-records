@@ -13,6 +13,10 @@ description: News, album reviews, interviews, and DIY music advice from Look Up 
     <nav class="term-nav" aria-label="Categories">
       {% for c in site.category_pages %}<a class="chip" href="{{ c.url }}">{{ c.category }} · {{ site.categories[c.category].size | default: 0 }}</a>{% endfor %}
     </nav>
+    <section class="blog-authors" aria-labelledby="authors-h">
+      <h2 id="authors-h" class="kicker">Writers</h2>
+      {% include authors-list.html %}
+    </section>
   </header>
   <div class="with-sidebar">
     <div>

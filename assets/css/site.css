@@ -248,6 +248,19 @@ td { padding: .55rem .6rem; border-bottom: 1px solid var(--rule); vertical-align
 .sidebar h3 { font-size: 1.15rem; }
 .archive-head { padding-top: clamp(2rem, 5vw, 3.5rem); }
 .term-nav { margin: 1rem 0 2rem; }
+.blog-authors { margin: 0 0 2rem; }
+.blog-authors .kicker { font-size: .8rem; margin: 0 0 .7rem; }
+.authors { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(12.5rem, 1fr)); gap: .5rem 1.2rem; }
+.authors a { display: flex; align-items: center; gap: .65rem; text-decoration: none; padding: .3rem 0; }
+.authors img, .authors .initial { width: 2.5rem; height: 2.5rem; border-radius: 50%; object-fit: cover; flex: none; }
+.authors .initial { display: grid; place-items: center; background: var(--paper-2); border: 1px solid var(--rule); font-family: var(--mono); font-size: .9rem; color: var(--muted); }
+.authors strong { display: block; font-weight: 560; line-height: 1.2; }
+.authors .meta { font-size: .72rem; }
+.authors a:hover strong { background: var(--lime); color: #17160f; }
+.author-head { display: grid; grid-template-columns: 7rem minmax(0, 1fr); gap: 1.5rem; align-items: start; }
+.author-head > img { width: 7rem; height: 7rem; border-radius: 50%; object-fit: cover; margin-top: .4rem; }
+.author-head:not(:has(> img)) { grid-template-columns: minmax(0, 1fr); }
+@media (max-width: 560px) { .author-head { grid-template-columns: 4.5rem minmax(0, 1fr); gap: 1rem; } .author-head > img { width: 4.5rem; height: 4.5rem; } }
 .pagination { display: flex; gap: 1rem; justify-content: space-between; margin-top: 2rem; font-family: var(--mono); font-size: .8rem; }
 
 /* 11 · Pages */

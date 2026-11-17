@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{%- comment -%} One blog author (data: _data/authors.yml, keyed by page.author_key). {%- endcomment -%}
+{%- assign author = site.data.authors[page.author_key] -%}
+{%- assign posts = site.posts | where: "author", page.author_key -%}
+<div class="wrap">
+  <header class="archive-head author-head measure">
+    {% if author.image %}<img src="{{ author.image }}" alt="{{ author.name }}" width="112" height="112">{% endif %}
+    <div>
+      <p class="kicker"><a href="/blog">Blog</a> · Author</p>
+      <h1>{{ author.name }}</h1>
+      <div class="prose">{% if author.bio %}{{ author.bio | markdownify }}{% elsif page.author_key == "look-up-records" %}<p>Label news, release announcements and posts written by the Look Up Records team.</p>{% else %}<p>{{ author.name }} has written for the Look Up Records blog.</p>{% endif %}</div>
+      <p class="meta">{{ posts.size }} post{% if posts.size != 1 %}s{% endif %}{% if posts.size > 0 %} · {{ posts.last.date | date: "%Y" }}{% assign y1 = posts.last.date | date: "%Y" %}{% assign y2 = posts.first.date | date: "%Y" %}{% if y1 != y2 %}–{{ y2 }}{% endif %}{% endif %}</p>
+    </div>
+  </header>
+  <div class="with-sidebar">
+    <div>{% for p in posts %}{% include post-item.html post=p %}{% else %}<p>No posts yet. <a href="/blog">Browse the blog</a>.</p>{% endfor %}</div>
+    {% include sidebar.html %}
+  </div>
+</div>

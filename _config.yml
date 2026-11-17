@@ -59,6 +59,8 @@ collections:
     output: true
   category_pages:   # /blog/category/<Category>
     output: true
+  author_pages:     # /blog/author/<key> (one per entry in _data/authors.yml)
+    output: true
   releases:         # /catalog/...
     output: true
   legacy:           # redirect stubs for retired Squarespace URLs

@@ -1,0 +1,19 @@
+{%- comment -%} Every blog author with a post count, most posts first. Links to /blog/author/<key>. {%- endcomment -%}
+{%- assign keyed = "" | split: "" -%}
+{%- for ap in site.author_pages -%}
+  {%- assign n = site.posts | where: "author", ap.author_key | size -%}
+  {%- assign rank = 1000 | minus: n -%}
+  {%- assign entry = rank | append: "|" | append: ap.author_key -%}
+  {%- assign keyed = keyed | push: entry -%}
+{%- endfor -%}
+{%- assign keyed = keyed | sort -%}
+<ul class="authors">
+  {% for entry in keyed %}
+  {%- assign key = entry | split: "|" | last -%}
+  {%- assign a = site.data.authors[key] -%}
+  {%- assign ap = site.author_pages | where: "author_key", key | first -%}
+  {%- assign rank = entry | split: "|" | first -%}
+  {%- assign n = 1000 | minus: rank -%}
+  <li><a href="{{ ap.url }}">{% if a.image %}<img src="{{ a.image }}" alt="" width="40" height="40" decoding="async">{% else %}<span class="initial" aria-hidden="true">{{ a.name | slice: 0 }}</span>{% endif %}<span><strong>{{ a.name }}</strong><span class="meta">{{ n }} post{% if n != 1 %}s{% endif %}</span></span></a></li>
+  {% endfor %}
+</ul>
