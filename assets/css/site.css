@@ -253,6 +253,8 @@ td { padding: .55rem .6rem; border-bottom: 1px solid var(--rule); vertical-align
 /* 11 · Pages */
 .page-head { padding-top: clamp(2rem, 5vw, 3.5rem); }
 .archive-note { font-family: var(--mono); font-size: .78rem; color: var(--muted); border: 1px dashed var(--rule); padding: .7rem .9rem; border-radius: var(--radius); margin: 0 0 2rem; }
+.notice { border-left: 4px solid var(--lime); background: var(--paper-2); padding: 1rem 1.2rem; border-radius: 0 var(--radius) var(--radius) 0; margin: 0 0 2rem; }
+.notice p { margin: 0; }
 
 /* 12 · Responsive */
 @media (max-width: 900px) {

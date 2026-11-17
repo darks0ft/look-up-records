@@ -5,6 +5,10 @@ permalink: /about
 description: Look Up Records is a blog and boutique music label run by Darksoft, founded in Seattle in 2017 and now based in Portland, Maine.
 ---
 
+<aside class="notice" markdown="1">
+**Where things stand:** Because running a label isn't financially sustainable and I have little time these days, Look Up Records is not accepting submissions right now. The site is mainly kept alive as an archive of the great music, writing and events we put out over the years, and as a channel for Darksoft to release his music. If you really, really think we should work together, though, feel free to [reach out](https://instagram.com/lookuprecords).
+</aside>
+
 Founded in 2017, **Look Up Records** is a **blog** and **boutique music label** run by **Darksoft**. The presence is dedicated to helping musicians with their craft and shining the spotlight on good underground music.
 
 Look Up has helped release music by [Darksoft](/darksoft), [State Birds](/blog/look-up-releases-state-birds-debut-album), [Sealife](/sealife), [SWYM](/swym), [Elephants and Dogs](/elephants-and-dogs), [stacking pennies](/stacking-pennies), [Sightings](/sightings), [Banadu](/banadu), and others. We have also held [events](/look-up-fest) in the past. You may know us from [Look Up Fest](/look-up-fest).
