@@ -7,3 +7,6 @@ _site/
 vendor/
 .bundle/
 scripts/convert/out/
+
+# Unpublished drafts stay local (the repo is public)
+_drafts/
