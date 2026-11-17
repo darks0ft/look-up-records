@@ -59,7 +59,7 @@ GitHub Pages redirects are `jekyll-redirect-from` meta-refresh pages with a cano
 - [x] Sitemap at `/sitemap.xml`, feed at `/feed.xml` (Squarespace's `/blog?format=rss` can't be reproduced), canonicals and OG tags via jekyll-seo-tag.
 - [x] Repo `darks0ft/look-up-records` (public), Pages from `main` at the root, custom domain `www.look-up-records.com`. Unpublished `_drafts/` stay local and were scrubbed from history.
 - [x] DNS: the domain was delegated to an old 2017 NS1 zone (`dns1-4.p04.nsone.net`), so the Squarespace DNS page wasn't live. Added GitHub's A records (185.199.108-111.153) and `www` CNAME `darks0ft.github.io` there, then switched to Squarespace nameservers. Google MX/SPF kept; Mailchimp DKIM and DMARC are live for the first time.
-- [ ] HTTPS: enforce once GitHub issues the certificate.
+- [x] HTTPS: certificate issued (valid to 2027-02-15; it only came through after removing and re-adding the custom domain) and enforced. All 539 old URLs pass over HTTPS.
 - [ ] Search Console: submit `https://www.look-up-records.com/sitemap.xml`. The Squarespace site plan is already cancelled (expires Nov 22); the domain stays.
 
 ## Open items found in Phase 1
