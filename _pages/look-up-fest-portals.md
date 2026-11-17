@@ -70,7 +70,7 @@ Look Up Fest: Portals is an artist-run, DIY, sponsor-free mini music fest. We’
 
 <figure><img src="/assets/img/sound-pollution-fe88ed.webp" alt="SOUND POLLUTION" loading="lazy"><figcaption>Sound Pollution Sound Pollution is a podcast where independent musicians share their inspirations, songwriting processes, and upcoming projects/shows. Sound Pollution is your home for open conversations, awesome music, and maybe even a little advice from trailblazers in the field. Sound Pollution has interviewed a few Look Up artists to date.</figcaption></figure>
 
-<p class="buttons"><a class="button" href="https://www.soundpollutionpodcast.com">About Sound Pollution</a></p>
+<p class="buttons"><a class="button" href="https://web.archive.org/web/20210210212436/http://www.soundpollutionpodcast.com/">About Sound Pollution</a></p>
 
 **Musicians: Submissions are closed**
 

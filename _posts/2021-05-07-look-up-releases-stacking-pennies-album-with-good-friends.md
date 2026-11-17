@@ -17,7 +17,7 @@ squarespace_id: 608ed5e94505cd3b6ceb62f2
 
 Look Up Records released the [stacking pennies](/stacking-pennies) album ‘with good friends,’ on May 7, 2021. The album is a beautiful slowgaze sound that feels like stargazing in the cold breeze. Listen to it on [Bandcamp](https://stackingpennies.bandcamp.com/album/with-good-friends), where you can buy a digital download or limited edition CD.
 
-It’s also on [Spotify](https://open.spotify.com/album/6jUJbMmVMzeWXUH1th8mQv), [Apple Music](https://music.apple.com/us/album/with-good-friends/1558316912), and all other music streaming services.
+It’s also on [Spotify](https://open.spotify.com/album/6jUJbMmVMzeWXUH1th8mQv), [Apple Music](https://music.apple.com/us/album/with-good-friends/6766298148), and all other music streaming services.
 
 ### About ‘with good friends’
 

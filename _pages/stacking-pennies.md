@@ -9,7 +9,7 @@ image: /assets/img/square-cover-no-text-small-7eea33.webp
 
 ### LISTEN
 
-[Spotify](https://open.spotify.com/album/6jUJbMmVMzeWXUH1th8mQv) | [Apple Music](https://music.apple.com/us/album/with-good-friends/1558316912) | [Bandcamp](https://stackingpennies.bandcamp.com/album/with-good-friends) | [Deezer](https://deezer.page.link/EUC24CCYfMKTgmoZA) | [Amazon Music](https://music.amazon.com/albums/B08YX66TKZ?marketplaceId=ATVPDKIKX0DER&musicTerritory=US) | [YouTube](https://youtu.be/CGClJVlrBX8)
+[Spotify](https://open.spotify.com/album/6jUJbMmVMzeWXUH1th8mQv) | [Apple Music](https://music.apple.com/us/album/with-good-friends/6766298148) | [Bandcamp](https://stackingpennies.bandcamp.com/album/with-good-friends) | [Deezer](https://deezer.page.link/EUC24CCYfMKTgmoZA) | [Amazon Music](https://music.amazon.com/albums/B08YX66TKZ?marketplaceId=ATVPDKIKX0DER&musicTerritory=US) | [YouTube](https://youtu.be/CGClJVlrBX8)
 
 
 Based out of Denver, Colorado, stacking pennies' beautifully washed-out sound feels like stargazing in the cold breeze.

@@ -18,7 +18,6 @@ legacy_url: /blog/2018/1/6/review-empaths-anonymous-by-robb-westlund
 squarespace_id: 5a512ac7c830256b617d03c7
 ---
 
-<div class="embed embed-soundcloud"><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/373782236&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" title="SoundCloud player" height="300" loading="lazy" allow="autoplay"></iframe></div>
 
 **"Empaths Anonymous" by Robb Westlund is simple to the point retrowave, with tastey synth and chill vocal hooks.**
 

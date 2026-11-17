@@ -32,7 +32,7 @@ squarespace_id: 646d08575f9e273393e863a7
 [TICKETS](https://www.eventbrite.com/e/darksoft-paradise-blossom-books-on-fate-tickets-616753826297)  
   
 5/30 - **Albany, CA** @ Ivy Room   
-[TICKETS](https://www.venuepilot.co/events/74995/orders/new?fbclid=IwAR2EP4VIIkwfdduI3n_4ZEDNZsSETAy7u-wpivyZ3eZxt1VqSnNsgyB--Ig)
+[TICKETS](https://tickets.venuepilot.com/e/adam-spry-2023-05-30-ivy-room-albany-0aedb2)
 
 ![Darksoft the Beige](/assets/img/darksoft-the-beige-5d68ae.webp)
 

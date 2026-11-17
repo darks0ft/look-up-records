@@ -17,11 +17,11 @@ squarespace_id: 656fffd2febaff53621514d3
 
 <figure><img src="/assets/img/grayscale-darksoft-artwork-v2-copy-6694e5.webp" alt="Grayscale Darksoft Artwork v2 copy" loading="lazy"><figcaption>Spirit Goth records releases Grayscale on 12/1/23</figcaption></figure>
 
-**Darksoft** presents a new album, [**Grayscale**](https://sg63.fanlink.to/darksoft-grayscale), ten-song album that follows Darksoft’s [**Beigeification**](/blog/darksoft-releases-new-album-beigeification) (2023). The album was released by [**Spirit Goth records**](https://spiritgoth.com) on Friday, December 1st, 2023. All songs were written and recorded by Darksoft in his home studio.
+**Darksoft** presents a new album, [**Grayscale**](https://darks0ft.bandcamp.com/album/grayscale), ten-song album that follows Darksoft’s [**Beigeification**](/blog/darksoft-releases-new-album-beigeification) (2023). The album was released by [**Spirit Goth records**](https://spiritgoth.com) on Friday, December 1st, 2023. All songs were written and recorded by Darksoft in his home studio.
 
 The album is mixed by [**Brian Fisher**](mailto:brianknolen@gmail.com?subject=Saw%20you%20mixed%20Darksoft's%20album&body=Hi%20Brian%2C%20I'm%20curious%20to%20learn%20more%20about%20your%20mixing%20services%20and%20I%20heard%20about%20you%20on%20the%20Look%20Up%20site.&&bcc=bill%40look-up-records.com) (Hibou, Éclo, Eastern Souvenirs), and mastered by **Stefan Mac** (Cold War Kids, No Vacation, Sea Lemon). **Beigeification** is released alongside music videos for **Yesteryear** and **Less Is More**.
 
-The catalog number is **SG63**. A limited number of cassette tapes will be available on the [Spirit Goth webstore](https://spiritgoth.com/collections/tape). Grayscale will be the featured tape for December, for Spirit Goth’s [**Cassette Club**](https://www.cassetteclub.co), a monthly tape subscription.
+The catalog number is **SG63**. A limited number of cassette tapes will be available on the [Spirit Goth webstore](https://spiritgoth.com/collections/tape). Grayscale will be the featured tape for December, for Spirit Goth’s [**Cassette Club**](https://spiritgoth.com/pages/cassette-club), a monthly tape subscription.
 
 If you are a radio DJ wanting downloads, please contact [**Pirate! Promotions**](https://piratepirate.com/darksoft-5/).
 

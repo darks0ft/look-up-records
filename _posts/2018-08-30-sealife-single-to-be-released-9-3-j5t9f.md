@@ -21,7 +21,6 @@ squarespace_id: 5b845d15c2241b8b62322546
 
 Just a few days away... on Monday Sealife's single "Breaking Up Together" is abducted and streamable from the global cloud consciousness. Here's a teaser of visual component, coming to life on the same day:
 
-<div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/cvFPu7ATmbE" title="YouTube video" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 [**Sealife**](/sealife), the latest addition to the Look Up Records roster, brings love-coated psychedelic pop from Seattle straight to your heart. We'll be putting out the first single by Sealife on Monday, September 3rd, 2018.
 

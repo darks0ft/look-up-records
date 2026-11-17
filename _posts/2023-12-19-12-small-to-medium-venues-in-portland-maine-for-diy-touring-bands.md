@@ -16,11 +16,11 @@ squarespace_id: 6581142221480c578ba8d7d8
 
 I'll walk you through nearly all the **underground stages** that Portland offers, along with ways to contact the bookers. All the music stages below are roughly in the **50-200** attendee capacity range, and most cater to a 21+ crowd, unless otherwise mentioned. I’ve played at a handful of them.
 
-## [BPM](https://www.blueportlandmaine.com/)
+## [BPM](https://web.archive.org/web/20240215211014/https://www.blueportlandmaine.com/)
 
 <figure><img src="/assets/img/blue-portland-maine-stage-192d5b.webp" alt="Blue portland maine stage" loading="lazy"><figcaption>Greasy Grass plays live at Blue.</figcaption></figure>
 
-Established in 2005, [BPM](https://www.blueportlandmaine.com/) (Blue Portland Maine) is an intimate nightclub right in the heart of downtown, on Congress St. This venue is great if you are trying to pack a small room. Blue is open to all genres and routinely hosts jazz, rock, salsa, and singer-songwriters for open mic nights. The venue is under new(ish) management, and they are very friendly and easy to work with. They don't seem to book too far out. The stage has a simple PA with monitors and an overall good sound. There is usually a TV in the back playing Airplane! on VHS. *And don’t call me Shirley.*
+Established in 2005, [BPM](https://web.archive.org/web/20240215211014/https://www.blueportlandmaine.com/) (Blue Portland Maine) is an intimate nightclub right in the heart of downtown, on Congress St. This venue is great if you are trying to pack a small room. Blue is open to all genres and routinely hosts jazz, rock, salsa, and singer-songwriters for open mic nights. The venue is under new(ish) management, and they are very friendly and easy to work with. They don't seem to book too far out. The stage has a simple PA with monitors and an overall good sound. There is usually a TV in the back playing Airplane! on VHS. *And don’t call me Shirley.*
 
 Booking: [booking@blueportlandmaine.com](mailto:booking@blueportlandmaine.com?)
 
@@ -30,7 +30,7 @@ Booking: [booking@blueportlandmaine.com](mailto:booking@blueportlandmaine.com?)
 
 <figure><img src="/assets/img/yellowfront-live-at-the-apohadion-theater-portland-eb118e.webp" alt="Yellowfront live at the Apohadion theater portland maine" loading="lazy"><figcaption>Yellowfront plays live at The Apohadion Theater.</figcaption></figure>
 
-[The Apohadion](https://apohadiontheater.com) is a DIY art space that hosts an eclectic array of events. This alternative stage welcomes everything from indie music bills to film screenings. So if you are in an experimental lo-fi noise band or debuting your electric citar act, this might be your place to call home (If you can pronounce the name of the venue — *Apo-what?*). I recommend approaching this venue with other artists interested in joining your bill.
+[The Apohadion](https://web.archive.org/web/20231129073923/https://apohadiontheater.com/) is a DIY art space that hosts an eclectic array of events. This alternative stage welcomes everything from indie music bills to film screenings. So if you are in an experimental lo-fi noise band or debuting your electric citar act, this might be your place to call home (If you can pronounce the name of the venue — *Apo-what?*). I recommend approaching this venue with other artists interested in joining your bill.
 
 Booking: [info@apohadiontheater.com](mailto:info@apohadiontheater.com?subject=Booking%20for%20%5BBAND%20NAME%5D%20tour%20-%20Apohadion%20Theater%20-%20Portland%2C%20ME%20-%20%5BDATE%5D&body=Hey%20there%2C%20%0A%0AI'm%20booking%20a%20tour%20from%20my%20band%20and%20we're%20hoping%20to%20get%20a%20date%20in%20Portland%20Maine%20on%20%5BDATE%5D.%20Could%20you%20give%20us%20a%20hold%3F%0A%0AYou%20can%20listen%20to%20our%20recordings%20%5BHERE%5D%20and%20%5BHERE%5D.%20I%20think%20we%20could%20pull%20about%20%5B%23%5D%20people.%0A%0AWe%20have%20some%20local%20bands%20interested%20in%20playing%20this%20night%2C%20including%20%5BBAND%20%231%5D%20and%20%5BBAND%20%232%5D.%20%0A%0AHere's%20our%20band%20bio%20with%20more%20information%3A%20%5BINSERT%20BAND%20BIO%5D%0A%0ASome%20folks%20have%20said%20our%20music%20is%20like%20%22%5BINSERT%20PRESS%20QUOTE%20HERE%5D.%22%20%0A%0AAnd%20here's%20some%20social%20links%3A%20%5BINSERT%20LINKS%5D%0A%0ALet%20me%20know%20if%20you%20are%20interested!%0A%0A(FYI%2C%20I%20heard%20about%20Blue%20from%20reading%20Darksoft's%20post%20on%20the%20Look%20Up%20blog...)%20%20)
 
@@ -70,7 +70,7 @@ Booking: [booking@suntikistudios.com](mailto:booking@suntikistudios.com?body=Hey
 
 ![Ginos rock club portland maine](/assets/img/ginos-rock-club-portland-maine-837d20.webp)
 
-[Geno's Rock Club](https://genos-rock-club.business.site) is an absolute staple in Portland, Maine. The current venue can trace its roots to a different spot within the city, which began operating in the early '80s. Geno's is on the harder side, so if you are playing punk or metal, this is a spot for you. That's the reputation, at least. This is another venue in the heart of downtown, on Congress St. *I've heard that if a pebble from the Geno's sign falls on the head of a smoker on the sidewalk, it blesses them with eternal good luck.*
+Geno's Rock Club is an absolute staple in Portland, Maine. The current venue can trace its roots to a different spot within the city, which began operating in the early '80s. Geno's is on the harder side, so if you are playing punk or metal, this is a spot for you. That's the reputation, at least. This is another venue in the heart of downtown, on Congress St. *I've heard that if a pebble from the Geno's sign falls on the head of a smoker on the sidewalk, it blesses them with eternal good luck.*
 
 Contact: (207) 747-5594
 
@@ -106,9 +106,9 @@ If the venues aren't getting back to you, why not try a brewery? [Oxbow Blending
 
 <figure><img src="/assets/img/sullen-eyes-plays-at-prism-analog-recording-studio-5f3a19.webp" alt="Sullen eyes plays at Prism Analog recording studio" loading="lazy"><figcaption>Sullen Eyes plays live at Prism Analog.</figcaption></figure>
 
-[Prism Analog](https://prismanalog.org) is a non-profit vintage recording studio located downtown on Preble St. The studio sometimes opens its doors for intimate showcases in the live room. It’s a tight squeeze, but beautifully designed with a cool retro decor. There are some sound limitations here, and it may be hard to book as it's not a regularly active venue. But it's worth a shot. I could see chill dream pop or jangle pop bands making sense in this space. Did I mention they have a [van for rent](https://prismanalog.org/van)?
+[Prism Analog](https://web.archive.org/web/20240827100927/https://prismanalog.org/) is a non-profit vintage recording studio located downtown on Preble St. The studio sometimes opens its doors for intimate showcases in the live room. It’s a tight squeeze, but beautifully designed with a cool retro decor. There are some sound limitations here, and it may be hard to book as it's not a regularly active venue. But it's worth a shot. I could see chill dream pop or jangle pop bands making sense in this space. Did I mention they have a [van for rent](https://web.archive.org/web/20260304115902/https://prismanalog.org/van)?
 
-[Contact Form](https://prismanalog.org/contact)
+[Contact Form](https://web.archive.org/web/20250713114334/https://prismanalog.org/contact)
 
 * * *
 
@@ -116,7 +116,7 @@ If the venues aren't getting back to you, why not try a brewery? [Oxbow Blending
 
 <figure><img src="/assets/img/urban-farm-fermentory-749ec2.webp" alt="urban farm fermentory" loading="lazy"><figcaption>Darksoft at Urban Farm Fermentory.</figcaption></figure>
 
-[Urban Farm Fermentory](https://www.fermentory.com) is another brewery that occasionally hosts bands. It's located in the brewery district called East Bayside. In addition to pouring some quality ciders, they put on music [events](https://www.fermentory.com/calendar) featuring jazz, alternative, indie, metal and other styles. I once played a solo set on their loading dock for a group of bikers at a motorcycle and bicycle award show, so anything goes, I suppose. *The dream of the 90s is alive in Portland.*
+[Urban Farm Fermentory](https://web.archive.org/web/20240118201318/https://www.fermentory.com/) is another brewery that occasionally hosts bands. It's located in the brewery district called East Bayside. In addition to pouring some quality ciders, they put on music [events](https://web.archive.org/web/20240118201312/https://www.fermentory.com/calendar) featuring jazz, alternative, indie, metal and other styles. I once played a solo set on their loading dock for a group of bikers at a motorcycle and bicycle award show, so anything goes, I suppose. *The dream of the 90s is alive in Portland.*
 
 Booking: [events@fermentory.com](mailto:events@fermentory.com?body=Hey%20there%2C%20%0A%0AI'm%20booking%20a%20tour%20from%20my%20band%20and%20we're%20hoping%20to%20get%20a%20date%20in%20Portland%20Maine%20on%20%5BDATE%5D.%20Could%20you%20give%20us%20a%20hold%3F%0A%0AYou%20can%20listen%20to%20our%20recordings%20%5BHERE%5D%20and%20%5BHERE%5D.%20I%20think%20we%20could%20pull%20about%20%5B%23%5D%20people.%0A%0AWe%20have%20some%20local%20bands%20interested%20in%20playing%20this%20night%2C%20including%20%5BBAND%20%231%5D%20and%20%5BBAND%20%232%5D.%20%0A%0AHere's%20our%20band%20bio%20with%20more%20information%3A%20%5BINSERT%20BAND%20BIO%5D%0A%0ASome%20folks%20have%20said%20our%20music%20is%20like%20%22%5BINSERT%20PRESS%20QUOTE%20HERE%5D.%22%20%0A%0AAnd%20here's%20some%20social%20links%3A%20%5BINSERT%20LINKS%5D%0A%0ALet%20me%20know%20if%20you%20are%20interested!%0A%0A(FYI%2C%20I%20heard%20about%20Blue%20from%20reading%20Darksoft's%20post%20on%20the%20Look%20Up%20blog...)%20%20&subject=Booking%20at%20Fermentory%20)
 
@@ -158,7 +158,7 @@ Another intimate option in Portland, Maine, is [One Long Fellow Square](https://
 
 ## Other Venues And Ideas
 
-[Flask Lounge](https://flasklounge.com/) hosts DJs and sometimes smaller acts. If you manage a larger group and have your sights on bigger capacity venues in Portland, check out [Aura](https://auramaine.com), [State Theatre](https://statetheatreportland.com), or [Thompson's Point](https://www.thompsonspoint.com/calendar). In addition to the venues mentioned above, [Saco Valley Unvied](https://www.instagram.com/svu_207/) (SVU) is another good contact if you want help with local booking.
+[Flask Lounge](https://flasklounge.com/) hosts DJs and sometimes smaller acts. If you manage a larger group and have your sights on bigger capacity venues in Portland, check out [Aura](https://auramaine.com), [State Theatre](https://statetheatreportland.com), or [Thompson's Point](https://www.thompsonspoint.com/). In addition to the venues mentioned above, [Saco Valley Unvied](https://www.instagram.com/svu_207/) (SVU) is another good contact if you want help with local booking.
 
 Regardless of where you book, typical booking logic applies. When requesting hold dates, I recommend not overstating your pull, suggesting bands to play with, and including streaming links to music, press notes, estimated draw, artists you've played with, and social links.
 

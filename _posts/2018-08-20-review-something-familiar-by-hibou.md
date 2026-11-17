@@ -31,7 +31,7 @@ The album rocks an impressive drum line that adds a clean and crisp surf pop vib
 
 Something Familiar is an album that brings a nostalgic dream world to life and pulls the listener right into the midst of it. Staying true to his sound, Peter delivers whimsically nostalgic dream pop, and I could listen to it forever.
 
-You can purchase Something Familiar by Hibou on [Bandcamp](https://hiboumichel.bandcamp.com/), or stream it now on [Spotify](https://open.spotify.com/album/7fAE3RxQ9Boj6AJuwUAsE7). If you are in the Seattle area check out Hibou’s on August 17th at Summer’s End Music and Art Gathering at Zuanich Point Park in Bellingham, Wa.
+You can purchase Something Familiar by Hibou on [Bandcamp](https://web.archive.org/web/20180205204108/https://hiboumichel.bandcamp.com/), or stream it now on [Spotify](https://open.spotify.com/album/7fAE3RxQ9Boj6AJuwUAsE7). If you are in the Seattle area check out Hibou’s on August 17th at Summer’s End Music and Art Gathering at Zuanich Point Park in Bellingham, Wa.
 
 Hibou will also be headlining [Look Up Fest](/look-up-fest), hosted by Look Up Records, on September 9th at Machine House Brewery in Georgetown Seattle.
 

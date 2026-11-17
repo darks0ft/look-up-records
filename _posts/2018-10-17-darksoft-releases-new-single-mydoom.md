@@ -23,7 +23,7 @@ squarespace_id: 5bc564191905f46e5db0a870
 
 You can also listen to the Darksoft single on all major streaming platforms. Here are other links:
 
-- [SOUNDCLOUD](https://soundcloud.com/darks0ft/mydoom)
+- [SOUNDCLOUD](https://open.spotify.com/track/21AWPeMpbHxar2nPBea5RK)
 - [BANDCAMP](http://darks0ft.bandcamp.com/)
 
 ARTIST SPOOKMENT  
@@ -31,7 +31,6 @@ Black hats. Resource vampires. Botnet masters. Malware. Distanced through haunte
 
 <figure><img src="/assets/img/mydoom-single-artwork-darksoft-17a841.webp" alt="mydoom single artwork darksoft" loading="lazy"><figcaption>Album for the Darksoft single Mydoom</figcaption></figure>
 
-<div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/xtBCyytqcs8" title="YouTube video" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 We’ve also got a super DIY music video in the works, it stars Bill as a dream-surfing computer hacker. Updates on that soon!
 
@@ -41,7 +40,6 @@ We’ve also got a super DIY music video in the works, it stars Bill as a dream-
 
 Bill Darksoft, hailing from Seattle, leads the Darksoft project. He runs Look Up Records, studied creative writing at UW, and has played with many other Seattle acts over the years.
 
-<div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/cJqlp8ohCLI" title="YouTube video" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### Follow Darksoft
 

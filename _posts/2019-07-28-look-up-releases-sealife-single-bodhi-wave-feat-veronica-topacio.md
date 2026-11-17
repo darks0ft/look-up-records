@@ -20,7 +20,7 @@ Chill out in the waves with Sealife. This simple tune flows in and out of realit
 
 ### ALSO LISTEN ON:
 
-<p class="buttons"><a class="button" href="https://sseeaalliiffee.bandcamp.com/">BANDCAMP</a> <a class="button" href="https://music.apple.com/us/album/bodhi-wave-feat-veronica-topacio/1473315558?i=1473315561">APPLE MUSIC</a> <a class="button" href="https://www.deezer.com/us/album/104045572">DEEZER</a></p>
+<p class="buttons"><a class="button" href="https://sseeaalliiffee.bandcamp.com/">BANDCAMP</a> </p>
 
 ![Sealife Bodhi Wave art 2000px](/assets/img/sealife-bodhi-wave-art-2000px-285acf.webp)
 

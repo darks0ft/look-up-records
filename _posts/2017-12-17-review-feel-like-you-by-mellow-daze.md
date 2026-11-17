@@ -46,4 +46,4 @@ It definitely has a strong psychedelic element. Lyrical intent is a wash of rain
 
 We're always wondering what others are thinking of us. But at the end of the day, you want to feel comfortable being you; "*you wanna feel like you*."
 
-Mellow Daze is a solo project by Miami-based Julian Aaldn: [Facebook](https://www.facebook.com/mellowdaze/) / [Twitter](https://twitter.com/mellow__daze) / [Soundcloud](https://soundcloud.com/mellow-daze/) / [Instagram](https://www.instagram.com/mellow__daze/) / [YouTube](https://www.youtube.com/channel/UCAG4km08SCtFgGB7V_1u7_w)
+Mellow Daze is a solo project by Miami-based Julian Aaldn: [Facebook](https://www.facebook.com/mellowdaze/) / [Twitter](https://twitter.com/mellow__daze) / Soundcloud / [Instagram](https://www.instagram.com/mellow__daze/) / [YouTube](https://www.youtube.com/channel/UCAG4km08SCtFgGB7V_1u7_w)

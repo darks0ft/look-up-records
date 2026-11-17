@@ -22,7 +22,7 @@ A Paler Shade of White by Sealife is out today! Released to all major streaming 
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/album/5UtD6sAmrdWdyTLnGgyRQz" title="Spotify album" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-Also available on [ITUNES](https://itunes.apple.com/us/album/a-paler-shade-of-white/1434123148), [SOUNDCLOUD](https://soundcloud.com/sseeaalliiffee), [BANDCAMP](https://sseeaalliiffee.bandcamp.com/releases), and more.
+Also available on [ITUNES](https://music.apple.com/us/album/a-paler-shade-of-white/1434123148), [SOUNDCLOUD](https://soundcloud.com/sseeaalliiffee), [BANDCAMP](https://sseeaalliiffee.bandcamp.com/releases), and more.
 
 Sealife, the newest edition to Look Up Records, brings a love-coated psychedelic chill wave from Seattle straight to your heart. Sealife's debut album, A Paler Shade of White, is art imitating life; a chronological documentation of emotional renaissance.
 

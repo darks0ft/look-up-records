@@ -45,7 +45,7 @@ Booking: [booking@substationseattle.com](mailto:booking@substationseattle.com)
 
 ![the timbre room Seattle](/assets/img/the-timbre-room-seattle-f38f4e.webp)
 
-The [Timbre Room](http://www.timbreroom.com/) feels juxtaposed in the Denny Triangle / South Lake Union tech complex hi-rises, but it's another space to consider. It's a new venue, with a small stage overlooking an intimate reflective listening room. It's located above Kremwerk, a popular electronic/goth scene. "Timbre" is pronounced like 'tamber' and has nothing to do with logging.
+The [Timbre Room](https://web.archive.org/web/20171212173209/http://www.timbreroom.com:80/) feels juxtaposed in the Denny Triangle / South Lake Union tech complex hi-rises, but it's another space to consider. It's a new venue, with a small stage overlooking an intimate reflective listening room. It's located above Kremwerk, a popular electronic/goth scene. "Timbre" is pronounced like 'tamber' and has nothing to do with logging.
 
 Booking: [nick@kremwerk.com](mailto:nick@kremwerk.com)
 
@@ -113,9 +113,9 @@ Booking: [booking@chopsuey.com](mailto:booking@chopsuey.com)
 
 ![mud](/assets/img/mud-9c7b4c.webp)
 
-[Cafe Racer](https://www.caferacerseattle.com/) is a small quirky cafe. An “iconic surviving art bar,” Cafe Racer has an intimate, chill vibe. It’s somewhere where a hipster band might have a debut tape release for 15 friends or so. 70s velvet wall art, Super Mario Bros in a loft lit with Christmas lights, and more make Cafe Racer a sweet spot.
+[Cafe Racer](https://web.archive.org/web/20171120092814/http://caferacerseattle.com:80/) is a small quirky cafe. An “iconic surviving art bar,” Cafe Racer has an intimate, chill vibe. It’s somewhere where a hipster band might have a debut tape release for 15 friends or so. 70s velvet wall art, Super Mario Bros in a loft lit with Christmas lights, and more make Cafe Racer a sweet spot.
 
-hello@caferacerseattle.com - [Booking request form](https://www.caferacerseattle.com/show-or-event-request)
+hello@caferacerseattle.com - [Booking request form](https://web.archive.org/web/20190824215557/https://www.caferacerseattle.com/show-or-event-request)
 
 * * *
 
@@ -125,7 +125,7 @@ hello@caferacerseattle.com - [Booking request form](https://www.caferacerseattle
 
 [Tim’s Tavern](https://timslivemusic.com/) is a local hang for the folks of north Greenwood. It’s a dive bar, with nightly local music on a small stage that is a tight fit for a 3-piece band. It’s got an outdoor patio and friendly staff.
 
-[BOOKING](https://timslivemusic.com/contactbooking)
+[BOOKING](https://timslivemusic.com/)
 
 * * *
 
@@ -141,7 +141,7 @@ hello@caferacerseattle.com - [Booking request form](https://www.caferacerseattle
 
 ![highdive seattle](/assets/img/highdive-seattle-9d0ccb.webp)
 
-The [HighDive](https://www.highdiveseattle.com/), in Fremont, is pretty well-established as a venue for local bands. Out of towners may have some luck here too as capacity isn't that large. They bring in a wide variety of genres, and are a featured venue in [Do206.com](http://do206.com/)
+The [HighDive](https://web.archive.org/web/20171022105327/http://www.highdiveseattle.com:80/), in Fremont, is pretty well-established as a venue for local bands. Out of towners may have some luck here too as capacity isn't that large. They bring in a wide variety of genres, and are a featured venue in [Do206.com](http://do206.com/)
 
 Booking: [kimo.highdivebooking@gmail.com](mailto:kimo.highdivebooking@gmail.com)
 

@@ -68,7 +68,7 @@ I personally have worked with **Pirate!**, a radio promotion & marketing agency,
 
 [**Contact Steve Theo (steve at piratepirate dot com) from Pirate! to learn more.**](mailto:steve@piratepirate.com?subject=Reaching%20out%20about%20radio%20promo%2C%20referred%20by%20Look%20Up&body=Hi%20Steve%2C%20I%20heard%20about%20Pirate!%20on%20the%20Look%20Up%20blog%20and%20am%20curious%20to%20know%20more%20about%20your%20services.%20Thank%20you!&cc=bill%40look-up-records.com)Say Look Up sent ya, and they’ll treat you well.
 
-<figure><a href="https://soundcloud.com/darks0ft/interview-with-wunh-913fm"><img src="/assets/img/darksoft-at-wunh-a8ab22.webp" alt="Darksoft at WUNH" loading="lazy"></a><figcaption>I’ve met a lot of cool people through college radio! For more information, check out the <a href="https://soundcloud.com/darks0ft/interview-with-wunh-913fm">on-air interview I did with WUNH 91.3FM</a>.</figcaption></figure>
+<figure><a href="https://web.archive.org/web/20230313133644/https://soundcloud.com/darks0ft/interview-with-wunh-913fm"><img src="/assets/img/darksoft-at-wunh-a8ab22.webp" alt="Darksoft at WUNH" loading="lazy"></a><figcaption>I’ve met a lot of cool people through college radio! For more information, check out the <a href="https://web.archive.org/web/20230313133644/https://soundcloud.com/darks0ft/interview-with-wunh-913fm">on-air interview I did with WUNH 91.3FM</a>.</figcaption></figure>
 
 ## 4. Create Physical Copies of Your Album
 
@@ -82,17 +82,17 @@ Compact Discs are still a great way to share your music. Because many of us stil
 
 <figure><a href="https://www.atomicdisc.com/products/jackets?bg_ref=is13kGgPQR"><img src="/assets/img/cd-jacket-sleeves-atomic-disc-fd2808.webp" alt="CD jacket sleeves atomic disc" loading="lazy"></a><figcaption>I’m a fan of the <a href="https://www.atomicdisc.com/products/jackets?bg_ref=is13kGgPQR">CD sleeves from Atomic Disc</a>. They're super affordable, look great, and are good quality.</figcaption></figure>
 
-<figure><a href="https://Get 10% off CD or merch orders with AtomicDisc using our code LookUpRecords."><img src="/assets/img/referral-code-atomic-disc-lookuprecords-10-percent-cf2d3b.webp" alt="" loading="lazy"></a><figcaption>Get 10% off CD or merch orders with <a href="https://www.atomicdisc.com/?bg_ref=is13kGgPQR"><strong>AtomicDisc</strong></a> using our code <a href="https://www.atomicdisc.com/?bg_ref=is13kGgPQR"><strong>LookUpRecords</strong></a>.</figcaption></figure>
+<figure><a href="https://www.atomicdisc.com/?bg_ref=is13kGgPQR"><img src="/assets/img/referral-code-atomic-disc-lookuprecords-10-percent-cf2d3b.webp" alt="" loading="lazy"></a><figcaption>Get 10% off CD or merch orders with <a href="https://www.atomicdisc.com/?bg_ref=is13kGgPQR"><strong>AtomicDisc</strong></a> using our code <a href="https://www.atomicdisc.com/?bg_ref=is13kGgPQR"><strong>LookUpRecords</strong></a>.</figcaption></figure>
 
-Make sure the duplicator you use has the correct metadata so the CD will show the player the right information! And if you're considering ordering CDs, use [this link to get a 10% discount](https://www.duplication.ca) that can be applied to all CD packages from Atomic Disc.
+Make sure the duplicator you use has the correct metadata so the CD will show the player the right information! And if you're considering ordering CDs, use [this link to get a 10% discount](https://www.duplication.com/) that can be applied to all CD packages from Atomic Disc.
 
 ### Cassette Tapes
 
 Tapes are another rad 80s merchandise making a comeback. (And I've found that tapes sell really well at live shows and on tours). These little rectangles sound cool and are relatively affordable to produce. And it's now possible to order tapes online.
 
-One example of an online tape production service is [Get Tapes Here](https://www.gettapeshere.com), which is a good option for indie artists as it has no minimum purchase requirement and a quick turnaround. They also have these amazing-looking fluorescent glowing cassette tape cases (as featured above). Another affordable option is [Duplication.CA](https://www.duplication.ca).
+One example of an online tape production service is [Get Tapes Here](https://web.archive.org/web/20231211125432/https://www.gettapeshere.com/), which is a good option for indie artists as it has no minimum purchase requirement and a quick turnaround. They also have these amazing-looking fluorescent glowing cassette tape cases (as featured above). Another affordable option is [Duplication.CA](https://www.duplication.com/).
 
-<figure><a href="https://www.gettapeshere.com"><img src="/assets/img/tape-cassette-get-tapes-here-306d09.webp" alt="Tape Cassette Get Tapes Here" loading="lazy"></a><figcaption>Get Tapes Here offers good options for indie artists hoping to order tapes.</figcaption></figure>
+<figure><a href="https://web.archive.org/web/20231211125432/https://www.gettapeshere.com/"><img src="/assets/img/tape-cassette-get-tapes-here-306d09.webp" alt="Tape Cassette Get Tapes Here" loading="lazy"></a><figcaption>Get Tapes Here offers good options for indie artists hoping to order tapes.</figcaption></figure>
 
 ### Vinyl
 

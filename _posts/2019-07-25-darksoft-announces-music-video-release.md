@@ -28,10 +28,6 @@ Very excited! Stay tuned for progress and #BTS
 >
 > [A post shared by Dreamboat VISTA (@dreamboatvista)](https://www.instagram.com/p/Bz0hRXyHkH4/) on Jul 12, 2019 at 7:54am PDT
 
-## $ PURCHASE A **DOWNLOA**D ON [BANDCAMP](https://darks0ft.bandcamp.com/track/wannacry)
-
-<div class="embed embed-bandcamp"><iframe src="https://bandcamp.com/EmbeddedPlayer/track=1717232021/size=small/bgcol=ffffff/linkcol=de270f/transparent=true/" title="Bandcamp player" height="42" loading="lazy"></iframe></div>
-
 ## [MORE ABOUT DARKSOFT HERE](/darksoft)
 
 ![WANNACRY 1500px](/assets/img/wannacry-1500px-702978.webp)

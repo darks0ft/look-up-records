@@ -15,7 +15,7 @@ squarespace_id: 5e35d48612c5156ca60fd6cf
 
 ![Tan Camel 3000x3000](/assets/img/tan-camel-3000x3000-48f1a4.webp)
 
-### *LISTEN HERE* : [SPOTIFY](https://open.spotify.com/album/4JrxnPIqIAwttII5Pv3aF6?si=VRhKXTbUR_iRwlC0KhVllw) / [APPLE MUSIC](https://music.apple.com/us/album/tan-camel/1496842916) / [DEEZER](https://www.deezer.com/us/artist/50583972) / [BANDCAMP](https://sseeaalliiffee.bandcamp.com/album/tan-camel) / [AMAZON MUSIC](https://www.amazon.com/gp/product/B0847CMSN3/ref=dm_ws_sp_ps_dp)
+### *LISTEN HERE* : [SPOTIFY](https://open.spotify.com/album/4JrxnPIqIAwttII5Pv3aF6?si=VRhKXTbUR_iRwlC0KhVllw) / [APPLE MUSIC](https://music.apple.com/us/album/tan-camel/1857273962) / [DEEZER](https://www.deezer.com/us/artist/50583972) / [BANDCAMP](https://sseeaalliiffee.bandcamp.com/album/tan-camel) / [AMAZON MUSIC](https://www.amazon.com/gp/product/B0847CMSN3/ref=dm_ws_sp_ps_dp)
 
 Look Up is excited to announce the release of **Tan Camel**, the sophomore album by [Sealife](/sealife), a project led by Seattle-based Brennan Moring.
 

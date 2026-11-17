@@ -82,7 +82,7 @@ And, if you're a blogger interesting in reviewing music on SubmitHub, you can [u
 
 Growing a presence on social media websites like Instagram, Twitter, Facebook, or TikTok helps people know about your release. It's also useful for building a community, networking with artists, and getting fans excited about [upcoming shows](/look-up-fest). But, maintaining your presence on many platforms simultaneously is a pain — especially if you're trying to post at a regular cadence.
 
-Using a social media scheduler like [**Buffer**](https://buffer.com/) can help automate many of the tedious tasks associated with social media. You can use it to plan posts in advance to schedule a campaign. Other than Buffer, there are plenty of [social media tools](https://www.socialchamp.io/comparison/buffer-alternatives/) out there that do something similar, such as Coschedule, Loomly, Publer.io, and others.
+Using a social media scheduler like [**Buffer**](https://buffer.com/) can help automate many of the tedious tasks associated with social media. You can use it to plan posts in advance to schedule a campaign. Other than Buffer, there are plenty of [social media tools](https://www.socialchamp.com/buffer-alternatives/) out there that do something similar, such as Coschedule, Loomly, Publer.io, and others.
 
 ## 8. [Mailchimp](https://mailchimp.com/)
 

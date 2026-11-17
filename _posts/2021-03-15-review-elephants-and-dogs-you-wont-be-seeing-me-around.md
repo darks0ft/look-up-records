@@ -32,4 +32,4 @@ This project is an amazing breakout EP for Elephants and Dogs and provides a phe
 
 ### Listen to You Won’t Be Seeing Me Around:
 
-<p class="buttons"><a class="button" href="https://elephantsanddogs.bandcamp.com/album/you-wont-be-seeing-me-around">Bandcamp</a> <a class="button" href="https://open.spotify.com/artist/1Txs9MqxrFGGQpS4j5iFdu?si=54d24c6ce9504453">Spotify</a> <a class="button" href="https://youtu.be/kfsCTMlKSQA">YouTube</a> <a class="button" href="https://music.apple.com/us/album/you-wont-be-seeing-me-around-ep/1551639892">Apple Music</a></p>
+<p class="buttons"><a class="button" href="https://elephantsanddogs.bandcamp.com/album/you-wont-be-seeing-me-around">Bandcamp</a> <a class="button" href="https://open.spotify.com/artist/1Txs9MqxrFGGQpS4j5iFdu?si=54d24c6ce9504453">Spotify</a> <a class="button" href="https://youtu.be/kfsCTMlKSQA">YouTube</a> <a class="button" href="https://music.apple.com/us/album/you-wont-be-seeing-me-around-ep/1800565657">Apple Music</a></p>

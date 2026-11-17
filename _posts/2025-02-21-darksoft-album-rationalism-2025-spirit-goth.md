@@ -16,7 +16,7 @@ squarespace_id: 67b263517e4f8b7698060b81
 
 Darksoft’s Rationalism (2025) is a ten-song album released with [**Spirit Goth Records**](https://spiritgoth.com) on Friday, February 21, 2025. All songs were written and recorded by [**Darksoft**](https://www.darksoft.band) in his home studio. The album was mixed and mastered by [**Brian Fisher**](https://briankfisher.com). The artwork is by [**Erica Miller**](https://www.instagram.com/rickysfreshness/).
 
-The album features Portland, Maine's singer-songwriter [**Emily Irving**](https://linktr.ee/emilyirvingmusic) on vocals on track 3, 'Day By Day.' Hannah from synth-pop project [**Dutch Experts**](https://bio.site/dutchexperts) is featured on vocals on track 9, 'No One Knows.'
+The album features Portland, Maine's singer-songwriter **Emily Irving** on vocals on track 3, 'Day By Day.' Hannah from synth-pop project [**Dutch Experts**](https://bio.site/dutchexperts) is featured on vocals on track 9, 'No One Knows.'
 
 Rationalism (2025) is a follow-up to Relativism (2024). It's released alongside VHS music videos for 'Devil's In The Details,' 'After All,’ and others. Digital downloads and tapes are available on [**Bandcamp**](https://darks0ft.bandcamp.com).
 
@@ -30,7 +30,7 @@ Rationalism (2025) is a follow-up to Relativism (2024). It's released alongside 
 
 ### Listen to Rationalism
 
-<p class="buttons"><a class="button" href="https://geo.music.apple.com/us/album/_/1794374201?mt=1&app=music&ls=1&at=1000lHKX&ct=odesli_http&itscg=30200&itsct=odsl_m">Apple Music</a> <a class="button" href="https://www.youtube.com/playlist?list=OLAK5uy_kKbVbmn9XQa5ZgA7zpPZF7rm3Ir41fJ2g">YouTube</a> <a class="button" href="https://open.spotify.com/album/7eOL2oXXoh2Ib0r3mHjfXb">Spotify</a> <a class="button" href="https://darks0ft.bandcamp.com/">Bandcamp</a> <a class="button" href="https://album.link/darksoft-rationalism">All other streaming links</a> <a class="button" href="https://darks0ft.bandcamp.com/">Digital download</a></p>
+<p class="buttons"><a class="button" href="https://music.apple.com/us/album/rationalism/1794374201">Apple Music</a> <a class="button" href="https://www.youtube.com/playlist?list=OLAK5uy_kKbVbmn9XQa5ZgA7zpPZF7rm3Ir41fJ2g">YouTube</a> <a class="button" href="https://open.spotify.com/album/7eOL2oXXoh2Ib0r3mHjfXb">Spotify</a> <a class="button" href="https://darks0ft.bandcamp.com/">Bandcamp</a> <a class="button" href="https://album.link/darksoft-rationalism">All other streaming links</a> <a class="button" href="https://darks0ft.bandcamp.com/">Digital download</a></p>
 
 <figure><a href="https://darks0ft.bandcamp.com/"><img src="/assets/img/darksoft-tape-mockup-9568bd.webp" alt="Darksoft tape mockup" loading="lazy"></a></figure>
 

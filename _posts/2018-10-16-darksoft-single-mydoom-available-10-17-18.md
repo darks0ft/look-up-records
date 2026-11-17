@@ -19,7 +19,6 @@ squarespace_id: 5bc53a857817f73d01a0770e
 
 [Darksoft](/darksoft)’s single “Mydoom” is out Wednesday, 10/17…
 
-<div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/cJqlp8ohCLI" title="YouTube video" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 [Darksoft](/darksoft), the latest addition to Look Up Records, evokes an alternative sound. Darksoft creates a nostalgia for 2000s sadcore. Using an Elliot Smith and Bright Eyes vocal style, crunch guitar like Staryflyer 59 or Superheaven, and an overall garagey sound reminiscent of 90s shoegaze.
 

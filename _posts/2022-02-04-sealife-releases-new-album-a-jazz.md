@@ -21,7 +21,7 @@ Sealife describes ***A jazz*** as "an uneducated exploration into jazz." ***A ja
 
 The album is released alongside a music video for **Peaches** directed by **DreamboatVISTA** aka **Collin Snider**.
 
-<p class="buttons"><a class="button" href="https://sseeaalliiffee.bandcamp.com/album/a-jazz">Bandcamp</a> <a class="button" href="https://music.youtube.com/playlist?feature=share&list=OLAK5uy_kwjQW0_SzPNtmrkVRUCUHwseD_Dp5E9Uc">YouTube</a> <a class="button" href="https://music.apple.com/us/album/a-jazz/1604835629">Apple Music</a> <a class="button" href="https://open.spotify.com/album/3PWHt6yvueWcZbxwpu4HSp?si=H7u-THRzTluS98-gEDqSWA">Spotify</a> <a class="button" href="https://sseeaalliiffee.bandcamp.com/album/a-jazz">CD/ Digital download</a></p>
+<p class="buttons"><a class="button" href="https://sseeaalliiffee.bandcamp.com/album/a-jazz">Bandcamp</a> <a class="button" href="https://music.youtube.com/playlist?feature=share&list=OLAK5uy_kwjQW0_SzPNtmrkVRUCUHwseD_Dp5E9Uc">YouTube</a> <a class="button" href="https://music.apple.com/us/album/a-jazz/1857286932">Apple Music</a> <a class="button" href="https://open.spotify.com/album/3PWHt6yvueWcZbxwpu4HSp?si=H7u-THRzTluS98-gEDqSWA">Spotify</a> <a class="button" href="https://sseeaalliiffee.bandcamp.com/album/a-jazz">CD/ Digital download</a></p>
 
 <figure><a href="https://sseeaalliiffee.bandcamp.com/album/a-jazz"><img src="/assets/img/sealife-a-jazz-cd-0fac4b.webp" alt="Sealife A Jazz CD" loading="lazy"></a></figure>
 

@@ -43,19 +43,19 @@ Darksoft is originally from Seattle, where he participated in the local music sc
 
 ### PRESS
 
-- Independent Music Reviews: [Looking Backward by Darksoft](https://independentmusic.reviews/emo/looking-backward-by-darksoft/)
+- Independent Music Reviews: Looking Backward by Darksoft
 - PostPunk.com: [Seattle Shoegaze Act Darksoft Debuts Video for Looking “Backward” From New Album “Cryo”](https://post-punk.com/seattle-shoegaze-act-darksoft-debuts-video-for-looking-backward-from-new-album-cryo/)
 - [AmericanPancake: "Darksoft's track "Cybersecurity" is an evocative piece of dream theater with grunge leanings"](https://www.americanpancake.com/2019/12/darksofts-track-cybersecurity-is.html)
 - [JanglepopHub - New Music Recommendations 12/17](https://janglepophub.home.blog/2019/12/17/beat-the-delete-0036-new-music-recommendations/)
-- [Comeherefloyd: FIVE // Bliss Motel : Darksoft : linelions : Melanie Sandford : CK Field](https://comeherefloyd.com/five-bliss-motel-darksoft-linelions-melanie-sandford-ck-field/)
+- [Comeherefloyd: FIVE // Bliss Motel : Darksoft : linelions : Melanie Sandford : CK Field](https://web.archive.org/web/20210117205732/https://comeherefloyd.com/five-bliss-motel-darksoft-linelions-melanie-sandford-ck-field/)
 - [Dan's Tunes: Photo Story: Look Up Fest – Mars](https://danstunesseattle.com/2019/09/23/photo-story-look-up-fest-mars/)
 - [Eclectic Music Blog: Darksoft Album Review: “Brain”](https://eclecticmusiclover.com/2019/02/15/darksoft-ep-review-brain/)
 - [Eclectic Music Blog: New Song of the Week: DARKSOFT – “WannaCry”](https://eclecticmusiclover.com/2019/07/25/new-song-of-the-week-darksoft-wannacry/)
 - [Rock The Pigeon: Darksoft’s ‘Mydoom’ Is Slow, Straightforward and Sad Alt Rock](https://rockthepigeon.com/2018/10/23/darksofts-mydoom-is-slow-straightforward-and-sad-alt-rock/)
-- Ohestee: [DARKSOFT LAMENTS OVER THE UNKNOWN IN DEBUT “MYDOOM”](http://ohestee.com/music/pop/darksoft-laments-over-the-unknown-in-debut-mydoom/?utm_source=twitter&utm_medium=social&utm_term=&utm_content=&utm_campaign=darksoft%2Bmydoom)
-- [Comherefloyd: INDIEFOLK415 // Indie Fascination.](https://comeherefloyd.com/415-indie-fascination-the-rungs-du-blonde-misty-mtn-ganser-sleep-state/)
+- Ohestee: DARKSOFT LAMENTS OVER THE UNKNOWN IN DEBUT “MYDOOM”
+- [Comherefloyd: INDIEFOLK415 // Indie Fascination.](https://web.archive.org/web/20210121053222/https://comeherefloyd.com/415-indie-fascination-the-rungs-du-blonde-misty-mtn-ganser-sleep-state/)
 - Dan's Tunes: [Photo story: SWYM, Sealife, Darksoft, Daycones](https://danstunesseattle.com/index.php/2018/12/24/photo-story-swym-sealife-darksoft-daycones/)
 - [With Guitars: Darksoft single Mydoom is out on Look Up Records](https://www.withguitars.com/darksoft-single-mydoom-is-out-on-look-up-records/)
-- It's Not Records: [Darksoft “Elk Cloner”](https://itsnotrecords.com/2018/10/29/darksoft-elk-cloner/)
+- It's Not Records: [Darksoft “Elk Cloner”](https://web.archive.org/web/20191211150448/https://itsnotrecords.com/2018/10/29/darksoft-elk-cloner/)
 - Plastic Mag: [Darksoft releases single ‘Mydoom’](http://www.plasticmag.co.uk/news/darksoft-releases-single-mydoom/)
 - Jammerzine: [Daily Dose: Darksoft – Mydoom](https://jammerzine.com/daily-dose-darksoft-mydoom/)

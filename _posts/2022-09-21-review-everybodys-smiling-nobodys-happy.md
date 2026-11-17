@@ -36,4 +36,4 @@ If you're a fan of dreamy, atmospheric music, you need to check out ***Everybod
 
 ### Listen to Everybody's Smiling, Nobody's Happy:
 
-<p class="buttons"><a class="button" href="https://elephantsanddogs.bandcamp.com/album/everybodys-smiling-nobodys-happy">Bandcamp</a> <a class="button" href="https://open.spotify.com/album/6s9IG99Eum2SdnFw4Epqfd?si=ZKgcqXoDSmKSegUzXBvveQ">Spotify</a> <a class="button" href="https://music.apple.com/us/album/everybodys-smiling-nobodys-happy/1636550206">Apple Music</a></p>
+<p class="buttons"><a class="button" href="https://elephantsanddogs.bandcamp.com/album/everybodys-smiling-nobodys-happy">Bandcamp</a> <a class="button" href="https://open.spotify.com/album/6s9IG99Eum2SdnFw4Epqfd?si=ZKgcqXoDSmKSegUzXBvveQ">Spotify</a> <a class="button" href="https://music.apple.com/us/album/everybodys-smiling-nobodys-happy/1811087257">Apple Music</a></p>

@@ -9,7 +9,7 @@ catalog_no: LUR-022
 image: /assets/img/everydayness-artwork-ba17eb.webp
 bandcamp: https://darks0ft.bandcamp.com/album/everydayness
 spotify: https://open.spotify.com/album/6uvgARCNYEHRkFtgNoGHnN
-apple_music: https://music.apple.com/us/artist/darksoft/1438263529
+apple_music: https://music.apple.com/us/album/everydayness/1867053873
 vinyl_cd: https://elasticstage.com/darksoft/releases/everydayness-album
 announcement: /blog/darksoft-releases-new-album-everydayness
 permalink: /catalog/darksoft/everydayness

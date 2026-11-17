@@ -19,8 +19,6 @@ squarespace_id: 5b6f60a2b8a0453701a0da14
 
 **Kurtis Roy** couldn’t have chosen a better moniker than“**Sea Salt**.” **Like his music, it evokes both the marine and the crystalline.**
 
-<div class="embed embed-bandcamp"><iframe src="https://bandcamp.com/EmbeddedPlayer/album=230661610/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" title="Bandcamp player" height="120" loading="lazy"></iframe></div>
-
 ”Frames,” from his recent demo might have been recorded in an aquatic lair. Guitar chords shimmer beneath the reverb, like effervescence escaping from the depths. Kurtis Roy’s voice surfs on the ebb and flow of synths. “I’m a lonely child, I’m alone for now,” he sings, a kid lost in a waterlogged dream-world.
 
 Loneliness returns on the more downtempo “Pillow,” from the same demo. He croons about his lover’s desire to circle ‘round his head. Though he he wants to let her in, yet something keeps him distant - his relationship with her is cracked like the screen of a dropped phone.

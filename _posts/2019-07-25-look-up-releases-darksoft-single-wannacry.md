@@ -22,14 +22,6 @@ Prior to a fall 2019 release of Darksoft's sophomore album "Meltdown" comes Wann
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/track/6vB4rU77MBaWyqQ0A1NBN5" title="Spotify track" height="152" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-## OR MAYBE U LIKE **SOUNDCLOUD**?
-
-<div class="embed embed-soundcloud"><iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/601751307&amp;color=%23f20000&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" title="SoundCloud player" height="166" loading="lazy" allow="autoplay"></iframe></div>
-
-## $ PURCHASE A **DOWNLOA**D ON [BANDCAMP](https://darks0ft.bandcamp.com/track/wannacry)
-
-<div class="embed embed-bandcamp"><iframe src="https://bandcamp.com/EmbeddedPlayer/track=1717232021/size=small/bgcol=ffffff/linkcol=de270f/transparent=true/" title="Bandcamp player" height="42" loading="lazy"></iframe></div>
-
 ## [MORE ABOUT DARKSOFT HERE](/darksoft)
 
 ![WANNACRY 1500px](/assets/img/wannacry-1500px-702978.webp)

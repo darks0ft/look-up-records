@@ -41,4 +41,4 @@ In the end, **State Birds** delivers an album that feels perfectly suited for qu
 
 ### Listen to State Birds
 
-<p class="buttons"><a class="button" href="https://statebirdsmusic.bandcamp.com/album/state-birds">Bandcamp</a> <a class="button" href="https://open.spotify.com/album/45KV3qQeGSCTAbY4MtILcq?si=qNQvqf0NT8uvjxYEATjcWg">Spotify</a> <a class="button" href="https://music.apple.com/us/album/state-birds/1778851162">Apple Music</a></p>
+<p class="buttons"><a class="button" href="https://statebirds.bandcamp.com/album/state-birds">Bandcamp</a> <a class="button" href="https://open.spotify.com/album/45KV3qQeGSCTAbY4MtILcq?si=qNQvqf0NT8uvjxYEATjcWg">Spotify</a> <a class="button" href="https://music.apple.com/us/album/state-birds/1778851162">Apple Music</a></p>

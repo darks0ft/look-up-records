@@ -54,6 +54,5 @@ Des Roses is a group in Nantes, France. You can listen to H.P.S. and the entire 
 
 Des Roses: [Facebook](http://facebook.com/desrosesband) / [YouTube](https://www.youtube.com/watch?v=8Gbv_pAk5V8) / [Twitter](http://twitter.com/desrosesband) / [Instagram](http://instagram.com/desrosesband)
 
-They also have a music video up for "H.P.S." on YouTube:
+They also have a [music video for "H.P.S." on YouTube](https://www.youtube.com/watch?v=wCZqhbdXVxE).
 
-<div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/wCZqhbdXVxE" title="YouTube video" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

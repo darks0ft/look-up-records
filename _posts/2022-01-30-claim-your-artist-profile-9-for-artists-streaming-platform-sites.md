@@ -42,7 +42,7 @@ Spotify owes a lot of its success and growth to artists. And, with excellent mus
 
 ## 2. [Apple Music for Artists](https://artists.apple.com/)
 
-Is anyone old enough to remember purchasing MP3 downloads on iTunes? For decades now, Apple has played a role in digital music distribution. And nowadays, the [Apple Music](https://apple.co/3HUbKxO) catalog holds parity with Spotify's catalog.
+Is anyone old enough to remember purchasing MP3 downloads on iTunes? For decades now, Apple has played a role in digital music distribution. And nowadays, the [Apple Music](https://artists.apple.com/) catalog holds parity with Spotify's catalog.
 
 To join **[Apple Music for Artists](https://artists.apple.com/)**, you must request access and provide some information to prove legitimacy. Then, you can view daily plays, average daily listeners, and song purchases. One cool thing is that since Apple owns Shazam, you can see who is Shazam-ing your stuff. Apple also sends weekly statistics over email.
 
@@ -52,7 +52,7 @@ One thing is their security is a bit cumbersome. You have to have an Apple ID to
 
 ## 3. [Deezer for Creators](https://creators.deezer.com/)
 
-Deezer is one of the [fastest-growing music streaming apps in Mexico](https://www.deezer-blog.com/press/deezer-is-now-the-fastest-growing-music-streaming-app-in-mexico/). In addition to hosting music, it has global and local podcasts. To [claim an artist profile on Deezer](https://support.deezer.com/hc/en-gb/articles/360018607978-Claiming-an-artist-profile-on-Deezer), you choose your affiliation and enter the UPC number of your release. The **[Deezer for Creators](https://creators.deezer.com/)** app provides analytics and audience data, but I can't speak much to the experience since my artist request is still under review.
+Deezer is one of the [fastest-growing music streaming apps in Mexico](https://newsroom-deezer.com/2020/12/deezer-is-now-the-fastest-growing-music-streaming-app-in-mexico/). In addition to hosting music, it has global and local podcasts. To [claim an artist profile on Deezer](https://web.archive.org/web/20220127111345/https://support.deezer.com/hc/en-gb/articles/360018607978-Claiming-an-artist-profile-on-Deezer), you choose your affiliation and enter the UPC number of your release. The **[Deezer for Creators](https://creators.deezer.com/)** app provides analytics and audience data, but I can't speak much to the experience since my artist request is still under review.
 
 ## 4. [Amazon Music For Artists](https://artists.amazonmusic.com/)
 
@@ -60,7 +60,7 @@ Artists who have a problem with Amazon for other reasons can disregard this sect
 
 After you claim your artist account on **[Amazon Music For Artists](https://artists.amazonmusic.com/)**, you can set your profile picture and background image. Similar to Spotify for Artists, you can track the stations and playlists playing your music and see fine-grained statistics. You'll likely notice there aren't *that* many listeners on this platform yet. Amazon Music for Artists also provides a way to pitch new songs to their editorial team.
 
-## 5. [YouTube for Artists](https://artists.youtube.com/)
+## 5. [YouTube for Artists](https://artists.youtube/)
 
 In recent years, YouTube has pivoted toward being more of a legitimate ad-free paid music streaming platform with [YouTube Music](https://www.youtube.com/musicpremium). This is partially thanks to the YouTube Content ID, which now automatically claims rights for music, regardless of who uploaded it. Most digital distributors also automatically send music to YouTube directly.
 
@@ -82,11 +82,11 @@ According to TIDAL, "The Direct Artist Payout program is an initiative we're exp
 
 ## 8. Napster Artist Profile Update
 
-Yep, Napster's back — but without the pirates. The Napster brand has been repurposed as a legitimate legal streaming service. So far, [Napster for Artists](https://help.napster.com/hc/en-us/articles/4403558437773-Napster-for-Artists) is just a Q&A page. (I'll update this section if they build out an artist center.) As of now, you can't claim an artist page. But if you reach out, customer support will ask for some details to update your profile manually.
+Yep, Napster's back — but without the pirates. The Napster brand has been repurposed as a legitimate legal streaming service. So far, Napster for Artists is just a Q&A page. (I'll update this section if they build out an artist center.) As of now, you can't claim an artist page. But if you reach out, customer support will ask for some details to update your profile manually.
 
-## 9. [Soundcloud Artist Resources](https://community.soundcloud.com/)
+## 9. [Soundcloud Artist Resources](https://web.archive.org/web/20220131002130/https://community.soundcloud.com/)
 
-SoundCloud has notoriously been a haven for underground electronic beats and remixes. If you're publishing your music on [SoundCloud](https://soundcloud.com/you/insights/overview), you'll automatically have access to analytics on the Insights tab. SoundCloud Premier purportedly allows artists to [monetize their songs](https://community.soundcloud.com/monetizing-tracks-video-how-to) if they meet [these specific requirements](https://community.soundcloud.com/monetizing-tracks-video-how-to). But, there's no way to submit to SoundCloud Premiere. "If eligible, you'll receive an email or in-product notification to opt-in your tracks."
+SoundCloud has notoriously been a haven for underground electronic beats and remixes. If you're publishing your music on SoundCloud, you'll automatically have access to analytics on the Insights tab. SoundCloud Premier purportedly allows artists to [monetize their songs](https://web.archive.org/web/20220129035159/https://community.soundcloud.com/monetizing-tracks-video-how-to) if they meet [these specific requirements](https://web.archive.org/web/20220129035159/https://community.soundcloud.com/monetizing-tracks-video-how-to). But, there's no way to submit to SoundCloud Premiere. "If eligible, you'll receive an email or in-product notification to opt-in your tracks."
 
 ## Other Ideas
 

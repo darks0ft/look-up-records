@@ -54,4 +54,4 @@ It would be a haughty and arrogant notion to speak on a band's behalf regarding 
 
 ### Listen to with good friends:
 
-<p class="buttons"><a class="button" href="https://stackingpennies.bandcamp.com/album/with-good-friends">Bandcamp</a> <a class="button" href="https://open.spotify.com/album/6jUJbMmVMzeWXUH1th8mQv">Spotify</a> <a class="button" href="https://music.apple.com/us/album/with-good-friends/1558316912">Apple Music</a></p>
+<p class="buttons"><a class="button" href="https://stackingpennies.bandcamp.com/album/with-good-friends">Bandcamp</a> <a class="button" href="https://open.spotify.com/album/6jUJbMmVMzeWXUH1th8mQv">Spotify</a> <a class="button" href="https://music.apple.com/us/album/with-good-friends/6766298148">Apple Music</a></p>

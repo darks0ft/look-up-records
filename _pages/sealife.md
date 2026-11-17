@@ -13,7 +13,7 @@ Sealife brings a love-coated psychedelic pop from Seattle straight to your heart
 
 ### Listen
 
-[Amazon Music](https://www.amazon.com/Tan-Camel-Sealife/dp/B0847CMSN3) | [YouTube](https://music.youtube.com/channel/UCtVp_ZyJAt1V-GO6tLDZwOg) | [Spotify](https://open.spotify.com/artist/70hDlhAk9WX3XPtaCzarlx?si=Dlfe6sP4QLW2HpQ8FIX3yw) | [Apple Music](https://music.apple.com/us/artist/sealife/286570592) | [Bandcamp](https://sseeaalliiffee.bandcamp.com/) | [Napster](https://ar.napster.com/artist/the-sea-life) | [Deezer](https://www.deezer.com/us/artist/50583972)
+[Amazon Music](https://www.amazon.com/Tan-Camel-Sealife/dp/B0847CMSN3) | [YouTube](https://music.youtube.com/channel/UCtVp_ZyJAt1V-GO6tLDZwOg) | [Spotify](https://open.spotify.com/artist/70hDlhAk9WX3XPtaCzarlx?si=Dlfe6sP4QLW2HpQ8FIX3yw) | [Apple Music](https://music.apple.com/us/artist/sealife/286570592) | [Bandcamp](https://sseeaalliiffee.bandcamp.com/) | [Deezer](https://www.deezer.com/us/artist/50583972)
 
 ### FOLLOW
 
@@ -51,9 +51,9 @@ Are you a radio DJ wanting to play Sealife? [Contact Us](/about) for a free MP3 
 
 ### Press
 
-- [Sounds: Sealife // Breaking Up Together - LeftBankMagazine](https://leftbankmag.com/2018/09/05/sounds-sealife-breaking-up-together/)
-- [Sealife “2 Night Stand”](https://itsnotrecords.com/2018/10/01/sealife-2-night-stand/)
-- [Comeherefloyd](http://comeherefloyd.com/2018/10/415-indie-fascination-messimer-isadora-eden-andrew-lipow-kites-with-lights-destroy-boys/)
-- [[REVIEW] Sealife // Beat Queen (5 Minute Album)](https://leftbankmag.com/2020/09/13/sounds-sealife-beat-queen-5-minute-album/)
-- [Sounds: Sealife // Night Flower [official video]](https://leftbankmag.com/2020/05/19/sounds-sealife-nightflower/)
+- Sounds: Sealife // Breaking Up Together - LeftBankMagazine
+- [Sealife “2 Night Stand”](https://web.archive.org/web/20191118004451/https://itsnotrecords.com/2018/10/01/sealife-2-night-stand/)
+- [Comeherefloyd](https://web.archive.org/web/20181102044717/http://comeherefloyd.com:80/2018/10/415-indie-fascination-messimer-isadora-eden-andrew-lipow-kites-with-lights-destroy-boys/)
+- [[REVIEW] Sealife // Beat Queen (5 Minute Album)](https://web.archive.org/web/20210116143858/https://leftbankmag.com/2020/09/13/sounds-sealife-beat-queen-5-minute-album/)
+- [Sounds: Sealife // Night Flower [official video]](https://web.archive.org/web/20210121181541/https://leftbankmag.com/2020/05/19/sounds-sealife-nightflower/)
 - [Photo story: SWYM, Sealife, Darksoft, Daycones](https://danstunesseattle.com/2018/12/24/photo-story-swym-sealife-darksoft-daycones/)

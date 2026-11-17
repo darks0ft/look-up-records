@@ -13,7 +13,7 @@ Alt-psych rock duo SWYM brings swirling delays, stratospheric reverb, and phase-
 
 ### LISTEN
 
-[Spotify](https://open.spotify.com/artist/70hDlhAk9WX3XPtaCzarlx?si=Dlfe6sP4QLW2HpQ8FIX3yw) | [Apple Music](https://music.apple.com/us/album/strange-hallucinations-ep/1445070341) | [Bandcamp](https://swym.bandcamp.com/) | [Deezer](https://www.deezer.com/us/album/80167242) | [Amazon Music](https://www.amazon.com/gp/product/B07KYVLVWK) | [YouTube](https://music.youtube.com/channel/UCtVp_ZyJAt1V-GO6tLDZwOg)
+[Spotify](https://open.spotify.com/artist/0zEVFsgknDLxViwtwczNkE) | [Apple Music](https://music.apple.com/us/artist/swym/1330665433) | [Bandcamp](https://swym.bandcamp.com/) | [Amazon Music](https://www.amazon.com/gp/product/B07KYVLVWK) | [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kHslJZ68i_buc2q5Oia_Yz1JBr7dnY6wI)
 
 ### FOLLOW
 

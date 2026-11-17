@@ -31,6 +31,6 @@ The album is released with an awesome lo-fi video for '[**Nashua Watershed**](ht
 
 ### Listen to State Birds
 
-<p class="buttons"><a class="button" href="https://open.spotify.com/album/45KV3qQeGSCTAbY4MtILcq?si=qNQvqf0NT8uvjxYEATjcWg">Spotify</a> <a class="button" href="https://www.youtube.com/watch?v=mHscyAfVY_A&list=OLAK5uy_kow0vVpFq_6JPUvI0xv-jWE2Kkx3g4L3c&ab_channel=StateBirds-Topic">YouTube</a> <a class="button" href="https://statebirdsmusic.bandcamp.com/album/state-birds">Bandcamp</a> <a class="button" href="https://music.apple.com/us/album/state-birds/1778851162">Apple Music</a></p>
+<p class="buttons"><a class="button" href="https://open.spotify.com/album/45KV3qQeGSCTAbY4MtILcq?si=qNQvqf0NT8uvjxYEATjcWg">Spotify</a> <a class="button" href="https://www.youtube.com/watch?v=mHscyAfVY_A&list=OLAK5uy_kow0vVpFq_6JPUvI0xv-jWE2Kkx3g4L3c&ab_channel=StateBirds-Topic">YouTube</a> <a class="button" href="https://statebirds.bandcamp.com/album/state-birds">Bandcamp</a> <a class="button" href="https://music.apple.com/us/album/state-birds/1778851162">Apple Music</a></p>
 
 ![State Birds Profile picture](/assets/img/state-birds-profile-picture-f9e6c3.webp)

@@ -9,7 +9,7 @@ image: /assets/img/film-photo-square-f9b4cf.webp
 
 ### Listen
 
-[Spotify](https://open.spotify.com/artist/1Txs9MqxrFGGQpS4j5iFdu?si=54d24c6ce9504453) | [Apple Music](https://apple.co/3bup6De) | [Bandcamp](https://elephantsanddogs.bandcamp.com/album/you-wont-be-seeing-me-around) | [Deezer](https://www.deezer.com/us/album/204341112) | [Amazon Music](https://www.amazon.com/gp/product/B08VJJJWWB/ref=dm_ws_sp_ps_dp) | [YouTube](https://youtu.be/kfsCTMlKSQA)
+[Spotify](https://open.spotify.com/artist/1Txs9MqxrFGGQpS4j5iFdu?si=54d24c6ce9504453) | [Apple Music](https://music.apple.com/us/artist/elephants-and-dogs/1551639893) | [Bandcamp](https://elephantsanddogs.bandcamp.com/album/you-wont-be-seeing-me-around) | [Deezer](https://www.deezer.com/us/album/204341112) | [Amazon Music](https://www.amazon.com/gp/product/B08VJJJWWB/ref=dm_ws_sp_ps_dp) | [YouTube](https://youtu.be/kfsCTMlKSQA)
 
 
 Led by Joe Narducci of Toronto, Elephants and Dogs is a syrupy trip of saturated melodies and chill dream pop arrangements.

@@ -27,7 +27,7 @@ The Darksoft Everydayness Tour will visit Philadelphia, Buffalo, Akron, Chicago,
 | 8/15 | Chicago, IL | [Reggie’s Music Joint](https://www.reggieslive.com/show/darksoft/) | [**Buy tickets**](https://www.reggieslive.com/show/darksoft/) |
 | 8/16 | Cincinnati, OH | [Feel It Record Shop](https://www.feelitrecordshop.com/) | Tickets available at the door |
 | 9/3 | Portland, ME | [SPACE](https://space538.org/event/darksoft-cigarettes-for-breakfast-crystal-canyon-xo-2026/) | [**Buy tickets**](https://space538.org/event/darksoft-cigarettes-for-breakfast-crystal-canyon-xo-2026/) |
-| 9/4 | Boston, MA | [O’Brien’s Pub](https://obrienspubboston.com/show/the-dreamtoday-crystal-canyon-darksoft-the-shallows/) | [**Buy tickets**](https://obrienspubboston.com/show/the-dreamtoday-crystal-canyon-darksoft-the-shallows/) |
+| 9/4 | Boston, MA | [O’Brien’s Pub](https://web.archive.org/web/20260722102944/https://obrienspubboston.com/show/the-dreamtoday-crystal-canyon-darksoft-the-shallows/) | [**Buy tickets**](https://web.archive.org/web/20260722102944/https://obrienspubboston.com/show/the-dreamtoday-crystal-canyon-darksoft-the-shallows/) |
 
 ## Darksoft Returns to Chicago
 

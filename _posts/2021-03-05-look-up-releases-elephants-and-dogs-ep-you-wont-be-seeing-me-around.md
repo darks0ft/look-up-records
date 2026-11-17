@@ -17,7 +17,7 @@ squarespace_id: 60415605ef754e3c31e2dfcd
 
 Announcing the release of the debut EP "**You Won't Be Seeing Me Around**" by Elephants and Dogs. We hope you enjoy this 12 minute trip of new tunes and consider supporting the label and artist by purchasing a digital download on [Bandcamp](https://elephantsanddogs.bandcamp.com/album/you-wont-be-seeing-me-around).
 
-It’s also streamable on [Spotify](https://open.spotify.com/album/52EMruKJkf2uaeNYQkSKS2?si=3poH89ayQW-L_1GXbDGCrA), [Apple Music](https://music.apple.com/us/album/you-wont-be-seeing-me-around-ep/1551639892), [YouTube](https://youtu.be/kfsCTMlKSQA), and most music services.
+It’s also streamable on [Spotify](https://open.spotify.com/album/52EMruKJkf2uaeNYQkSKS2?si=3poH89ayQW-L_1GXbDGCrA), [Apple Music](https://music.apple.com/us/album/you-wont-be-seeing-me-around-ep/1800565657), [YouTube](https://youtu.be/kfsCTMlKSQA), and most music services.
 
 Credit where credit is due:
 
