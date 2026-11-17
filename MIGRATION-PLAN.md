@@ -63,8 +63,7 @@ GitHub Pages redirects are `jekyll-redirect-from` meta-refresh pages with a cano
 - [ ] Search Console: submit `https://www.look-up-records.com/sitemap.xml`. The Squarespace site plan is already cancelled (expires Nov 22); the domain stays.
 
 ## Open items found in Phase 1
-- **Test on real GitHub Pages first:** `/blog` (from `blog.html`) next to the `blog/` folder of posts, and the same for `/catalog`, `/darksoft`, `/sealife` and `/swym`. The local server redirects `/blog` to `/blog/`. If GitHub Pages does the same, fall back to serving index pages from `<dir>/index.html` and accept the 301 to a trailing slash.
-- Test the `+` in tag URLs and the case-alias stubs on GitHub Pages (both only happen on its case-sensitive build).
+- Resolved on GitHub Pages (2026-11-17): `/blog`, `/catalog` and the artist pages serve without a slash redirect; `+` tag URLs and the case-alias stubs work. Trailing-slash variants (`/darksoft/`), which Squarespace served, are sent to the slash-less URL by the 404 page.
 - The Mailchimp tag ID for Look Up signups is in `_data/newsletter.yml` (TODO).
 - Dropped during conversion: 22 SubmitHub widgets, 3 dead store product blocks, 1 audio player, 1 Spotify "follow" button.
 - RSS: Squarespace's `/blog?format=rss` can't be reproduced, because GitHub Pages ignores query strings. The new feed is `/feed.xml`.
