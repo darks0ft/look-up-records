@@ -25,4 +25,4 @@ When you hit the 1:40 mark of the track, it places you directly inside of a rock
 
 The full-course 59 minutes of the album is for fans of introversion and extroversion in all shapes and forms, soundtracking the listener in any direction they’re going. No matter where you’re headed, Mirror Box will take you there.
 
-<figure><img src="/assets/img/odu0k5shobaf0vqyzncq-330e10.webp" alt="" loading="lazy"><figcaption>SWYM See SWYM at Look Up Fest 2018!</figcaption></figure>
+<figure><img src="/assets/img/odu0k5shobaf0vqyzncq-330e10.webp" alt="" loading="lazy"><figcaption><strong>SWYM</strong> — See SWYM at Look Up Fest 2018!</figcaption></figure>

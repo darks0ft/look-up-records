@@ -31,4 +31,4 @@ Meanwhile, *Rainier* pushes back into the torments of missing a former love. My 
 
 With these two singles out, it is safe to anticipate *You’re A Shooting Star, I’m A Sinking Ship* to be as immensely haunting and other-worldly as her other releases while packing even more of a storm. I’ve always been struck by her ability to take the wondrous Pacific Northwest scenery - mist, clouds and mountains - and intertwine it seamlessly with the heavy weight of being human and the range of emotion that comes with it. With *Go* and *Rainier*, I am in awe, yet again, of her ability to extract the painful and burdensome parts of being alive and synthesize it into a heavenly creation.
 
-<figure><img src="/assets/img/whitney-ballen-340393.webp" alt="whitney ballen" loading="lazy"><figcaption>Whitney Ballen Catch Whitney Ballen and her band playing at Look Up Fest 2018!</figcaption></figure>
+<figure><img src="/assets/img/whitney-ballen-340393.webp" alt="whitney ballen" loading="lazy"><figcaption><strong>Whitney Ballen</strong> — Catch Whitney Ballen and her band playing at Look Up Fest 2018!</figcaption></figure>

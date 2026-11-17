@@ -1,10 +1,13 @@
 ---
 title: Strange Hallucinations
-year: 2018
 artist: SWYM
+artist_key: swym
+release_date: '2018-12-17'
+year: 2018
+format: EP
+catalog_no: LUR-008
 image: /assets/img/swym-3000x3000-f37010.webp
-artist_page: null
-external_link: https://www.look-up-records.com/swym/strange-hallucinations
+spotify: https://open.spotify.com/track/2cGBK2Eysm5XX7bO8JybVn
+announcement: /blog/look-up-releases-swym-single-strange-hallucinations
 permalink: /catalog/swym/strange-hallucinations
-order: 10
 ---

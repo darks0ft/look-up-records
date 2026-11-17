@@ -28,7 +28,7 @@ The EP also pairs spacey guitar ambience with groovy vocal melodies, in “Where
 
 You can drown yourself in psychedelic beats by Jackdaw on Bandcamp, Spotify, and Apple Music. You can also check them out live at Chop Suey on January 27th with Tents and Eastern Souvenirs, and at Base on March 9th for the Look Up Fest: Underwater.
 
-<figure><img src="/assets/img/peyote-ugly-lufu-c51f02.webp" alt="peyote ugly lufu" loading="lazy"><figcaption>Peyote Ugly Catch them at LUFU!</figcaption></figure>
+<figure><img src="/assets/img/peyote-ugly-lufu-c51f02.webp" alt="peyote ugly lufu" loading="lazy"><figcaption><strong>Peyote Ugly</strong> — Catch them at LUFU!</figcaption></figure>
 
 * * *
 

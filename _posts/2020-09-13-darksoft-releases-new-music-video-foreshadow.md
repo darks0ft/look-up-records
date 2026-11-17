@@ -32,7 +32,7 @@ In Foreshadow, Darksoft crashes on an alien world and finds his way to the Darks
 
 *- Darksoft*
 
-<figure><a href="https://darks0ft.bandcamp.com/album/meltdown"><img src="/assets/img/meltdown-artwork-e7ae44.webp" alt="Meltdown Artwork" loading="lazy"></a><figcaption>Pre-Order ‘Meltdown’ Cyber download Darksoft’s sophomore album for special surprises <a href="https://darks0ft.bandcamp.com/album/meltdown">Pre-Order Album on Bandcamp</a></figcaption></figure>
+<figure><a href="https://darks0ft.bandcamp.com/album/meltdown"><img src="/assets/img/meltdown-artwork-e7ae44.webp" alt="Meltdown Artwork" loading="lazy"></a><figcaption><strong>Pre-Order ‘Meltdown’</strong> — Cyber download Darksoft’s sophomore album for special surprises <a href="https://darks0ft.bandcamp.com/album/meltdown">Pre-Order Album on Bandcamp</a></figcaption></figure>
 
 ### Listen to Foreshadow:
 

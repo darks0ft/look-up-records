@@ -1,14 +1,37 @@
 <footer class="site-footer">
-  <section class="signup">
-    <h2>Get the newsletter</h2>
-    <p>New releases, shows, and label news.</p>
-    {% include newsletter-form.html %}
-  </section>
-  <nav aria-label="Footer">
-    <a href="/about">About</a>
-    <a href="/code-of-conduct">Code of Conduct</a>
-    <a href="/feed.xml">RSS</a>
-    {% for link in site.social.links %}<a href="{{ link }}" rel="me">{{ link | split: '//' | last | split: '/' | first | remove: 'www.' | remove: '.com' }}</a>{% endfor %}
-  </nav>
-  <p class="small">© {{ 'now' | date: '%Y' }} Look Up Records</p>
+  <div class="wrap">
+    <div class="footer-grid">
+      <section>
+        <h2>Get the newsletter</h2>
+        <p class="small">New releases, shows, and the occasional sighting. No spam.</p>
+        {% include newsletter-form.html form_class="signup-form" button_class="button solid" %}
+      </section>
+      <section>
+        <p class="kicker">The label</p>
+        <ul>
+          <li><a href="/catalog">Catalog</a></li>
+          <li><a href="/artists">Artists</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/look-up-fest">Look Up Fest</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/code-of-conduct">Code of Conduct</a></li>
+        </ul>
+      </section>
+      <section>
+        <p class="kicker">Elsewhere</p>
+        <ul>
+          <li><a href="https://lookuprecords.bandcamp.com/">Bandcamp</a></li>
+          <li><a href="https://open.spotify.com/playlist/49RDluP18DORLrsmO2V1nn">Best of Look Up (Spotify)</a></li>
+          <li><a href="https://instagram.com/lookuprecords" rel="me">Instagram</a></li>
+          <li><a href="https://www.youtube.com/channel/UC7Hn_oSyFW5kEDanuKYoTgg" rel="me">YouTube</a></li>
+          <li><a href="https://soundcloud.com/lookuprecords" rel="me">SoundCloud</a></li>
+          <li><a href="/feed.xml">RSS feed</a></li>
+        </ul>
+      </section>
+    </div>
+    <div class="colophon meta">
+      <span>© 2017–{{ site.time | date: '%Y' }} Look Up Records · Seattle → Portland, Maine</span>
+      <a href="https://www.darksoft.band">Run by Darksoft</a>
+    </div>
+  </div>
 </footer>

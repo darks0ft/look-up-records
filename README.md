@@ -29,7 +29,7 @@ Source for **https://www.look-up-records.com**, a static Jekyll site for GitHub 
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -r scripts/requirements.txt
-.venv/bin/python -I scripts/convert/convert.py archive/ .
+.venv/bin/python -I scripts/convert/convert.py archive/ . --force   # overwrites hand edits!
 .venv/bin/python -I scripts/convert/images.py
 ```
 

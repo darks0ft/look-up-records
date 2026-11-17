@@ -2,14 +2,37 @@
 layout: default
 title: Artists
 permalink: /artists
-description: The Look Up Records roster.
+description: The Look Up Records roster, past and present.
 ---
-<section class="artists">
-  <h1>Artists</h1>
-  {% for a in site.data.artists %}
-  <article class="artist" id="{{ a.key }}">
-    <h2>{% if a.page %}<a href="{{ a.page }}">{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}</h2>
-    {{ a.blurb | markdownify }}
-  </article>
+{%- assign current = site.data.artists | where: "status", "current" -%}
+{%- assign alumni = site.data.artists | where: "status", "alumni" -%}
+<div class="wrap">
+  <header class="page-head measure">
+    <p class="kicker">The roster</p>
+    <h1>Artists</h1>
+    <p class="lede">The musicians Look Up Records has released, recorded, and championed since 2017.</p>
+  </header>
+  {% for group in (1..2) %}
+  {% if group == 1 %}{% assign list = current %}{% assign heading = "Current" %}{% else %}{% assign list = alumni %}{% assign heading = "Alumni" %}{% endif %}
+  <section class="section">
+    <div class="section-head"><h2>{{ heading }}</h2></div>
+    {% for a in list %}
+    {%- assign link = a.page | default: a.post -%}
+    {%- assign count = site.releases | where: "artist_key", a.key | size -%}
+    <article class="artist-card" id="{{ a.key }}">
+      <a href="{{ link }}" tabindex="-1" aria-hidden="true"><img src="{{ a.image }}" alt="" loading="lazy" width="300" height="300"></a>
+      <div>
+        <p class="kicker">{{ a.genre }}{% if a.location %} · {{ a.location }}{% endif %}{% if count > 0 %} · {{ count }} release{% if count > 1 %}s{% endif %}{% endif %}</p>
+        <h2><a href="{{ link }}">{{ a.name }}</a></h2>
+        <p>{{ a.blurb }}</p>
+        <p class="buttons" style="margin:.4rem 0 0">
+          <a class="button" href="{{ link }}">{% if a.page %}Artist page{% else %}Read more{% endif %}</a>
+          {% if a.bandcamp %}<a class="button" href="{{ a.bandcamp }}">Bandcamp</a>{% endif %}
+          {% if a.spotify %}<a class="button" href="{{ a.spotify }}">Spotify</a>{% endif %}
+        </p>
+      </div>
+    </article>
+    {% endfor %}
+  </section>
   {% endfor %}
-</section>
+</div>

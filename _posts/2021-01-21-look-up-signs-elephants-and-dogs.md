@@ -23,4 +23,4 @@ The music is everything Look Up, just perfect for the label. We’re stoked to s
 
 Until then, please follow **@dogselephants** on [Instagram](https://www.instagram.com/dogselephants/), [Twitter](https://twitter.com/dogselephants), and/or [Facebook](https://www.facebook.com/DogsElephants/), and make them feel welcome in our strange new world. 👽💚🖤
 
-<figure><img src="/assets/img/use-4-crop-7186e6.webp" alt="USE 4 CROP" loading="lazy"><figcaption>Elephants and Dogs New Look Up artist. EP ‘You Won’t Be Seeing Me Around’ out soon.</figcaption></figure>
+<figure><img src="/assets/img/use-4-crop-7186e6.webp" alt="USE 4 CROP" loading="lazy"><figcaption><strong>Elephants and Dogs</strong> — New Look Up artist. EP ‘You Won’t Be Seeing Me Around’ out soon.</figcaption></figure>

@@ -42,4 +42,4 @@ A strong first encounter with VSTRS.
 
 Are you *visited*?
 
-<figure><a href="https://visitorsarehere.bandcamp.com/"><img src="/assets/img/vstrs-live-78dc1a.webp" alt="vstrs live" loading="lazy"></a><figcaption>VSTRS Detroit quintet VSTRS recently released their second LP - Pandemonium Seesaw. <a href="https://visitorsarehere.bandcamp.com/">Bandcamp</a> | <a href="https://visitorsarehere.bandcamp.com/">Facebook</a></figcaption></figure>
+<figure><a href="https://visitorsarehere.bandcamp.com/"><img src="/assets/img/vstrs-live-78dc1a.webp" alt="vstrs live" loading="lazy"></a><figcaption><strong>VSTRS</strong> — Detroit quintet VSTRS recently released their second LP - Pandemonium Seesaw. <a href="https://visitorsarehere.bandcamp.com/">Bandcamp</a> | <a href="https://visitorsarehere.bandcamp.com/">Facebook</a></figcaption></figure>

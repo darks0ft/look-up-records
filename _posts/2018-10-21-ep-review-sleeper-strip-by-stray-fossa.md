@@ -63,7 +63,7 @@ I think my only critique is that at times it feels a bit reserved. For artistry�
 
 That being said, for the lush sound Stray Fossa has crafted, it’s an excellent product and the band should be happy to have released it and regrouped. Thanks for sharing this gem with us!
 
-<figure><img src="/assets/img/stray-fossa-sleeper-strip-cdbebb.webp" alt="Stray Fossa Sleeper Strip" loading="lazy"><figcaption>Stray Fossa Sleeper Strip, a new 3-song EP.</figcaption></figure>
+<figure><img src="/assets/img/stray-fossa-sleeper-strip-cdbebb.webp" alt="Stray Fossa Sleeper Strip" loading="lazy"><figcaption><strong>Stray Fossa</strong> — Sleeper Strip, a new 3-song EP.</figcaption></figure>
 
 * * *
 

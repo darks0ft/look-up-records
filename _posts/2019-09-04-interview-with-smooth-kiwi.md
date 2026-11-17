@@ -31,7 +31,7 @@ Our set at Mars Look Up Fest will feature some of the new material we've been wo
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/playlist/1qFoOoG5BXuKqOFrHhQSnp" title="Spotify playlist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/smooth-kiwi-77789b.webp" alt="SMOOTH KIWI" loading="lazy"><figcaption>Smooth Kiwi Catch Smooth Kiwi at Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/smooth-kiwi-77789b.webp" alt="SMOOTH KIWI" loading="lazy"><figcaption><strong>Smooth Kiwi</strong> — Catch Smooth Kiwi at Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

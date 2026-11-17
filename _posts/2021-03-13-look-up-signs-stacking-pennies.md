@@ -25,4 +25,4 @@ More to come updates soon.
 
 👽💚🖤
 
-<figure><img src="/assets/img/costa-rica-comic-61e1b5.webp" alt="Costa Rica Comic" loading="lazy"><figcaption>stacking pennies Look Up Records to present new stacking pennies album this year.</figcaption></figure>
+<figure><img src="/assets/img/costa-rica-comic-61e1b5.webp" alt="Costa Rica Comic" loading="lazy"><figcaption><strong>stacking pennies</strong> — Look Up Records to present new stacking pennies album this year.</figcaption></figure>

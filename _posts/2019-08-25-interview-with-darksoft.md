@@ -31,7 +31,7 @@ At Mars we’ll debut a music video for Wannacry. I partnered with Collin Snider
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/5pD33SUgX5GQ8NvqZ6IdeE" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/darksoft-91e0ed.webp" alt="DARKSOFT" loading="lazy"><figcaption>Darksoft Catch Darksoft at Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/darksoft-91e0ed.webp" alt="DARKSOFT" loading="lazy"><figcaption><strong>Darksoft</strong> — Catch Darksoft at Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

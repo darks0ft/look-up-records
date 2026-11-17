@@ -27,7 +27,7 @@ BANADU is an indie electro project from Seattle, WA. specializing in indie-elect
 
 <figure><img src="/assets/img/casios-5092b5.webp" alt="casios" loading="lazy"><figcaption>Written and Produced by BANADU. Feat. Pure Mood. Mixed by Mathieu Riede of L453RL4Dy Studios. Mastered by Joza.</figcaption></figure>
 
-<figure><img src="/assets/img/profile-504739.webp" alt="PROFILE" loading="lazy"><figcaption>BANADU New single released by Look Up Records</figcaption></figure>
+<figure><img src="/assets/img/profile-504739.webp" alt="PROFILE" loading="lazy"><figcaption><strong>BANADU</strong> — New single released by Look Up Records</figcaption></figure>
 
 * * *
 

@@ -23,4 +23,4 @@ Save the date for listening to this 5-track, syrupy trip of saturated melodies a
 
 Until then, please follow **@dogselephants** on [Instagram](https://www.instagram.com/dogselephants/), [Twitter](https://twitter.com/dogselephants), and/or [Facebook](https://www.facebook.com/DogsElephants/), and make them feel welcome in the vast void of weirdness. 👽💚🖤
 
-<figure><img src="/assets/img/really-like-5bd106.webp" alt="REALLY LIKE" loading="lazy"><figcaption>Elephants and Dogs New Look Up artist. EP ‘You Won’t Be Seeing Me Around’ out March 5th, 2021.</figcaption></figure>
+<figure><img src="/assets/img/really-like-5bd106.webp" alt="REALLY LIKE" loading="lazy"><figcaption><strong>Elephants and Dogs</strong> — New Look Up artist. EP ‘You Won’t Be Seeing Me Around’ out March 5th, 2021.</figcaption></figure>

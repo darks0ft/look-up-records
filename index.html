@@ -1,0 +1,94 @@
+---
+layout: default
+title: Look Up Records
+permalink: /
+description: Look Up Records is an independent record label founded in Seattle in 2017 and now based in Portland, Maine. Dream pop, shoegaze, psych, and folk releases, reviews, and the Look Up Fest archive.
+---
+{%- assign releases = site.releases | sort: "release_date", "first" | reverse -%}
+{%- assign latest = releases | first -%}
+{%- assign latest_artist = site.data.artists | where: "key", latest.artist_key | first -%}
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="kicker">Independent record label · Seattle → Portland, Maine · Since 2017</p>
+      <h1>Good music from <em>the underground</em>.</h1>
+      <p class="lede">Look Up Records is a boutique label and blog run by Darksoft. We release dream pop, shoegaze, psych and folk records, write about the music we love, and help musicians with their craft.</p>
+    </div>
+    {% include newsletter-box.html title="Join the newsletter" %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap feature">
+    <a href="{{ latest.url }}" aria-hidden="true" tabindex="-1"><img class="cover" src="{{ latest.image }}" alt="" width="640" height="640"></a>
+    <div>
+      <p class="kicker">Latest release · {{ latest.release_date | date: "%B %-d, %Y" }}</p>
+      <h3><a href="{{ latest.url }}">{{ latest.title }}</a></h3>
+      <p class="artist">{{ latest.artist }}{% if latest.format %} <span class="meta">· {{ latest.format }}</span>{% endif %}</p>
+      {% if latest_artist %}<p>{{ latest_artist.blurb }}</p>{% endif %}
+      <p class="buttons">
+        {% if latest.bandcamp %}<a class="button solid" href="{{ latest.bandcamp }}">Bandcamp</a>{% endif %}
+        {% if latest.spotify %}<a class="button" href="{{ latest.spotify }}">Spotify</a>{% endif %}
+        {% if latest.vinyl_cd %}<a class="button" href="{{ latest.vinyl_cd }}">Vinyl &amp; CD</a>{% endif %}
+        {% if latest.announcement %}<a class="button" href="{{ latest.announcement }}">Read more</a>{% endif %}
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><h2>From the catalog</h2><a href="/catalog">All {{ releases.size }} releases →</a></div>
+    <ul class="catalog-list">
+      {% for r in releases offset: 1 limit: 8 %}{% include catalog-row.html release=r %}{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><h2>From the blog</h2><a href="/blog">All posts →</a></div>
+    <div class="post-grid">
+      {% for p in site.posts limit: 6 %}{% include post-item.html post=p %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><h2>Artists</h2><a href="/artists">The roster →</a></div>
+    <ul class="roster">
+      {% for a in site.data.artists %}
+      <li><a href="{{ a.page | default: a.post }}"><img src="{{ a.image }}" alt="" loading="lazy" width="300" height="300"><strong>{{ a.name }}</strong><span>{{ a.genre }}</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><h2>Look Up Fest</h2><a href="/look-up-fest">The archive →</a></div>
+    <p class="measure">From 2018 to 2022, Look Up Fest was Seattle's lodge for high strangeness: one-day mini music festivals with psychedelic dream pop bands, multimedia art, and paranormal themes.</p>
+    <ul class="fests">
+      {% for f in site.data.fests %}
+      <li><a href="{{ f.url }}"><img src="{{ f.image }}" alt="" loading="lazy" width="400" height="300"><strong>{{ f.name }}</strong><span class="meta">{{ f.date | date: "%b %-d, %Y" }} · {{ f.venue | split: "," | first }}</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><h2>Tools we use</h2></div>
+    <p class="measure">Services and people we've worked with and recommend to other musicians. Some are referral links that help support the label.</p>
+    {% include tools.html style="grid" %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap measure">
+    <div class="section-head"><h2>Best of Look Up</h2></div>
+    <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/playlist/49RDluP18DORLrsmO2V1nn" title="Best of Look Up Records playlist on Spotify" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
+  </div>
+</section>

@@ -28,4 +28,4 @@ Despite the blankets of sound, the melodic catch in *Get High* is enough to reel
 
 R.I.Y.L. Chapterhouse, Slowdive, My Bloody Valentine, Ride, Swirlies
 
-<figure><img src="/assets/img/tender-age-band-shot-fd710b.webp" alt="tender age band shot" loading="lazy"><figcaption>Tender Age Shoegaze band from Portland, OR.</figcaption></figure>
+<figure><img src="/assets/img/tender-age-band-shot-fd710b.webp" alt="tender age band shot" loading="lazy"><figcaption><strong>Tender Age</strong> — Shoegaze band from Portland, OR.</figcaption></figure>

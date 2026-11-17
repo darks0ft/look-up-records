@@ -1,0 +1,12 @@
+{%- comment -%} "Tools we use" (referrals). include.style: "list" (sidebar) or "grid" (homepage) {%- endcomment -%}
+<ul class="{% if include.style == 'grid' %}tool-grid{% else %}tools{% endif %}">
+  {% for t in site.data.referrals %}
+  <li>
+    <img src="{{ t.image }}" alt="" loading="lazy" width="48" height="48">
+    <div>
+      <a href="{{ t.url }}"{% unless t.url contains "mailto:" %} rel="sponsored noopener"{% endunless %}>{{ t.name }}</a>
+      <p>{{ t.note }}{% if t.code %} Code <span class="code">{{ t.code }}</span> for {{ t.code_note }}.{% endif %}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

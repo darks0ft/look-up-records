@@ -39,6 +39,6 @@ You can see stacking pennies performing in the Denver area and beyond in the not
 
 <div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/FGJVmEbblKo" title="YouTube embed" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<figure><img src="/assets/img/costa-rica-comic-61e1b5.webp" alt="Costa Rica Comic" loading="lazy"><figcaption>stacking pennies Slowgazy ‘with good friends’ released May 7, 2021.</figcaption></figure>
+<figure><img src="/assets/img/costa-rica-comic-61e1b5.webp" alt="Costa Rica Comic" loading="lazy"><figcaption><strong>stacking pennies</strong> — Slowgazy ‘with good friends’ released May 7, 2021.</figcaption></figure>
 
 <div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/CGClJVlrBX8" title="YouTube embed" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

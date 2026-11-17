@@ -31,7 +31,7 @@ A lotta new stuff! Something like 15 songs in 30 min? Just me n my guitar + some
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/70hDlhAk9WX3XPtaCzarlx" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/sealife-e5a30b.webp" alt="SEALIFE" loading="lazy"><figcaption>Sealife Catch Sealife at Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/sealife-e5a30b.webp" alt="SEALIFE" loading="lazy"><figcaption><strong>Sealife</strong> — Catch Sealife at Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

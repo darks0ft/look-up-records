@@ -21,7 +21,7 @@ Dreamy and lush atmospheric harmonies and soundscapes get swallowed up in swirli
 
 Following self released album Mirror Box, in November of 2017, SWYM has been praised for their ability to deliver a dream like journey and smart production choices.
 
-<figure><img src="/assets/img/ovfs4zm4gvsyiobnmcd1-994317.webp" alt="" loading="lazy"><figcaption>SWYM Strange Hallucinations, releases on 12/17. Hear it at the release show at The Sunset on 12/17.</figcaption></figure>
+<figure><img src="/assets/img/ovfs4zm4gvsyiobnmcd1-994317.webp" alt="" loading="lazy"><figcaption><strong>SWYM</strong> — Strange Hallucinations, releases on 12/17. Hear it at the release show at The Sunset on 12/17.</figcaption></figure>
 
 * * *
 

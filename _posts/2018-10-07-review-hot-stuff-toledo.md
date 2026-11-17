@@ -29,7 +29,7 @@ A bridge transports the listener, culminating in a bass and guitar duel. *Hot St
 
 > *I’m really excited to see you again….*
 
-<figure><img src="/assets/img/toledo-cover-549547.webp" alt="toledo cover" loading="lazy"><figcaption>TOLEDO An indie pop/rock band led by Daniel Alvarez and Jordan Dunn</figcaption></figure>
+<figure><img src="/assets/img/toledo-cover-549547.webp" alt="toledo cover" loading="lazy"><figcaption><strong>TOLEDO</strong> — An indie pop/rock band led by Daniel Alvarez and Jordan Dunn</figcaption></figure>
 
 * * *
 

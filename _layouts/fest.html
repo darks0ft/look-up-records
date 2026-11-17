@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{%- comment -%} One Look Up Fest edition (archive). Front matter: fest_date. {%- endcomment -%}
+<div class="wrap">
+  <header class="page-head measure">
+    <p class="kicker"><a href="/look-up-fest">Look Up Fest</a> · Archive</p>
+    <h1>{{ page.title }}</h1>
+    <p class="archive-note">This is an archive page. {{ page.title }} happened on {{ page.fest_date | date: "%B %-d, %Y" }}. Ticket and RSVP links below are kept for the record and no longer work.</p>
+  </header>
+  <nav class="term-nav" aria-label="Look Up Fest editions">
+    {% for f in site.data.fests %}<a class="chip"{% if f.url == page.url %} aria-current="page" style="border-color:var(--ink)"{% endif %} href="{{ f.url }}">{{ f.name | remove: "Look Up Fest: " }} · {{ f.date | date: "%Y" }}</a>{% endfor %}
+  </nav>
+  <div class="prose measure">
+    {{ content }}
+  </div>
+</div>

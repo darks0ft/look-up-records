@@ -26,7 +26,7 @@ Perfect music to daydream to, Jupiter Sprites deliver whimsically melodic tunes 
 
 You can enjoy the dreamscape by Jupiter Sprites on Bandcamp, Spotify, and Apple Music. Make sure you catch them with Moon Darling, Peyote Ugly, and others at **Fred Wildlife Refuge** on March 9th for **Look Up Fest: Underwater**.
 
-<figure><img src="/assets/img/jupiter-sprites-1c8395.webp" alt="JUPITER SPRITES" loading="lazy"><figcaption>Jupiter Sprites Catch them at LUFU!</figcaption></figure>
+<figure><img src="/assets/img/jupiter-sprites-1c8395.webp" alt="JUPITER SPRITES" loading="lazy"><figcaption><strong>Jupiter Sprites</strong> — Catch them at LUFU!</figcaption></figure>
 
 * * *
 

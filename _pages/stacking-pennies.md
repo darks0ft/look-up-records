@@ -1,18 +1,16 @@
 ---
-layout: page
+layout: artist
 title: Stacking Pennies
+artist_key: stacking-pennies
 permalink: /stacking-pennies
-description: Led by Joe Narducci of Toronto, Elephants and Dogs is a syrupy trip of saturated melodies and chill dream pop arrangements.
-phase1_raw: true
+description: Based out of Denver, Colorado, stacking pennies' beautifully washed-out sound feels like stargazing in the cold breeze.
+image: /assets/img/square-cover-no-text-small-7eea33.webp
 ---
-
-## Stacking Pennies
 
 ### LISTEN
 
 [Spotify](https://open.spotify.com/album/6jUJbMmVMzeWXUH1th8mQv) | [Apple Music](https://music.apple.com/us/album/with-good-friends/1558316912) | [Bandcamp](https://stackingpennies.bandcamp.com/album/with-good-friends) | [Deezer](https://deezer.page.link/EUC24CCYfMKTgmoZA) | [Amazon Music](https://music.amazon.com/albums/B08YX66TKZ?marketplaceId=ATVPDKIKX0DER&musicTerritory=US) | [YouTube](https://youtu.be/CGClJVlrBX8)
 
-![](/assets/img/stacking-pennies-with-good-friends-banner-a6d2bc.webp)
 
 Based out of Denver, Colorado, stacking pennies' beautifully washed-out sound feels like stargazing in the cold breeze.
 

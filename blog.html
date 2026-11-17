@@ -2,12 +2,27 @@
 layout: default
 title: Blog
 permalink: /blog
-description: News, album reviews, interviews, and DIY music advice from Look Up Records.
+description: News, album reviews, interviews, and DIY music advice from Look Up Records, since 2017.
 ---
-<section class="archive">
-  <h1>Blog</h1>
-  <p class="terms">
-    {% for c in site.category_pages %}<a href="{{ c.url }}">{{ c.category }}</a>{% endfor %}
-  </p>
-  {% include post-list.html posts=site.posts %}
-</section>
+{%- assign by_year = site.posts | group_by_exp: "p", "p.date | date: '%Y'" -%}
+<div class="wrap">
+  <header class="archive-head measure">
+    <p class="kicker">The blog</p>
+    <h1>Reviews, releases &amp; DIY advice</h1>
+    <p class="lede">{{ site.posts.size }} posts since 2017: label news, album reviews, interviews, and practical advice for independent musicians.</p>
+    <nav class="term-nav" aria-label="Categories">
+      {% for c in site.category_pages %}<a class="chip" href="{{ c.url }}">{{ c.category }} · {{ site.categories[c.category].size | default: 0 }}</a>{% endfor %}
+    </nav>
+  </header>
+  <div class="with-sidebar">
+    <div>
+      {% for y in by_year %}
+      <section id="y{{ y.name }}">
+        <h2 class="kicker" style="font-size:.8rem;margin:2.4rem 0 .4rem">{{ y.name }}</h2>
+        {% for p in y.items %}{% include post-item.html post=p %}{% endfor %}
+      </section>
+      {% endfor %}
+    </div>
+    {% include sidebar.html %}
+  </div>
+</div>

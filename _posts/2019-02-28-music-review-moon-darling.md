@@ -30,7 +30,7 @@ On their latest release “Soul Pant,” the lead vocalist’s delivery is allur
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/album/48C0Fl8MkcmC1mjQE1JYIg" title="Spotify album" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/moon-darling-802040.webp" alt="MOON DARLING" loading="lazy"><figcaption>Moon Darling Catch them at LUFU!</figcaption></figure>
+<figure><img src="/assets/img/moon-darling-802040.webp" alt="MOON DARLING" loading="lazy"><figcaption><strong>Moon Darling</strong> — Catch them at LUFU!</figcaption></figure>
 
 * * *
 

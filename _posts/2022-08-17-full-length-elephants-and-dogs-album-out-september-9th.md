@@ -25,4 +25,4 @@ Press can [**contact us**](/about) for early listens.
 
 Until then, please follow **@dogselephants** on [Instagram](https://www.instagram.com/dogselephants/), [Twitter](https://twitter.com/dogselephants), and/or [Facebook](https://www.facebook.com/DogsElephants/), and stay turned for further transmissions as the Look Up spaceship traverses new time and space. 👽💚🖤
 
-<figure><img src="/assets/img/elephants-and-dogs-new-photo-1-61e3eb.webp" alt="Elephants and Dogs New Photo 1" loading="lazy"><figcaption>Elephants and Dogs Album ‘Everybody's Smiling Nobody's Happy’ out September 9, 2022.</figcaption></figure>
+<figure><img src="/assets/img/elephants-and-dogs-new-photo-1-61e3eb.webp" alt="Elephants and Dogs New Photo 1" loading="lazy"><figcaption><strong>Elephants and Dogs</strong> — Album ‘Everybody's Smiling Nobody's Happy’ out September 9, 2022.</figcaption></figure>

@@ -27,4 +27,4 @@ The album as a whole gives the listener an experience of otherworldly electronic
 
 You can purchase Ozius by Shimmertraps on [Bandcamp](https://shimmertraps.bandcamp.com/album/ozius), or stream it now on [Spotify](https://open.spotify.com/album/2Pr2wvaLc4mhuipFs4MMRJ). If you are in the Seattle area check out Shimmertraps on September 9th at  Look Up Fest, hosted by Look Up Records at Machine House Brewery in Georgetown Seattle.
 
-<figure><img src="/assets/img/3pml82sdkysbu8je0zu2-3497b6.webp" alt="" loading="lazy"><figcaption>Shimmertraps See Shimmertraps perform at Look Up Fest 2018!</figcaption></figure>
+<figure><img src="/assets/img/3pml82sdkysbu8je0zu2-3497b6.webp" alt="" loading="lazy"><figcaption><strong>Shimmertraps</strong> — See Shimmertraps perform at Look Up Fest 2018!</figcaption></figure>

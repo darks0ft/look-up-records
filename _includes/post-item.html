@@ -1,0 +1,10 @@
+{%- assign p = include.post -%}
+{%- assign a = site.data.authors[p.author] -%}
+<article class="post-item{% unless p.image %} no-image{% endunless %}">
+  <div>
+    <p class="meta"><time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%b %-d, %Y" }}</time>{% if p.categories.size > 0 %} · {{ p.categories | first }}{% endif %}{% if a and p.author != "look-up-records" %} · {{ a.name }}{% endif %}</p>
+    <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+    {% if p.excerpt and include.excerpt != false %}<p>{{ p.excerpt | strip_html | truncatewords: 32 }}</p>{% endif %}
+  </div>
+  {% if p.image %}<a href="{{ p.url }}" tabindex="-1" aria-hidden="true"><img src="{{ p.image }}" alt="" loading="lazy" width="120" height="120"></a>{% endif %}
+</article>

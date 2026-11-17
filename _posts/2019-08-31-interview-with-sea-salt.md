@@ -31,7 +31,7 @@ We are going to be busting out some new songs off the album that we’ve never p
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/5AahDCyki46rJWc8EcxbwM" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/sea-salt-e8f155.webp" alt="SEA SALT" loading="lazy"><figcaption>Sea Salt Catch Sea Salt at Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/sea-salt-e8f155.webp" alt="SEA SALT" loading="lazy"><figcaption><strong>Sea Salt</strong> — Catch Sea Salt at Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

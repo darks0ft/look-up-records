@@ -31,7 +31,7 @@ It’s smack dab in the middle of an 11 week tour so I’m really focused on the
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/7IiH41ymNM437kLg3tUryC" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/scott-yoder-c1275b.webp" alt="SCOTT YODER" loading="lazy"><figcaption>Scott Yoder Catch Scott Yoder headline Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/scott-yoder-c1275b.webp" alt="SCOTT YODER" loading="lazy"><figcaption><strong>Scott Yoder</strong> — Catch Scott Yoder headline Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

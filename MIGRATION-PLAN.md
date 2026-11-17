@@ -51,7 +51,7 @@ GitHub Pages redirects are `jekyll-redirect-from` meta-refresh pages with a cano
 - [x] Images: convert to WebP at about 1600px wide (about 100–150 MB) and rewrite every URL to point to the local copies.
 - [x] `_data/authors.yml` with the 8 bylined writers, plus 14 author names taken from the posts.
 
-### Phase 2: design (1–2 sessions)
+### Phase 2: design ✅ built 2026-11-17 (waiting on your review)
 - Built around the label: home (latest release + news), artists (current and past), catalog/discography with links to listen and buy, a journal (the blog), a Look Up Fest archive (Mars, Portals…), about, code of conduct, and newsletter.
 
 ### Phase 3: URL check and launch (1 session)
@@ -66,3 +66,12 @@ GitHub Pages redirects are `jekyll-redirect-from` meta-refresh pages with a cano
 - The Mailchimp tag ID for Look Up signups is in `_data/newsletter.yml` (TODO).
 - Dropped during conversion: 22 SubmitHub widgets, 3 dead store product blocks, 1 audio player, 1 Spotify "follow" button.
 - RSS: Squarespace's `/blog?format=rss` can't be reproduced, because GitHub Pages ignores query strings. The new feed is `/feed.xml`.
+
+## To confirm after Phase 2
+- **Catalog:** 6 releases were added that the old catalog was missing: A Jazz, Everybody's Smiling Nobody's Happy, Liebe ist Tot, State Birds, Everydayness, and A Mixtape for Martian Colonists. Darksoft's Spirit Goth albums (Grayscale, Rationalism) and the singles taken from albums are left out.
+- **Catalog numbers:** `catalog_no` (LUR-001 to LUR-022) and release dates come from the "LOOK UP RECORDS CATALOG" sheet in Google Drive (ISRC tab). Beat Queen (LUR-012) was added from it. LUR-004 "First Light" and LUR-005 "Lost Time" have no artist or date in the sheet, so they're not on the site.
+- **Still undated:** Banadu & Pure Mood's "Cool Lover" isn't in the sheet. Add `release_date` in `_releases/` if you know it.
+- **Peach Beach:** the sheet lists a one-track single on 2020-03-13; the site keeps the EP date of 2020-05-01.
+- **Links:** the Spotify/Bandcamp links on releases were pulled from each announcement post. Spot-check them.
+- **Homepage copy:** the hero line ("Good music from the underground") and intro are new, written from the About page.
+- The old Squarespace /newsletter page's signup block had no storage set ("needs a storage option"), so it never saved signups.

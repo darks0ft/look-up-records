@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
-{%- assign posts = site.tags[page.tag] | sort: "date" | reverse -%}
-<section class="archive">
-  <p class="kicker"><a href="/blog">Blog</a> · Tag</p>
-  <h1>{{ page.tag }}</h1>
-  {% include post-list.html posts=posts %}
-</section>
+{%- assign posts = site.tags[page.tag] -%}
+<div class="wrap">
+  <header class="archive-head measure">
+    <p class="kicker"><a href="/blog">Blog</a> · Tag</p>
+    <h1>{{ page.tag }}</h1>
+    <p class="meta">{{ posts.size | default: 0 }} post{% if posts.size != 1 %}s{% endif %}</p>
+  </header>
+  <div class="with-sidebar">
+    <div>{% for p in posts %}{% include post-item.html post=p %}{% else %}<p>No posts here yet. <a href="/blog">Browse the blog</a>.</p>{% endfor %}</div>
+    {% include sidebar.html %}
+  </div>
+</div>

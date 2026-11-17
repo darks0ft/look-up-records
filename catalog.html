@@ -2,20 +2,22 @@
 layout: default
 title: Catalog
 permalink: /catalog
-description: Every release on Look Up Records.
+description: Every release on Look Up Records since 2016, from dream pop and shoegaze to psych, folk and dream funk.
 ---
-{%- assign releases = site.releases | sort: "order" -%}
-<section class="catalog">
-  <h1>Catalog</h1>
-  <ul class="grid">
-    {% for r in releases %}
-    <li>
-      <a href="{{ r.url }}">
-        {% if r.image %}<img src="{{ r.image }}" alt="" loading="lazy">{% endif %}
-        <strong>{{ r.title }}</strong>
-        <span>{{ r.artist }}{% if r.year %} · {{ r.year }}{% endif %}</span>
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+{%- assign releases = site.releases | sort: "release_date", "first" | reverse -%}
+{%- assign by_year = releases | group_by: "year" -%}
+<div class="wrap">
+  <header class="page-head measure">
+    <p class="kicker">The catalog</p>
+    <h1>Every release, {{ releases.last.year | default: 2016 }}–{{ releases.first.year }}</h1>
+    <p class="lede">{{ releases.size }} albums, EPs and singles from the Look Up roster, newest first.</p>
+  </header>
+  {% for y in by_year %}
+  <section class="section" style="padding-block: 2rem 1rem">
+    <div class="section-head"><h2>{% if y.name %}{{ y.name }}{% else %}Undated{% endif %}</h2><span class="meta">{{ y.items.size }} release{% if y.items.size > 1 %}s{% endif %}</span></div>
+    <ul class="catalog-list">
+      {% for r in y.items %}{% include catalog-row.html release=r %}{% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+</div>

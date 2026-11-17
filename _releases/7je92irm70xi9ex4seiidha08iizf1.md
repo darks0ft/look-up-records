@@ -1,10 +1,12 @@
 ---
-title: 7Je92Irm70Xi9Ex4Seiidha08Iizf1
-year: null
-artist: null
+title: Good Time
+artist: Banadu feat. Pure Mood
+artist_key: banadu
+release_date: '2019-06-20'
+year: 2019
+format: Single
 image: /assets/img/good-time-artwork-1500px-3d715c.webp
-artist_page: null
-external_link: null
+spotify: https://open.spotify.com/track/09RYZHwayVPPzIJyHxNHLJ
+announcement: /blog/look-up-releases-banadu-single-good-time
 permalink: /catalog/7je92irm70xi9ex4seiidha08iizf1
-order: 15
 ---

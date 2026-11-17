@@ -315,6 +315,12 @@ class Converter:
         cap = content.find("figcaption")
         cap_html = ""
         if cap and cap.get_text(strip=True):
+            # Squarespace captions can have a title and a description: render as "<strong>Title</strong> — description"
+            t = cap.select_one(".image-title")
+            d = cap.select_one(".image-caption, .image-subtitle")
+            if t and t.get_text(strip=True) and d and d.get_text(strip=True):
+                strong = BeautifulSoup(f"<strong>{html.escape(t.get_text(' ', strip=True).rstrip(':').strip())}</strong> — ", "html.parser")
+                t.replace_with(strong)
             cap = self.clean(cap)
             cap_html = "".join(str(c) for c in cap.contents).strip()
             cap_html = re.sub(r"</?(div|p)>", " ", cap_html).strip()

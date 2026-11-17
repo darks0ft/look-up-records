@@ -28,7 +28,7 @@ Listen to SHT GHST on Bandcamp, Spotify, and Apple Music. See SHT GHST headline 
 
 <div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/hDaKq46DuaM" title="YouTube video" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<figure><img src="/assets/img/sht-ghst-lufu-f813c8.webp" alt="SHT GHST LUFU" loading="lazy"><figcaption>SHT GHST Catch them at LUFU!</figcaption></figure>
+<figure><img src="/assets/img/sht-ghst-lufu-f813c8.webp" alt="SHT GHST LUFU" loading="lazy"><figcaption><strong>SHT GHST</strong> — Catch them at LUFU!</figcaption></figure>
 
 * * *
 

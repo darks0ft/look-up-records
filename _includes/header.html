@@ -1,11 +1,21 @@
+{%- assign section = page.url | split: "/" | slice: 1 | first -%}
+{%- if page.collection == "posts" or page.layout == "tag" or page.layout == "category" -%}{%- assign section = "blog" -%}{%- endif -%}
+{%- if page.collection == "releases" -%}{%- assign section = "catalog" -%}{%- endif -%}
+{%- if page.layout == "artist" -%}{%- assign section = "artists" -%}{%- endif -%}
+{%- if page.layout == "fest" -%}{%- assign section = "look-up-fest" -%}{%- endif -%}
 <header class="site-header">
-  <a class="logo" href="/"><img src="/assets/brand/logo.webp" alt="Look Up Records" width="80" height="88"></a>
-  <nav aria-label="Main">
-    <a href="/artists">Artists</a>
-    <a href="/catalog">Catalog</a>
-    <a href="/blog">Blog</a>
-    <a href="/look-up-fest">Look Up Fest</a>
-    <a href="/about">About</a>
-    <a href="/newsletter">Newsletter</a>
-  </nav>
+  <div class="wrap">
+    <a class="brand" href="/">
+      <span class="stamp"><img src="/assets/brand/logo.webp" alt="" width="34" height="38"></span>
+      <span class="name">Look Up Records<small>Independent label · Est. 2017</small></span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="/catalog"{% if section == "catalog" %} aria-current="page"{% endif %}>Catalog</a>
+      <a href="/artists"{% if section == "artists" %} aria-current="page"{% endif %}>Artists</a>
+      <a href="/blog"{% if section == "blog" %} aria-current="page"{% endif %}>Blog</a>
+      <a href="/look-up-fest"{% if section == "look-up-fest" %} aria-current="page"{% endif %}>Look Up Fest</a>
+      <a href="/about"{% if section == "about" %} aria-current="page"{% endif %}>About</a>
+      <a class="nav-cta" href="/newsletter">Newsletter</a>
+    </nav>
+  </div>
 </header>

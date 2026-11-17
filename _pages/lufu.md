@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: fest
 title: 'Look Up Fest: Underwater'
 permalink: /lufu
 image: /assets/img/ascend-banner-3100be.webp
-phase1_raw: true
+fest_date: '2019-03-09'
 ---
 
 <figure><a href="https://www.eventbrite.com/e/look-up-fest-underwater-tickets-52174358912"><img src="/assets/img/look-up-fest-underwater-banner-top-a3348c.webp" alt="Look Up Fest Underwater banner top" loading="lazy"></a></figure>

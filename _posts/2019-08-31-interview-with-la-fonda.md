@@ -31,7 +31,7 @@ We just got done recording our debut album which is set to be released in early 
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/3zP9upuX813FOJ4uxYLQZT" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/lafonda-674c1f.webp" alt="LAFONDA" loading="lazy"><figcaption>La Fonda Catch La Fonda at Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/lafonda-674c1f.webp" alt="LAFONDA" loading="lazy"><figcaption><strong>La Fonda</strong> — Catch La Fonda at Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

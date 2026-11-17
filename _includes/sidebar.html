@@ -1,0 +1,15 @@
+{%- assign releases = site.releases | sort: "release_date", "first" | reverse -%}
+<aside class="sidebar" aria-label="Sidebar">
+  {% include newsletter-box.html %}
+  <section>
+    <p class="kicker">Latest releases</p>
+    <ul class="catalog-list">
+      {% for r in releases limit: 4 %}{% include catalog-row.html release=r %}{% endfor %}
+    </ul>
+    <p class="meta" style="margin-top:.6rem"><a href="/catalog">Full catalog →</a></p>
+  </section>
+  <section>
+    <p class="kicker">Tools we use</p>
+    {% include tools.html %}
+  </section>
+</aside>

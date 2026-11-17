@@ -35,4 +35,4 @@ You can purchase Something Familiar by Hibou on [Bandcamp](https://hiboumichel.b
 
 Hibou will also be headlining [Look Up Fest](/look-up-fest), hosted by Look Up Records, on September 9th at Machine House Brewery in Georgetown Seattle.
 
-<figure><img src="/assets/img/hibou-1e82ff.webp" alt="hibou" loading="lazy"><figcaption>Hibou The owls are among us... hear Hibou hoot at Look Up Fest 2018!</figcaption></figure>
+<figure><img src="/assets/img/hibou-1e82ff.webp" alt="hibou" loading="lazy"><figcaption><strong>Hibou</strong> — The owls are among us... hear Hibou hoot at Look Up Fest 2018!</figcaption></figure>

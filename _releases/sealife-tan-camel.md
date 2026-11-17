@@ -1,10 +1,15 @@
 ---
 title: Tan Camel
-year: 2020
 artist: Sealife
+artist_key: sealife
+release_date: '2020-02-21'
+year: 2020
+format: Album
+catalog_no: LUR-010
 image: /assets/img/tan-camel-3000x3000-27adf0.webp
-artist_page: /sealife
-external_link: null
+bandcamp: https://sseeaalliiffee.bandcamp.com/album/tan-camel
+spotify: https://open.spotify.com/album/4JrxnPIqIAwttII5Pv3aF6
+apple_music: https://music.apple.com/us/album/tan-camel/1496842916
+announcement: /blog/look-up-releases-sealife-album-tan-camel
 permalink: /catalog/sealife/tan-camel
-order: 6
 ---

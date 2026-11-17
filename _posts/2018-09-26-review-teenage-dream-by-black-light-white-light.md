@@ -27,7 +27,7 @@ Avant-garde in the right ways, Teenage Dream delivers aesthetic flair throughout
 
 Those who like the **Temples** or **Holydrug Couple** might find a special place in their heart for Black Light White Light as well.
 
-<figure><img src="/assets/img/blacklight-white-light-teenage-dream-dde48f.webp" alt="blacklight white light teenage dream" loading="lazy"><figcaption>Black Light White Light Teenage Dream is on their new album, Horizons.</figcaption></figure>
+<figure><img src="/assets/img/blacklight-white-light-teenage-dream-dde48f.webp" alt="blacklight white light teenage dream" loading="lazy"><figcaption><strong>Black Light White Light</strong> — Teenage Dream is on their new album, Horizons.</figcaption></figure>
 
 * * *
 

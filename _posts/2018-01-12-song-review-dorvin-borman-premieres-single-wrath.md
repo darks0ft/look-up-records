@@ -30,4 +30,4 @@ At the 2:43 mark, the drums suddenly lurch into reverse and spark an instrumenta
 
 On “Wrath” Borman makes a beautiful dreamy debut, and if this is any indication of what future “cloudy dreamy woozy songs about anxiety” we’ll get to hear from them, we’re all ears.
 
-<figure><a href="https://soundcloud.com/dorvinborman"><img src="/assets/img/dorvin-borman-a32b3d.webp" alt="dorvin borman" loading="lazy"></a><figcaption>Dorvin Borman A 25-year-old multi-instrumentalist, singer, songwriter, and producer based in Los Angeles. <a href="https://soundcloud.com/dorvinborman">Soundcloud</a> | <a href="https://open.spotify.com/artist/4xvECX36u1skZTEAJlzvtr">Spotify</a></figcaption></figure>
+<figure><a href="https://soundcloud.com/dorvinborman"><img src="/assets/img/dorvin-borman-a32b3d.webp" alt="dorvin borman" loading="lazy"></a><figcaption><strong>Dorvin Borman</strong> — A 25-year-old multi-instrumentalist, singer, songwriter, and producer based in Los Angeles. <a href="https://soundcloud.com/dorvinborman">Soundcloud</a> | <a href="https://open.spotify.com/artist/4xvECX36u1skZTEAJlzvtr">Spotify</a></figcaption></figure>

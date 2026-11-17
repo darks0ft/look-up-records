@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{%- comment -%} Artist page. Front matter: artist_key (a key in _data/artists.yml). The page body is the long-form archive (bio, videos, press). {%- endcomment -%}
+{%- assign a = site.data.artists | where: "key", page.artist_key | first -%}
+{%- assign releases = site.releases | where: "artist_key", page.artist_key | sort: "release_date", "first" | reverse -%}
+{%- assign tagged = site.tags[a.name] -%}
+<div class="wrap">
+  <header class="artist-head">
+    <img src="{{ a.image }}" alt="{{ a.name }}" width="600" height="600">
+    <div>
+      <p class="kicker"><a href="/artists">Artists</a> · {{ a.genre }}{% if a.location %} · {{ a.location }}{% endif %}</p>
+      <h1>{{ a.name }}</h1>
+      <p class="lede">{{ a.blurb }}</p>
+      <p class="buttons">
+        {% if a.bandcamp %}<a class="button solid" href="{{ a.bandcamp }}">Bandcamp</a>{% endif %}
+        {% if a.spotify %}<a class="button" href="{{ a.spotify }}">Spotify</a>{% endif %}
+        {% if a.website %}<a class="button" href="{{ a.website }}">Website</a>{% endif %}
+      </p>
+    </div>
+  </header>
+
+  {% if releases.size > 0 %}
+  <section class="section" style="margin-top:3rem">
+    <div class="section-head"><h2>Releases on Look Up</h2></div>
+    <ul class="catalog-list">{% for r in releases %}{% include catalog-row.html release=r %}{% endfor %}</ul>
+  </section>
+  {% endif %}
+
+  {% if tagged and tagged.size > 0 %}
+  <section class="section">
+    <div class="section-head"><h2>On the blog</h2>{% assign tag_page = site.tag_pages | where: "tag", a.name | first %}{% if tag_page %}<a href="{{ tag_page.url }}">All {{ tagged.size }} posts →</a>{% endif %}</div>
+    <div class="post-grid">{% for p in tagged limit: 6 %}{% include post-item.html post=p %}{% endfor %}</div>
+  </section>
+  {% endif %}
+
+  <section class="section">
+    <div class="section-head"><h2>From the archive</h2></div>
+    <div class="prose measure">
+      {{ content }}
+    </div>
+  </section>
+</div>

@@ -1,10 +1,15 @@
 ---
 title: You Won't Be Seeing Me Around
-year: 2021
 artist: Elephants and Dogs
+artist_key: elephants-and-dogs
+release_date: '2021-03-05'
+year: 2021
+format: EP
+catalog_no: LUR-013
 image: /assets/img/elephants-and-dogs-artwork-f8372d.webp
-artist_page: null
-external_link: https://www.look-up-records.com/elephants-and-dogs/you-wont-be-seeing-me-around
+bandcamp: https://elephantsanddogs.bandcamp.com/album/you-wont-be-seeing-me-around
+spotify: https://open.spotify.com/album/52EMruKJkf2uaeNYQkSKS2
+apple_music: https://music.apple.com/us/album/you-wont-be-seeing-me-around-ep/1551639892
+announcement: /blog/look-up-releases-elephants-and-dogs-ep-you-wont-be-seeing-me-around
 permalink: /catalog/elephants-and-dogs/you-wont-be-seeing-me-around
-order: 3
 ---

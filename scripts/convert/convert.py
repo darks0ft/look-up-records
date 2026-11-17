@@ -27,6 +27,9 @@ import yaml
 sys.path.insert(0, str(Path(__file__).parent))
 from sqs import Converter, Images, slugify, text_of  # noqa: E402
 
+if "--force" not in sys.argv:
+    sys.exit("Refusing to run: since Phase 2 the generated files are edited by hand, and this would overwrite them.\n"
+             "Re-run with --force only if you really want to regenerate everything from archive/.")
 ARCH = Path(sys.argv[1]).resolve()
 ROOT = Path(sys.argv[2]).resolve()
 TZ = ZoneInfo("America/Los_Angeles")

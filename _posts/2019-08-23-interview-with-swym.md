@@ -33,7 +33,7 @@ Their faces will melt. Their souls will buzz. Their ears will ring.
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/0zEVFsgknDLxViwtwczNkE" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/swym-6a6515.webp" alt="SWYM" loading="lazy"><figcaption>SWYM Catch SWYM at Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/swym-6a6515.webp" alt="SWYM" loading="lazy"><figcaption><strong>SWYM</strong> — Catch SWYM at Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

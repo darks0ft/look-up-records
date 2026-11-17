@@ -27,4 +27,4 @@ More updates soon.
 
 👽💚🖤
 
-<figure><img src="/assets/img/sightings-2b428d.webp" alt="Sightings" loading="lazy"><figcaption>Sightings Look Up Records to present new Sightings EP on July 2, 2021.</figcaption></figure>
+<figure><img src="/assets/img/sightings-2b428d.webp" alt="Sightings" loading="lazy"><figcaption><strong>Sightings</strong> — Look Up Records to present new Sightings EP on July 2, 2021.</figcaption></figure>

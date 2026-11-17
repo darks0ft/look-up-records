@@ -1,14 +1,11 @@
 ---
-layout: page
+layout: artist
 title: Sealife
+artist_key: sealife
 permalink: /sealife
-description: Sealife brings a love-coated psychedelic pop from Seattle straight to your heart. Sealife, a project led by Brennan Moring, tastefully meshes synth textures, bluesy rock, and folk.
-phase1_raw: true
+description: Sealife, a project led by Brennan Moring, brings love-coated psychedelic pop from Seattle, meshing synth textures, bluesy rock, and folk.
+image: /assets/img/sealife-profile-square-c99f1a.webp
 ---
-
-## SEALIFE
-
-![SEALIFE PROMO PICTURE TAN CAMEL](/assets/img/sealife-promo-picture-tan-camel-44e3b1.webp)
 
 Sealife brings a love-coated psychedelic pop from Seattle straight to your heart. Sealife, a project led by Brennan Moring, tastefully meshes synth textures, bluesy rock, and folk.
 

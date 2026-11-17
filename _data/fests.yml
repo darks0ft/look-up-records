@@ -1,0 +1,21 @@
+# Look Up Fest editions, newest first. Shown on the homepage and the /look-up-fest page.
+- name: "Look Up Fest: Portals"
+  date: 2022-03-12
+  venue: Rendezvous, Belltown, Seattle
+  url: /look-up-fest-portals
+  image: /assets/img/look-up-fest-portals-square-6115d5.webp
+- name: "Look Up Fest: Mars"
+  date: 2019-09-07
+  venue: Substation, Seattle
+  url: /mars
+  image: /assets/img/mars-banner-thin-aff91a.webp
+- name: "Look Up Fest: Underwater"
+  date: 2019-03-09
+  venue: Fred Wildlife Refuge, Seattle
+  url: /lufu
+  image: /assets/img/look-up-underwater-flier-square-1200px-962a99.webp
+- name: Look Up Fest
+  date: 2018-09-09
+  venue: Machine House Brewery, Georgetown, Seattle
+  url: /look-up-fest
+  image: /assets/img/look-up-fest-banner-c4aab4.webp

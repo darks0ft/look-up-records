@@ -1,150 +1,108 @@
-- key: state-birds
-  name: State Birds
-  page: null
-  image: /assets/img/state-birds-small-779ee0.webp
-  teaser_url: /state-birds-teaser
-  blurb: '![State Birds small](/assets/img/state-birds-small-779ee0.webp)
-
-
-    ## State Birds
-
-
-    State Birds is a folk rock project led by DJ Nelson, based in Maine. His debut album features a cast of musicians from Maine and was produced by Darksoft.
-
-
-    <p class="buttons"><a class="button" href="/blog/look-up-releases-state-birds-debut-album">Learn more</a></p>'
-- key: elephants-and-dogs
-  name: Elephants and Dogs
-  page: /elephants-and-dogs
-  image: /assets/img/film-photo-square-f9b4cf.webp
-  teaser_url: /elephants-and-dogs-teaser
-  blurb: '<figure><a href="/elephants-and-dogs"><img src="/assets/img/film-photo-square-f9b4cf.webp" alt="Film Photo Square" loading="lazy"></a></figure>
-
-
-    ## [Elephants and dogs](/elephants-and-dogs)
-
-
-    Led by Joe Narducci of Toronto, Elephants and Dogs is a syrupy trip of saturated melodies and chill dream pop arrangements.
-
-
-    <p class="buttons"><a class="button" href="/elephants-and-dogs">Learn More</a></p>'
-- key: stacking-pennies
-  name: Stacking Pennies
-  page: /stacking-pennies
-  image: /assets/img/square-cover-no-text-small-7eea33.webp
-  teaser_url: /stacking-pennies-teaser
-  blurb: '<figure><a href="/stacking-pennies"><img src="/assets/img/square-cover-no-text-small-7eea33.webp" alt="Square Cover No Text small" loading="lazy"></a></figure>
-
-
-    ## [Stacking Pennies](/stacking-pennies)
-
-
-    Based out of Denver, Colorado, stacking pennies'' beautifully washed-out sound feels like stargazing in the cold breeze.
-
-
-    <p class="buttons"><a class="button" href="/stacking-pennies">Learn More</a></p>'
-- key: andreas-schwarzwald
-  name: Andreas Schwarzwald
-  page: null
-  image: /assets/img/andreas-schwarzwald-profile-photo-c9d9ef.webp
-  teaser_url: /andreas-schwarzwald
-  blurb: '![Andreas Schwarzwald   Profile photo](/assets/img/andreas-schwarzwald-profile-photo-c9d9ef.webp)
-
-
-    ## Andreas Schwarzwald
-
-
-    Masked outsider artist Andreas Schwarzwald presents a haunting synth-pop darkwave EP, ''Liebe ist Tot,'' with songs about love, death, and wounded idealism, all sung in German. Produced by Darksoft.
-
-
-    <p class="buttons"><a class="button" href="/blog/andreas-schwarzwald-debut-ep-liebe-ist-tot">Learn more</a></p>'
+# The Look Up Records roster, in display order (current first, then alumni).
+# key:      matches `artist_key` on releases in _releases/
+# page:     artist page on this site (null if there's no page; `post` is used instead)
+# post:     the best post about the artist when there's no artist page
+# image:    square-ish photo used on /artists and the homepage
+# teaser_url: old Squarespace URL for this artist's teaser (redirects to /artists#key)
 - key: darksoft
   name: Darksoft
+  status: current
+  genre: Dream pop, shoegaze
+  location: Portland, Maine
   page: /darksoft
   image: /assets/img/darksoft-less-is-more-fe7a34.webp
+  website: https://www.darksoft.band
+  bandcamp: https://darks0ft.bandcamp.com/
+  spotify: https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE
   teaser_url: /artists/banadu
-  blurb: '<figure><a href="/darksoft"><img src="/assets/img/darksoft-less-is-more-fe7a34.webp" alt="Darksoft   Less Is More" loading="lazy"></a></figure>
-
-
-    ## [Darksoft](/darksoft)
-
-
-    Darksoft is a multi-instrumentalist songwriter and producer. Darksoft songs blend shoegaze and dream pop elements, using lush melodic progressions, 80s/90s alternative rock undertones, and deftly executed vocals.
-
-
-    <p class="buttons"><a class="button" href="/darksoft">Learn More</a></p>'
-- key: swym
-  name: SWYM
-  page: /swym
-  image: /assets/img/swym-look-up-records-7c6989.webp
-  teaser_url: /swym-teaser
-  blurb: '<figure><a href="/darksoft"><img src="/assets/img/swym-look-up-records-7c6989.webp" alt="SWYM look up records" loading="lazy"></a></figure>
-
-
-    ## [SWYM](/swym)
-
-
-    Alt-psych rock duo SWYM brings swirling delays, stratospheric reverb, and phase-shifted everything. Following a self-produced debut album Mirror Box, Look Up Records added SWYM to the roster with their EP, *Strange Hallucinations*.
-
-
-    <p class="buttons"><a class="button" href="/swym">Learn More</a></p>'
-- key: sealife
-  name: Sealife
-  page: /sealife
-  image: /assets/img/sealife-profile-square-c99f1a.webp
-  teaser_url: /sealife-teaser
-  blurb: '<figure><a href="/sealife"><img src="/assets/img/sealife-profile-square-c99f1a.webp" alt="SEALIFE PROFILE SQUARE" loading="lazy"></a></figure>
-
-
-    ## [SEALIFE](/sealife)
-
-
-    Sealife brings a love-coated psychedelic pop from Seattle straight to your heart. Sealife, a project led by Brennan Moring, tastefully meshes synth textures, bluesy rock, and folk.
-
-
-    <p class="buttons"><a class="button" href="/sealife">Learn More</a></p>'
-- key: banadu
-  name: Banadu
-  page: /banadu
-  image: /assets/img/banadu-profile-c201b6.webp
-  teaser_url: /banadu-teaser
-  blurb: '<figure><a href="/banadu"><img src="/assets/img/banadu-profile-c201b6.webp" alt="BANADU PROFILE" loading="lazy"></a></figure>
-
-
-    ## [BANADU](/banadu)
-
-
-    Banadu uses liquid guitars, funk bass, synth textures, and driving electronic drums for a dancey dream funk vibe.
-
-
-    <p class="buttons"><a class="button" href="/banadu">Learn More</a></p>'
-- key: pure-mood
-  name: Pure Mood
+  blurb: Darksoft is a multi-instrumentalist songwriter and producer. Darksoft songs blend shoegaze and dream pop with lush melodic progressions, 80s/90s alternative rock undertones, and velvety vocals.
+- key: state-birds
+  name: State Birds
+  status: current
+  genre: Folk rock, Midwest emo
+  location: Maine
   page: null
-  image: /assets/img/peach-beach-f5b3dc.webp
-  teaser_url: /pure-mood-teaser
-  blurb: '![PEACH BEACH](/assets/img/peach-beach-f5b3dc.webp)
-
-
-    ## Pure Mood
-
-
-    Pure Mood, the beach goddess of chillness, emerges from the mist alongside Banadu in featured singles.
-
-
-    <p class="buttons"><a class="button" href="/artists#pure-mood">Learn more</a></p>'
+  post: /blog/look-up-releases-state-birds-debut-album
+  image: /assets/img/state-birds-small-779ee0.webp
+  bandcamp: https://statebirdsmusic.bandcamp.com/
+  teaser_url: /state-birds-teaser
+  blurb: State Birds is a folk rock project led by DJ Nelson, based in Maine. The debut album features a cast of Maine musicians and was produced by Darksoft.
+- key: andreas-schwarzwald
+  name: Andreas Schwarzwald
+  status: current
+  genre: Darkwave, synth-pop
+  page: null
+  post: /blog/andreas-schwarzwald-debut-ep-liebe-ist-tot
+  image: /assets/img/andreas-schwarzwald-profile-photo-c9d9ef.webp
+  bandcamp: https://andreasschwarzwald.bandcamp.com/
+  teaser_url: /andreas-schwarzwald
+  blurb: Masked outsider artist Andreas Schwarzwald makes haunting synth-pop darkwave about love, death, and wounded idealism, all sung in German. Produced by Darksoft.
+- key: elephants-and-dogs
+  name: Elephants and Dogs
+  status: alumni
+  genre: Dream pop
+  location: Toronto
+  page: /elephants-and-dogs
+  image: /assets/img/film-photo-square-f9b4cf.webp
+  bandcamp: https://elephantsanddogs.bandcamp.com/
+  spotify: https://open.spotify.com/artist/1Txs9MqxrFGGQpS4j5iFdu
+  teaser_url: /elephants-and-dogs-teaser
+  blurb: Led by Joe Narducci of Toronto, Elephants and Dogs is a syrupy trip of saturated melodies and chill dream pop arrangements.
+- key: stacking-pennies
+  name: stacking pennies
+  status: alumni
+  genre: Lo-fi indie
+  location: Denver, Colorado
+  page: /stacking-pennies
+  image: /assets/img/square-cover-no-text-small-7eea33.webp
+  bandcamp: https://stackingpennies.bandcamp.com/
+  teaser_url: /stacking-pennies-teaser
+  blurb: Based out of Denver, Colorado, stacking pennies' beautifully washed-out sound feels like stargazing in the cold breeze.
 - key: sightings
   name: Sightings
+  status: alumni
+  genre: Jazz, indie pop
   page: /sightings
   image: /assets/img/sightings-1ca88a.webp
+  bandcamp: https://sightingsmusic.bandcamp.com/
   teaser_url: /sightings-teaser
-  blurb: '<figure><a href="/sightings"><img src="/assets/img/sightings-1ca88a.webp" alt="Sightings" loading="lazy"></a></figure>
-
-
-    ## Sightings
-
-
-    Fusing freeform jazz and indie pop, Sightings’ lush instrumental tunes are like a mellow weekend on Mars.
-
-
-    <p class="buttons"><a class="button" href="/sightings">Learn More</a></p>'
+  blurb: Fusing freeform jazz and indie pop, Sightings' lush instrumental tunes are like a mellow weekend on Mars.
+- key: sealife
+  name: Sealife
+  status: alumni
+  genre: Psychedelic pop
+  location: Seattle
+  page: /sealife
+  image: /assets/img/sealife-profile-square-c99f1a.webp
+  bandcamp: https://sseeaalliiffee.bandcamp.com/
+  spotify: https://open.spotify.com/artist/70hDlhAk9WX3XPtaCzarlx
+  teaser_url: /sealife-teaser
+  blurb: Sealife, a project led by Brennan Moring, brings love-coated psychedelic pop from Seattle, meshing synth textures, bluesy rock, and folk.
+- key: swym
+  name: SWYM
+  status: alumni
+  genre: Alt-psych rock
+  page: /swym
+  image: /assets/img/swym-look-up-records-7c6989.webp
+  bandcamp: https://swym.bandcamp.com/
+  teaser_url: /swym-teaser
+  blurb: Alt-psych rock duo SWYM brings swirling delays, stratospheric reverb, and phase-shifted everything.
+- key: banadu
+  name: Banadu
+  status: alumni
+  genre: Dream funk
+  page: /banadu
+  image: /assets/img/banadu-profile-c201b6.webp
+  bandcamp: https://banadu.bandcamp.com/
+  spotify: https://open.spotify.com/artist/4fPkcgyXEB93JncKYAcmUv
+  teaser_url: /banadu-teaser
+  blurb: Banadu uses liquid guitars, funk bass, synth textures, and driving electronic drums for a dancey dream funk vibe.
+- key: pure-mood
+  name: Pure Mood
+  status: alumni
+  genre: Dream funk
+  page: null
+  post: /blog/peach-beach-ep-banadu-pure-mood-look-up-records
+  image: /assets/img/peach-beach-f5b3dc.webp
+  teaser_url: /pure-mood-teaser
+  blurb: Pure Mood, the beach goddess of chillness, emerges from the mist alongside Banadu on a run of summery singles.

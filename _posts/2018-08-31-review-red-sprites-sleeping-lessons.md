@@ -31,4 +31,4 @@ The album carries itself elegantly through all nine tracks, each offering someth
 
 Red Sprites ends with the song titled, K, a slow and stripped-down version of the Sleeping Lessons we’ve come to know. This gentle track delivers a sense of closure while highlighting the versatility of the band and striking chords reminiscent of Kevin Morby’s Harlem River era. K pulls on the heartstrings and rips off the veil, a fitting end to Red Sprites.
 
-<figure><img src="/assets/img/sleeping-lessons-10d237.webp" alt="sleeping lessons" loading="lazy"><figcaption>Sleeping Lessons Catch Sleeping Lessons playing at Look Up Fest 2018!</figcaption></figure>
+<figure><img src="/assets/img/sleeping-lessons-10d237.webp" alt="sleeping lessons" loading="lazy"><figcaption><strong>Sleeping Lessons</strong> — Catch Sleeping Lessons playing at Look Up Fest 2018!</figcaption></figure>

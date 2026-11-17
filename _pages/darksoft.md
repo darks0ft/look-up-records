@@ -1,13 +1,11 @@
 ---
-layout: page
+layout: artist
 title: Darksoft
+artist_key: darksoft
 permalink: /darksoft
-phase1_raw: true
+description: Darksoft is a multi-instrumentalist songwriter and producer. Darksoft songs blend shoegaze and dream pop with lush melodic progressions, 80s/90s alternative rock undertones, and velvety vocals.
+image: /assets/img/darksoft-less-is-more-fe7a34.webp
 ---
-
-## Darksoft
-
-![Darksoft   Less Is More](/assets/img/darksoft-less-is-more-fe7a34.webp)
 
 Darksoft is a multi-instrumentalist songwriter and producer who creates dreamy indie rock sounds. Darksoft songs blend shoegaze and dream pop elements, using lush melodic progressions, 80s/90s alternative rock undertones, and deftly executed vocals. Darksoft is a solo recording project sometimes supported by a full band for live shows.
 

@@ -24,4 +24,4 @@ The chilling voice hums these lyrics so well, and the way they combine with the 
 
 These elements combine to give off the eerie tone of past rock legends such as Jimi Hendrix, who also utilized the electric guitar to dazzle his listeners. The guitarist in “Head on Backwards” has a marvelous ability to play, and the producing this song must have been an awesome time. The production was so professional yet so wild, which combines to make an easy-listening yet intense piece that nearly any music fan would love.
 
-<figure><img src="/assets/img/s-p-3fab45.webp" alt="s::p" loading="lazy"><figcaption>S//P Psych Rock / Trip Hop project based in LA. Pronounced "slip."</figcaption></figure>
+<figure><img src="/assets/img/s-p-3fab45.webp" alt="s::p" loading="lazy"><figcaption><strong>S//P</strong> — Psych Rock / Trip Hop project based in LA. Pronounced "slip."</figcaption></figure>

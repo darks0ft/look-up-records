@@ -2,7 +2,6 @@
 layout: page
 title: Code of Conduct
 permalink: /code-of-conduct
-phase1_raw: true
 ---
 
 ## Code of Conduct

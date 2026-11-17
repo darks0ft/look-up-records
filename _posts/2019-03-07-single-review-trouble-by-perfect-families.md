@@ -26,7 +26,7 @@ There are some beautiful melodies that at times make you want to just sway along
 
 With a beautiful cover that is both bright and muted, this new single will get you in the mood for Look Up Fest Underwater along with other wistful acts, happening at Fred Wildlife Refuge on March 9th.
 
-<figure><img src="/assets/img/perfect-families-57b10f.webp" alt="PERFECT FAMILIES" loading="lazy"><figcaption>PERFECT FAMILIES Catch them at LUFU!</figcaption></figure>
+<figure><img src="/assets/img/perfect-families-57b10f.webp" alt="PERFECT FAMILIES" loading="lazy"><figcaption><strong>PERFECT FAMILIES</strong> — Catch them at LUFU!</figcaption></figure>
 
 * * *
 

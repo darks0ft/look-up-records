@@ -1,0 +1,32 @@
+# "Tools we use": partners and referral links, shown in the blog sidebar and on the homepage.
+# Order = display order. `note` is the short line under the name; `code` is a discount code, if any.
+- name: Elastic Stage
+  url: https://elasticstage.com/es/referral/3YJ57FIV
+  image: /assets/img/elastic-stage-logo-93a3a8.webp
+  note: Sell vinyl and CDs on demand, with no upfront costs. Finally, no fulfillment hell.
+- name: Atomic Disc
+  url: https://www.atomicdisc.com?bg_ref=is13kGgPQR
+  image: /assets/img/atomic-disc-logo-3ab978.webp
+  note: We use Atomic Disc for CDs. Great quality and affordability.
+  code: LookUpRecords
+  code_note: 10% off your order
+- name: Pirate!
+  url: "mailto:steve@piratepirate.com?subject=Reaching%20out%20about%20radio%20promo%2C%20referred%20by%20Look%20Up&body=Hey%20Steve%2C%20I%20heard%20about%20Pirate!%20on%20the%20Look%20Up%20blog%20and%20am%20curious%20to%20know%20more%20about%20your%20services.%20Thank%20you!&cc=bill%40look-up-records.com"
+  image: /assets/img/pirate-logo-radio-promotion-42db5b.webp
+  note: An excellent agency for college and community radio promotion. Contact Steve Theo to learn more.
+- name: SubmitHub
+  url: https://www.submithub.com/by/look-up-records
+  image: /assets/img/submithub-logo-da0db5.webp
+  note: Bloggers, playlisters, and influencers can get paid to listen to new music.
+- name: Bottomless
+  url: https://www.bottomless.com/referral/f66e1ft9
+  image: /assets/img/bottomless-logo-coffee-e3ea23.webp
+  note: Fresh pots! Automated coffee delivery. Your first bag is $1 with our link.
+- name: Darksoft dad hat
+  url: https://darksoft.printful.me/product/darksoft-beige-dad-hat
+  image: /assets/img/darksoft-smiley-dad-hat-front-c531a8.webp
+  note: The beige smiley dad hat, from the Darksoft merch shop.
+- name: Music Declares Emergency
+  url: https://www.musicdeclares.net
+  image: /assets/img/music-declares-emergency-ca44a7.webp
+  note: No music on a dead planet. Artists declaring a climate and ecological emergency. We signed it; you should too.

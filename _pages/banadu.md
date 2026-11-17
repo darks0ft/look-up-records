@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: artist
 title: Banadu
+artist_key: banadu
 permalink: /banadu
-image: /assets/img/pure-mood-background-5ea11b.webp
-phase1_raw: true
+description: Banadu uses liquid guitars, funk bass, synth textures, and driving electronic drums for a dancey dream funk vibe.
+image: /assets/img/banadu-profile-c201b6.webp
 ---
-
-## BANADU
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/4fPkcgyXEB93JncKYAcmUv" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 

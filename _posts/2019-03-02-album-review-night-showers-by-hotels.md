@@ -28,7 +28,7 @@ Their use of multiple instruments on their latest release, Night Showers, fills 
 
 Support HOTELS on Bandcamp, and check them out with Shimmertraps, Darksoft, and Sealife, and many others on March 9th for **Look Up Fest: Underwater**.
 
-<figure><img src="/assets/img/hotels-ef1f0c.webp" alt="HOTELS" loading="lazy"><figcaption>HOTELS Catch them at LUFU!</figcaption></figure>
+<figure><img src="/assets/img/hotels-ef1f0c.webp" alt="HOTELS" loading="lazy"><figcaption><strong>HOTELS</strong> — Catch them at LUFU!</figcaption></figure>
 
 * * *
 

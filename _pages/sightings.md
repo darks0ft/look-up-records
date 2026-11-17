@@ -1,18 +1,16 @@
 ---
-layout: page
+layout: artist
 title: Sightings
+artist_key: sightings
 permalink: /sightings
-description: Combining freeform jazz and indie pop, Sightings’ lush instrumental tunes are like a mellow weekend on Mars.
-phase1_raw: true
+description: Fusing freeform jazz and indie pop, Sightings' lush instrumental tunes are like a mellow weekend on Mars.
+image: /assets/img/sightings-1ca88a.webp
 ---
-
-## Sightings
 
 ### Listen
 
 [Spotify](https://open.spotify.com/album/5zjLHlEGpfsMOLODDKoIP2?dl_branch=1&si=5Fj0z_-gQHmXN5Fdk5hCUQ) | [Apple Music](https://music.apple.com/us/artist/sightings/1572499902) | [Bandcamp](https://sightingsmusic.bandcamp.com/album/sightings) | [YouTube](https://www.youtube.com/watch?v=uBUzflBSI8k) | [Soundcloud](https://soundcloud.com/lookuprecords/sets/sightings)
 
-![Sightings](/assets/img/sightings-1ca88a.webp)
 
 Combining freeform jazz and indie pop, Sightings’ lush instrumental tunes are like a mellow weekend on Mars.
 

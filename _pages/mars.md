@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: fest
 title: 'Look Up Fest: Mars'
 permalink: /mars
-phase1_raw: true
+fest_date: '2019-09-07'
 ---
 
 ![MARS BANNER THIN](/assets/img/mars-banner-thin-aff91a.webp)

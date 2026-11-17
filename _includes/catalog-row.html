@@ -1,0 +1,7 @@
+{%- assign r = include.release -%}
+<li class="catalog-row">
+  <span class="year">{% if r.catalog_no %}<span class="catno">{{ r.catalog_no }}</span>{% endif %}<span>{{ r.year | default: "Undated" }}</span></span>
+  <a href="{{ r.url }}" tabindex="-1" aria-hidden="true">{% if r.image %}<img src="{{ r.image }}" alt="" loading="lazy" width="54" height="54">{% endif %}</a>
+  <a class="title" href="{{ r.url }}"><strong>{{ r.title }}</strong> <span>— {{ r.artist }}</span></a>
+  <span class="format">{{ r.format }}</span>
+</li>

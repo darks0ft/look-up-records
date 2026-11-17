@@ -1,18 +1,16 @@
 ---
-layout: page
+layout: artist
 title: Elephants and Dogs
+artist_key: elephants-and-dogs
 permalink: /elephants-and-dogs
 description: Led by Joe Narducci of Toronto, Elephants and Dogs is a syrupy trip of saturated melodies and chill dream pop arrangements.
-phase1_raw: true
+image: /assets/img/film-photo-square-f9b4cf.webp
 ---
-
-## Elephants and Dogs
 
 ### Listen
 
 [Spotify](https://open.spotify.com/artist/1Txs9MqxrFGGQpS4j5iFdu?si=54d24c6ce9504453) | [Apple Music](https://apple.co/3bup6De) | [Bandcamp](https://elephantsanddogs.bandcamp.com/album/you-wont-be-seeing-me-around) | [Deezer](https://www.deezer.com/us/album/204341112) | [Amazon Music](https://www.amazon.com/gp/product/B08VJJJWWB/ref=dm_ws_sp_ps_dp) | [YouTube](https://youtu.be/kfsCTMlKSQA)
 
-![Elephants and Dogs EP cover no text](/assets/img/elephants-and-dogs-ep-cover-no-text-952a25.webp)
 
 Led by Joe Narducci of Toronto, Elephants and Dogs is a syrupy trip of saturated melodies and chill dream pop arrangements.
 

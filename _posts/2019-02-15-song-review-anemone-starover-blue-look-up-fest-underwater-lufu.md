@@ -26,7 +26,7 @@ Each note feels like a soft step - hesitant but purposeful. The song definitely 
 
 Certainly the hazy, pastel overtones of the song are reminiscent of artists like Kate Bush, or Mazzy Star. So, next time you want to star in your own 90’s rom-com, make sure you give “Anemone” a spot on the soundtrack.
 
-<figure><img src="/assets/img/starover-blue-9dd413.webp" alt="" loading="lazy"><figcaption>Starover Blue Catch them at LUFU!</figcaption></figure>
+<figure><img src="/assets/img/starover-blue-9dd413.webp" alt="" loading="lazy"><figcaption><strong>Starover Blue</strong> — Catch them at LUFU!</figcaption></figure>
 
 * * *
 

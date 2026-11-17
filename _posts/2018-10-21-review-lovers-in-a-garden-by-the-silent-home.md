@@ -34,7 +34,7 @@ I’m not usually a sucker for cute love songs, but this one just felt too since
 
 But maybe love’s still got a chance: I mean, my boo and I sang this chorus on repeat during our last road trip, so maybe there’s hope in gardens. You just need to hear the right music and grow in harmony… you know that plants dance to the music we play? [Here’s proof.](https://sites.evergreen.edu/plantchemeco/codariocalyx-motorius-mystery-of-the-dancing-plant/)
 
-<figure><img src="/assets/img/the-silent-home-a9b4b1.webp" alt="The Silent Home" loading="lazy"><figcaption>The Silent Home AKA The Hugo Brothers</figcaption></figure>
+<figure><img src="/assets/img/the-silent-home-a9b4b1.webp" alt="The Silent Home" loading="lazy"><figcaption><strong>The Silent Home</strong> — AKA The Hugo Brothers</figcaption></figure>
 
 * * *
 

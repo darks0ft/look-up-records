@@ -1,0 +1,5 @@
+<section class="box highlight">
+  <h3>{{ include.title | default: "Get the newsletter" }}</h3>
+  <p>New releases, shows, and label news, a few times a year.</p>
+  {% include newsletter-form.html form_class="signup-form" button_class="button solid" %}
+</section>

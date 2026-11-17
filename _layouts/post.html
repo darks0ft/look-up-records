@@ -2,33 +2,46 @@
 layout: default
 ---
 {%- assign author = site.data.authors[page.author] -%}
-<article class="post">
-  <header class="post-header">
-    {% if page.categories.size > 0 %}<p class="kicker">{% for c in page.categories %}{% assign cat_page = site.category_pages | where: "category", c | first %}<a href="{{ cat_page.url | default: '#' }}">{{ c }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>{% endif %}
-    <h1>{{ page.title }}</h1>
-    <p class="meta">
-      {% if author %}By {{ author.name }} · {% endif %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-    </p>
-  </header>
+<div class="wrap">
+  <div class="with-sidebar">
+    <article class="post">
+      <header class="post-header">
+        <p class="kicker"><a href="/blog">Blog</a>{% for c in page.categories %}{% assign cat_page = site.category_pages | where: "category", c | first %} · {% if cat_page %}<a href="{{ cat_page.url }}">{{ c }}</a>{% else %}{{ c }}{% endif %}{% endfor %}</p>
+        <h1>{{ page.title }}</h1>
+        <p class="meta">{% if author %}By {{ author.name }} · {% endif %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+      </header>
 
-  <div class="post-body">
-    {{ content }}
+      {%- comment -%} Show the cover only when the post body doesn't already open with it {%- endcomment -%}
+      {% if page.image %}{% unless content contains page.image %}
+      <figure class="post-cover"><img src="{{ page.image }}" alt="" width="1200" height="800"></figure>
+      {% endunless %}{% endif %}
+
+      <div class="post-body prose">
+        {{ content }}
+      </div>
+
+      {% if author and author.bio %}
+      <aside class="byline-card">
+        {% if author.image %}<img src="{{ author.image }}" alt="{{ author.name }}" loading="lazy" width="88" height="88">{% else %}<span></span>{% endif %}
+        <div>
+          <p class="kicker">About the author</p>
+          <h2>{{ author.name }}</h2>
+          <div class="prose">{{ author.bio | markdownify }}</div>
+        </div>
+      </aside>
+      {% endif %}
+
+      {% if page.tags.size > 0 %}
+      <p class="post-tags">
+        {% for t in page.tags %}{% assign tag_page = site.tag_pages | where: "tag", t | first %}{% if tag_page %}<a class="chip" href="{{ tag_page.url }}">{{ t }}</a>{% endif %}{% endfor %}
+      </p>
+      {% endif %}
+
+      <nav class="pagination measure" aria-label="More posts">
+        {% if page.previous %}<a href="{{ page.previous.url }}">← {{ page.previous.title | truncate: 48 }}</a>{% else %}<span></span>{% endif %}
+        {% if page.next %}<a href="{{ page.next.url }}">{{ page.next.title | truncate: 48 }} →</a>{% endif %}
+      </nav>
+    </article>
+    {% include sidebar.html %}
   </div>
-
-  {% if author and author.bio %}
-  <aside class="byline-card">
-    {% if author.image %}<img src="{{ author.image }}" alt="{{ author.name }}" loading="lazy">{% endif %}
-    <div>
-      <p class="kicker">About the author</p>
-      <h2>{{ author.name }}</h2>
-      {{ author.bio | markdownify }}
-    </div>
-  </aside>
-  {% endif %}
-
-  {% if page.tags.size > 0 %}
-  <p class="tags">
-    {% for t in page.tags %}{% assign tag_page = site.tag_pages | where: "tag", t | first %}<a href="{{ tag_page.url | default: '#' }}">{{ t }}</a>{% endfor %}
-  </p>
-  {% endif %}
-</article>
+</div>

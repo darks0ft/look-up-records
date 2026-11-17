@@ -29,7 +29,7 @@ This nightwalk is in a minor key with that semitone feel, on the edge of uneasin
 
 Home alone and not able to stop thinking… about some one, some past… No one knows it. The head’s full of it and you just cant’ stop….This feel is going to the grave.
 
-<figure><img src="/assets/img/wwoman-9272cf.webp" alt="wwoman" loading="lazy"><figcaption>wwoman obsessive undead fantasy polka pop</figcaption></figure>
+<figure><img src="/assets/img/wwoman-9272cf.webp" alt="wwoman" loading="lazy"><figcaption><strong>wwoman</strong> — obsessive undead fantasy polka pop</figcaption></figure>
 
 * * *
 

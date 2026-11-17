@@ -25,4 +25,4 @@ Head over to [Independent Music Reviews](https://independentmusic.reviews/new-si
 
 <figure><a href="https://independentmusic.reviews/new-single/dark-mode-by-darksoft/"><img src="/assets/img/imr-logo-8080-4b686b.webp" alt="IMR Logo 8080" loading="lazy"></a><figcaption>‘Dark Mode’ premiered on IMR on 7/9/21.</figcaption></figure>
 
-<figure><a href="https://darks0ft.bandcamp.com/album/meltdown"><img src="/assets/img/meltdown-artwork-e7ae44.webp" alt="Meltdown Artwork" loading="lazy"></a><figcaption>Meltdown Cyber download Darksoft’s sophomore album for special surprises <a href="https://darks0ft.bandcamp.com/album/meltdown">Album on Bandcamp</a></figcaption></figure>
+<figure><a href="https://darks0ft.bandcamp.com/album/meltdown"><img src="/assets/img/meltdown-artwork-e7ae44.webp" alt="Meltdown Artwork" loading="lazy"></a><figcaption><strong>Meltdown</strong> — Cyber download Darksoft’s sophomore album for special surprises <a href="https://darks0ft.bandcamp.com/album/meltdown">Album on Bandcamp</a></figcaption></figure>

@@ -31,7 +31,7 @@ Sure, “What’s The Point” is a little muddy with bedroom lofi acoustics, la
 
 Combined band hits, epic synth changes, and a memorable chorus line in this “Psychedelic pop music recorded in a bedroom late at night” make it a quirky listen.
 
-<figure><img src="/assets/img/thomas-dooley-a9e994.webp" alt="thomas dooley" loading="lazy"><figcaption>Thomas Dooley Psychedelic pop music recorded in a bedroom late at night.</figcaption></figure>
+<figure><img src="/assets/img/thomas-dooley-a9e994.webp" alt="thomas dooley" loading="lazy"><figcaption><strong>Thomas Dooley</strong> — Psychedelic pop music recorded in a bedroom late at night.</figcaption></figure>
 
 * * *
 

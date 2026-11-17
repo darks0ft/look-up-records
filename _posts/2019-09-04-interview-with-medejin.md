@@ -31,7 +31,7 @@ We're super jazzed to debut a new song, "Our Apartment." That's what I'm calling
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/2POYq65ujfjrWbrRqr9Ciw" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/medejin-fbdc6f.webp" alt="MEDEJIN" loading="lazy"><figcaption>Medejin Catch Medejin at Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/medejin-fbdc6f.webp" alt="MEDEJIN" loading="lazy"><figcaption><strong>Medejin</strong> — Catch Medejin at Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

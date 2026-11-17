@@ -31,4 +31,4 @@ Lyrically the track is wonderfully abstracted: these thoughts point in various d
 
 Like the title suggests, *Breaking Up Together* is a melancholy piece. These things tend to be that way. And if you find yourself there, then Sealife may just have the perfect soundtrack for you.
 
-<figure><a href="/sealife"><img src="/assets/img/sealife-promo-1877f0.webp" alt="sealife promo" loading="lazy"></a><figcaption>Sealife The newest addition to Look Up Records. Check out the new single, and stay tuned for the album release.</figcaption></figure>
+<figure><a href="/sealife"><img src="/assets/img/sealife-promo-1877f0.webp" alt="sealife promo" loading="lazy"></a><figcaption><strong>Sealife</strong> — The newest addition to Look Up Records. Check out the new single, and stay tuned for the album release.</figcaption></figure>

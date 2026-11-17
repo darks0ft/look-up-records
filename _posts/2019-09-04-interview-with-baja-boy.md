@@ -31,7 +31,7 @@ I’m working on a lot of new music. Most I don’t care for which is why it tak
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/64QoQlxUBLfiL1Vm3wsWPz" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/baja-boy-e07d47.webp" alt="BAJA BOY" loading="lazy"><figcaption>Baja Boy Catch Baja Boy at Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/baja-boy-e07d47.webp" alt="BAJA BOY" loading="lazy"><figcaption><strong>Baja Boy</strong> — Catch Baja Boy at Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

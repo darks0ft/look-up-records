@@ -28,6 +28,6 @@ Credit where credit is due:
 
 Follow **@dogselephants** on [Instagram](https://www.instagram.com/dogselephants/), [Twitter](https://twitter.com/dogselephants), and/or [Facebook](https://www.facebook.com/DogsElephants/).
 
-<figure><img src="/assets/img/elephants-and-dogs-new-photo-1-7a4322.webp" alt="Elephants and Dogs New Photo 1" loading="lazy"><figcaption>Elephants and Dogs New Look Up artist. Debut EP ‘You Won’t Be Seeing Me Around’ released March 5th, 2021.</figcaption></figure>
+<figure><img src="/assets/img/elephants-and-dogs-new-photo-1-7a4322.webp" alt="Elephants and Dogs New Photo 1" loading="lazy"><figcaption><strong>Elephants and Dogs</strong> — New Look Up artist. Debut EP ‘You Won’t Be Seeing Me Around’ released March 5th, 2021.</figcaption></figure>
 
 <div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/Qcjc_4v9H_g" title="YouTube embed" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

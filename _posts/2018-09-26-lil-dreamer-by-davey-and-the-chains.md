@@ -34,7 +34,7 @@ The bridge kicks it up into the atmosphere with an anthemic cut-time section. Th
 
 Lil Dreamer is off [Shimmy](https://open.spotify.com/album/32vMjHXfNV0We90jafuo6D?si=3Awr3HDyRQ-xpRRSahGk4Q), the new album by Davey and the Chains, a vinyl crunchy number full of ol’ foot knockers.
 
-<figure><img src="/assets/img/lil-dreamer-davey-and-the-chains-ca5e60.webp" alt="lil dreamer davey and the chains" loading="lazy"><figcaption>Davey and the Chains Listen to their new album, Shimmy</figcaption></figure>
+<figure><img src="/assets/img/lil-dreamer-davey-and-the-chains-ca5e60.webp" alt="lil dreamer davey and the chains" loading="lazy"><figcaption><strong>Davey and the Chains</strong> — Listen to their new album, Shimmy</figcaption></figure>
 
 * * *
 

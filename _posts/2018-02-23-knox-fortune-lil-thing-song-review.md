@@ -47,4 +47,4 @@ One of the best touches in Lil Thing comes from dirty, Gameboy-like arpeggio bli
 
 Knox Fortune has created a down-to-earth, steady dreampop jam that never relies too hard on vintage sounds to convey a hazy, nostalgic feel, and should be a crucial addition to anyone’s summer 2018 playlist.
 
-<figure><img src="/assets/img/knox-fortune-33c45e.webp" alt="Knox Fortune" loading="lazy"><figcaption>Knox Fortune <strong>Chicago-based producer</strong></figcaption></figure>
+<figure><img src="/assets/img/knox-fortune-33c45e.webp" alt="Knox Fortune" loading="lazy"><figcaption><strong>Knox Fortune</strong> — <strong>Chicago-based producer</strong></figcaption></figure>

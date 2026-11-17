@@ -26,7 +26,7 @@ Ending the song is the incredible chorus once more, this time with even more dep
 
 If you’re on the hunt for an interesting, bouncy jam, “Brother” deals whimsy and groove in spades, and if you follow Tuska on social media, it seems like they dabble in a little bit of fun there too. In the bio section on Tuska’s Facebook page, only the coy phrase “Here to make the kids bop.” can be found. Let’s hope they’re around even more in 2018 to keep making the kids (and maybe even the adults) bop.
 
-<figure><a href="https://soundcloud.com/tuskaofficial"><img src="/assets/img/tuska-773ccc.webp" alt="Tuska" loading="lazy"></a><figcaption>Tuska Tuska is a London-based band comprised of Richard Sturges and Rob Weaver. Their new EP, S.E.P is out now. <a href="https://soundcloud.com/tuskaofficial">Soundcloud</a> | <a href="https://open.spotify.com/track/4sT1scrkqzbIzPkofFm2XT">Spotify</a> | <a href="https://www.facebook.com/tuskaofficial/">Facebook</a> | <a href="https://twitter.com/tuskaofficial">Twitter</a> |</figcaption></figure>
+<figure><a href="https://soundcloud.com/tuskaofficial"><img src="/assets/img/tuska-773ccc.webp" alt="Tuska" loading="lazy"></a><figcaption><strong>Tuska</strong> — Tuska is a London-based band comprised of Richard Sturges and Rob Weaver. Their new EP, S.E.P is out now. <a href="https://soundcloud.com/tuskaofficial">Soundcloud</a> | <a href="https://open.spotify.com/track/4sT1scrkqzbIzPkofFm2XT">Spotify</a> | <a href="https://www.facebook.com/tuskaofficial/">Facebook</a> | <a href="https://twitter.com/tuskaofficial">Twitter</a> |</figcaption></figure>
 
 Listen to "Brother" and many more artists we've covered on the blog here:
 

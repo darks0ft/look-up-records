@@ -22,7 +22,7 @@ Lazy Legs is a Portland-based duo that have perfected shoegaze grunge. Following
 
 Nosebleed gives a minimalism and borderline ambient texture to their music and gives us much anticipation on their next release. The juxtaposition between loose mellow ambience and scratchy thick guitar sweeps showcases the duo’s choice to embrace the harmony of their sound.
 
-<figure><img src="/assets/img/a2005847946-10-a118a1.webp" alt="a2005847946 10" loading="lazy"><figcaption>Lazy Legs Portland-based gazey grunge duo.</figcaption></figure>
+<figure><img src="/assets/img/a2005847946-10-a118a1.webp" alt="a2005847946 10" loading="lazy"><figcaption><strong>Lazy Legs</strong> — Portland-based gazey grunge duo.</figcaption></figure>
 
 * * *
 

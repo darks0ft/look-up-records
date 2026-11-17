@@ -36,7 +36,7 @@ Lupa J cites **Grimes**, **FKA Twigs**, and **Bjork** as inspiration. The vocal 
 
 It’s well-produced and intentional. Broken from an obvious pop structure, it has nuance that is rare to find. In this intimate headspace of Lupa J, we make out lyrics on the weight of taking on others problems, and a sense of detachment and desire to move on.
 
-<figure><img src="/assets/img/6-copy-6ab93d.webp" alt="6 copy" loading="lazy"><figcaption>Lupa J Sydney based singer-songwriter and producer <strong>Lupa J</strong></figcaption></figure>
+<figure><img src="/assets/img/6-copy-6ab93d.webp" alt="6 copy" loading="lazy"><figcaption><strong>Lupa J</strong> — Sydney based singer-songwriter and producer <strong>Lupa J</strong></figcaption></figure>
 
 * * *
 

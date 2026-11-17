@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: fest
 title: Look Up Fest
 permalink: /look-up-fest
 image: /assets/img/background-b04b3e.webp
-phase1_raw: true
+fest_date: '2018-09-09'
 ---
 
 ![Look Up Fest Banner](/assets/img/look-up-fest-banner-c4aab4.webp)

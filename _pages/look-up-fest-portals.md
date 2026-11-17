@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: fest
 title: 'Look Up Fest: Portals'
 permalink: /look-up-fest-portals
 description: 'Look Up Fest returns on March 12, 2022 for a night of great indie music and trippy visualizations. Buy tickets now and RSVP for the event here. '
-phase1_raw: true
+fest_date: '2022-03-12'
 ---
 
 ![LOOK UP FEST PORTALS SQUARE](/assets/img/look-up-fest-portals-square-6115d5.webp)

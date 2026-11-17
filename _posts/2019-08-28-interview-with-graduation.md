@@ -31,7 +31,7 @@ We are playing some songs that we have not played live yet including an unreleas
 
 <div class="embed embed-spotify"><iframe src="https://open.spotify.com/embed/artist/6ZcwYWJ0C9QRQSkBoNNpHW" title="Spotify artist" height="352" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></div>
 
-<figure><img src="/assets/img/graduation-1217cf.webp" alt="GRADUATION" loading="lazy"><figcaption>Graduation Catch Graduation at Look Up Fest: Mars on 9/7!</figcaption></figure>
+<figure><img src="/assets/img/graduation-1217cf.webp" alt="GRADUATION" loading="lazy"><figcaption><strong>Graduation</strong> — Catch Graduation at Look Up Fest: Mars on 9/7!</figcaption></figure>
 
 ## Listen to other bands playing on Mars:
 

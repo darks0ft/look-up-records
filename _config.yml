@@ -3,6 +3,7 @@
 # ================================
 
 title: "Look Up Records"
+tagline: "Independent record label"
 description: "Look Up Records is an independent record label from the Pacific Northwest, now based in Portland, Maine: releases, artists, reviews, and Look Up Fest."
 url: "https://www.look-up-records.com"   # must match CNAME (www is the live host)
 baseurl: ""

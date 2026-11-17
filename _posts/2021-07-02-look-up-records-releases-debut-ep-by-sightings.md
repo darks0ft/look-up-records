@@ -45,4 +45,4 @@ Bandcamp purchases also include unlimited streaming of Sightings via the free Ba
 
 The Sightings EP was inspired by a larger batch of demos recorded in the Summer of 2016 throughout a weeklong haze of alone late-night early AM studio recordings. This mini-album was then rediscovered and recut by Darksoft in the Spring of 2021. It was mixed and mastered by Living Fang Audio (stacking pennies), who offered an amazing helping hand.
 
-<figure><img src="/assets/img/sightings-2b428d.webp" alt="Sightings" loading="lazy"><figcaption>Sightings Look Up Records released Sightings debut EP on July 2, 2021, World UFO Day.</figcaption></figure>
+<figure><img src="/assets/img/sightings-2b428d.webp" alt="Sightings" loading="lazy"><figcaption><strong>Sightings</strong> — Look Up Records released Sightings debut EP on July 2, 2021, World UFO Day.</figcaption></figure>

@@ -1,14 +1,11 @@
 ---
-layout: page
+layout: artist
 title: SWYM
+artist_key: swym
 permalink: /swym
-description: Alt-psych rock duo SWYM brings swirling delays, stratospheric reverb, and phase-shifted everything. Get ready to get lost, submerge into a sonic sea and float away into the void.
-phase1_raw: true
+description: Alt-psych rock duo SWYM brings swirling delays, stratospheric reverb, and phase-shifted everything.
+image: /assets/img/swym-look-up-records-7c6989.webp
 ---
-
-## SWYM
-
-![](/assets/img/dsc-6075-f5a1a6.webp)
 
 Alt-psych rock duo SWYM brings swirling delays, stratospheric reverb, and phase-shifted everything. Get ready to get lost, submerge into a sonic sea and float away into the void.
 

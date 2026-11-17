@@ -1,13 +1,46 @@
 ---
 layout: default
 ---
-<article class="release">
-  <p class="kicker"><a href="/catalog">Catalog</a>{% if page.artist %} · {{ page.artist }}{% endif %}</p>
-  <h1>{{ page.title }}{% if page.year %} <span class="year">({{ page.year }})</span>{% endif %}</h1>
-  {% if page.image %}<img class="cover" src="{{ page.image }}" alt="{{ page.title }} cover art">{% endif %}
-  {{ content }}
-  <p class="buttons">
-    {% if page.artist_page %}<a class="button" href="{{ page.artist_page }}">About the artist</a>{% endif %}
-    {% if page.external_link %}<a class="button" href="{{ page.external_link }}">Listen</a>{% endif %}
-  </p>
-</article>
+{%- assign artist = site.data.artists | where: "key", page.artist_key | first -%}
+{%- assign all = site.releases | sort: "release_date", "first" | reverse -%}
+{%- assign more = all | where: "artist_key", page.artist_key | where_exp: "r", "r.url != page.url" -%}
+{%- if artist -%}{%- assign tagged = site.tags[artist.name] -%}{%- endif -%}
+<div class="wrap">
+  <article class="release-head">
+    {% if page.image %}<img class="cover" src="{{ page.image }}" alt="{{ page.title }} cover art" width="640" height="640">{% endif %}
+    <div>
+      <p class="kicker"><a href="/catalog">Catalog</a> · {{ page.format | default: "Release" }}</p>
+      <h1>{{ page.title }}</h1>
+      <p class="artist">{% if artist %}<a href="{{ artist.page | default: artist.post }}">{{ page.artist }}</a>{% else %}{{ page.artist }}{% endif %}</p>
+      <dl class="facts">
+        {% if page.release_date %}<dt>Released</dt><dd>{% if page.release_date.size > 4 %}{{ page.release_date | date: "%B %-d, %Y" }}{% else %}{{ page.release_date }}{% endif %}</dd>{% endif %}
+        {% if page.catalog_no %}<dt>Catalog no.</dt><dd>{{ page.catalog_no }}</dd>{% endif %}
+        {% if page.format %}<dt>Format</dt><dd>{{ page.format }}</dd>{% endif %}
+        <dt>Label</dt><dd>Look Up Records</dd>
+      </dl>
+      {{ content }}
+      <p class="buttons">
+        {% if page.bandcamp %}<a class="button solid" href="{{ page.bandcamp }}">Bandcamp</a>{% endif %}
+        {% if page.spotify %}<a class="button" href="{{ page.spotify }}">Spotify</a>{% endif %}
+        {% if page.apple_music %}<a class="button" href="{{ page.apple_music }}">Apple Music</a>{% endif %}
+        {% if page.vinyl_cd %}<a class="button" href="{{ page.vinyl_cd }}">Vinyl &amp; CD</a>{% endif %}
+        {% if page.announcement %}<a class="button" href="{{ page.announcement }}">Release notes</a>{% endif %}
+      </p>
+      {% if artist %}<p class="small muted">{{ artist.blurb }}</p>{% endif %}
+    </div>
+  </article>
+
+  {% if tagged and tagged.size > 0 %}
+  <section class="section" style="margin-top:3rem">
+    <div class="section-head"><h2>On the blog</h2>{% assign tag_page = site.tag_pages | where: "tag", artist.name | first %}{% if tag_page %}<a href="{{ tag_page.url }}">All {{ tagged.size }} posts →</a>{% endif %}</div>
+    <div class="post-grid">{% for p in tagged limit: 4 %}{% include post-item.html post=p %}{% endfor %}</div>
+  </section>
+  {% endif %}
+
+  {% if more.size > 0 %}
+  <section class="section">
+    <div class="section-head"><h2>More from {{ page.artist }}</h2></div>
+    <ul class="catalog-list">{% for r in more %}{% include catalog-row.html release=r %}{% endfor %}</ul>
+  </section>
+  {% endif %}
+</div>
