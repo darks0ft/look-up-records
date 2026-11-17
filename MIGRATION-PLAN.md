@@ -54,11 +54,13 @@ GitHub Pages redirects are `jekyll-redirect-from` meta-refresh pages with a cano
 ### Phase 2: design ✅ built 2026-11-17 (waiting on your review)
 - Built around the label: home (latest release + news), artists (current and past), catalog/discography with links to listen and buy, a journal (the blog), a Look Up Fest archive (Mars, Portals…), about, code of conduct, and newsletter.
 
-### Phase 3: URL check and launch (1 session)
-- [ ] Script: every old URL returns 200 or a correct redirect on the local build. Check internal links and images.
-- [ ] Sitemap, RSS at `/blog?format=rss` (it will serve `/blog`, so add a new feed path), canonicals, OG tags.
-- [ ] DNS: point the 4 A records and the `www` CNAME to GitHub Pages, keep the MX/TXT records, turn on HTTPS.
-- [ ] Search Console: submit the new sitemap. Then cancel the Squarespace site plan and keep the domain.
+### Phase 3: URL check and launch (done 2026-11-17)
+- [x] Every old URL returns 200 or a correct redirect: 539/539 on the local build, the GitHub test host and the live domain (`scripts/verify/check_live.py`).
+- [x] Sitemap at `/sitemap.xml`, feed at `/feed.xml` (Squarespace's `/blog?format=rss` can't be reproduced), canonicals and OG tags via jekyll-seo-tag.
+- [x] Repo `darks0ft/look-up-records` (public), Pages from `main` at the root, custom domain `www.look-up-records.com`. Unpublished `_drafts/` stay local and were scrubbed from history.
+- [x] DNS: the domain was delegated to an old 2017 NS1 zone (`dns1-4.p04.nsone.net`), so the Squarespace DNS page wasn't live. Added GitHub's A records (185.199.108-111.153) and `www` CNAME `darks0ft.github.io` there, then switched to Squarespace nameservers. Google MX/SPF kept; Mailchimp DKIM and DMARC are live for the first time.
+- [ ] HTTPS: enforce once GitHub issues the certificate.
+- [ ] Search Console: submit `https://www.look-up-records.com/sitemap.xml`. The Squarespace site plan is already cancelled (expires Nov 22); the domain stays.
 
 ## Open items found in Phase 1
 - **Test on real GitHub Pages first:** `/blog` (from `blog.html`) next to the `blog/` folder of posts, and the same for `/catalog`, `/darksoft`, `/sealife` and `/swym`. The local server redirects `/blog` to `/blog/`. If GitHub Pages does the same, fall back to serving index pages from `<dir>/index.html` and accept the 301 to a trailing slash.
