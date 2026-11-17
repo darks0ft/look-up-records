@@ -69,7 +69,7 @@ GitHub Pages redirects are `jekyll-redirect-from` meta-refresh pages with a cano
 
 ## To confirm after Phase 2
 - **Catalog:** 6 releases were added that the old catalog was missing: A Jazz, Everybody's Smiling Nobody's Happy, Liebe ist Tot, State Birds, Everydayness, and A Mixtape for Martian Colonists. Darksoft's Spirit Goth albums (Grayscale, Rationalism) and the singles taken from albums are left out.
-- **Catalog numbers:** `catalog_no` (LUR-001 to LUR-022) and release dates come from the "LOOK UP RECORDS CATALOG" sheet in Google Drive (ISRC tab). Beat Queen (LUR-012) was added from it. LUR-004 "First Light" and LUR-005 "Lost Time" have no artist or date in the sheet, so they're not on the site.
+- **Catalog numbers:** `catalog_no` (LUR-001 to LUR-022) and release dates come from the "LOOK UP RECORDS CATALOG" sheet in Google Drive (ISRC tab). Beat Queen (LUR-012) was added from it. LUR-004 "First Light" and LUR-005 "Lost Time" (Close Encounter) are intentionally left off, and their old posts stay unpublished in `_drafts/`. Singles that never got an LUR number show no number.
 - **Still undated:** Banadu & Pure Mood's "Cool Lover" isn't in the sheet. Add `release_date` in `_releases/` if you know it.
 - **Peach Beach:** the sheet lists a one-track single on 2020-03-13; the site keeps the EP date of 2020-05-01.
 - **Links:** the Spotify/Bandcamp links on releases were pulled from each announcement post. Spot-check them.
