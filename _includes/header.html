@@ -2,7 +2,7 @@
 {%- if page.collection == "posts" or page.layout == "tag" or page.layout == "category" -%}{%- assign section = "blog" -%}{%- endif -%}
 {%- if page.collection == "releases" -%}{%- assign section = "catalog" -%}{%- endif -%}
 {%- if page.layout == "artist" -%}{%- assign section = "artists" -%}{%- endif -%}
-{%- if page.layout == "fest" -%}{%- assign section = "look-up-fest" -%}{%- endif -%}
+{%- if page.layout == "fest" or page.layout == "fest-hub" -%}{%- assign section = "look-up-fest" -%}{%- endif -%}
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/">

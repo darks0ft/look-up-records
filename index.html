@@ -68,13 +68,9 @@ description: Look Up Records is an independent record label founded in Seattle i
 
 <section class="section">
   <div class="wrap">
-    <div class="section-head"><h2>Look Up Fest</h2><a href="/look-up-fest">The archive →</a></div>
+    <div class="section-head"><h2>Look Up Fest</h2><a href="/look-up-fest">All four fests →</a></div>
     <p class="measure">From 2018 to 2022, Look Up Fest was Seattle's lodge for high strangeness: one-day mini music festivals with psychedelic dream pop bands, multimedia art, and paranormal themes.</p>
-    <ul class="fests">
-      {% for f in site.data.fests %}
-      <li><a href="{{ f.url }}"><img src="{{ f.image }}" alt="" loading="lazy" width="400" height="300"><strong>{{ f.name }}</strong><span class="meta">{{ f.date | date: "%b %-d, %Y" }} · {{ f.venue | split: "," | first }}</span></a></li>
-      {% endfor %}
-    </ul>
+    {% include fests.html %}
   </div>
 </section>
 

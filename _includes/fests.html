@@ -1,0 +1,6 @@
+{%- comment -%} Grid of Look Up Fest editions. include.blurbs=true adds each edition's blurb. {%- endcomment -%}
+<ul class="fests">
+  {% for f in site.data.fests %}
+  <li><a href="{{ f.url }}"><img src="{{ f.image }}" alt="" loading="lazy" width="400" height="300"><strong>{{ f.name }}</strong><span class="meta">{{ f.date | date: "%b %-d, %Y" }} · {{ f.venue | split: "," | first }}</span>{% if include.blurbs %}<span class="blurb">{{ f.blurb }}</span>{% endif %}</a></li>
+  {% endfor %}
+</ul>

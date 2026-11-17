@@ -73,5 +73,6 @@ GitHub Pages redirects are `jekyll-redirect-from` meta-refresh pages with a cano
 - **Still undated:** Banadu & Pure Mood's "Cool Lover" isn't in the sheet. Add `release_date` in `_releases/` if you know it.
 - **Peach Beach:** the sheet lists a one-track single on 2020-03-13; the site keeps the EP date of 2020-05-01.
 - **Links:** the Spotify/Bandcamp links on releases were pulled from each announcement post. Spot-check them.
+- **Look Up Fest:** `/look-up-fest` is now a hub linking all four fests (data in `_data/fests.yml`). The 2018 page it used to hold moved to `/look-up-fest-2018`. The hub copy is adapted from the "About Look Up Fest" section of the Portals page.
 - **Homepage copy:** the hero line ("Good music from the underground") and intro are new, written from the About page.
 - The old Squarespace /newsletter page's signup block had no storage set ("needs a storage option"), so it never saved signups.

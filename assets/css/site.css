@@ -195,6 +195,8 @@ td { padding: .55rem .6rem; border-bottom: 1px solid var(--rule); vertical-align
 .fests img { aspect-ratio: 4 / 3; object-fit: cover; width: 100%; border-radius: 2px; }
 .fests strong { display: block; margin-top: .55rem; font-weight: 560; line-height: 1.25; }
 .fests a:hover strong { background: var(--lime); color: #17160f; }
+.fests .meta { display: block; margin-top: .2rem; }
+.fests .blurb { display: block; margin-top: .45rem; color: var(--ink-2); font-size: .95rem; line-height: 1.45; }
 
 /* 8 · Catalog & releases */
 .catalog-list { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--ink); }

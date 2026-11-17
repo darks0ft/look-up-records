@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{%- comment -%} /look-up-fest: hub linking every Look Up Fest edition (data: _data/fests.yml). {%- endcomment -%}
+{%- assign first = site.data.fests | last -%}
+{%- assign latest = site.data.fests | first -%}
+{%- assign fest_posts = site.tags["Look Up Fest"] | concat: site.tags["Look Up Fest: Mars"] | uniq | sort: "date" | reverse -%}
+<div class="wrap">
+  <header class="page-head measure">
+    <p class="kicker">Archive · {{ first.date | date: "%Y" }}–{{ latest.date | date: "%Y" }}</p>
+    <h1>{{ page.title }}</h1>
+    <p class="lede">{{ page.lede }}</p>
+  </header>
+
+  <section class="section" style="margin-top:0">
+    <div class="section-head"><h2>The {{ site.data.fests.size }} fests</h2></div>
+    {% include fests.html blurbs=true %}
+  </section>
+
+  <div class="prose measure">
+    {{ content }}
+  </div>
+
+  {% if fest_posts.size > 0 %}
+  <section class="section">
+    <div class="section-head"><h2>From the blog</h2>{% assign tag_page = site.tag_pages | where: "tag", "Look Up Fest" | first %}{% if tag_page %}<a href="{{ tag_page.url }}">All Look Up Fest posts →</a>{% endif %}</div>
+    <div class="post-grid">{% for p in fest_posts limit: 6 %}{% include post-item.html post=p %}{% endfor %}</div>
+  </section>
+  {% endif %}
+</div>

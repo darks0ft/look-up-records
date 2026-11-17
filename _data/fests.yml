@@ -1,21 +1,34 @@
-# Look Up Fest editions, newest first. Shown on the homepage and the /look-up-fest page.
+# Look Up Fest editions, newest first. Shown on the homepage, the /look-up-fest hub,
+# and the edition switcher on each fest page.
 - name: "Look Up Fest: Portals"
+  short: Portals
+  edition: 4th
   date: 2022-03-12
   venue: Rendezvous, Belltown, Seattle
   url: /look-up-fest-portals
   image: /assets/img/look-up-fest-portals-square-6115d5.webp
+  blurb: Nine bands across two stages in Seattle's most intimate haunted venue, with trippy visuals to channel the unknown.
 - name: "Look Up Fest: Mars"
+  short: Mars
+  edition: 3rd
   date: 2019-09-07
   venue: Substation, Seattle
   url: /mars
   image: /assets/img/mars-banner-thin-aff91a.webp
+  blurb: A space-age mini music fest of dreamy Pacific Northwest music, Martian vibes and a terraforming cause.
 - name: "Look Up Fest: Underwater"
+  short: Underwater
+  edition: 2nd
   date: 2019-03-09
   venue: Fred Wildlife Refuge, Seattle
   url: /lufu
   image: /assets/img/look-up-underwater-flier-square-1200px-962a99.webp
-- name: Look Up Fest
+  blurb: A spooky aquatic mini music fest with 11 local dreamy bands, an aquatic cause and one creature of the deep.
+- name: Look Up Fest 2018
+  short: Paranormal
+  edition: 1st
   date: 2018-09-09
   venue: Machine House Brewery, Georgetown, Seattle
-  url: /look-up-fest
+  url: /look-up-fest-2018
   image: /assets/img/look-up-fest-banner-c4aab4.webp
+  blurb: The first one. A sold-out, paranormal-themed day of psychedelic dream pop, good beer and multimedia art in Georgetown.
