@@ -1,0 +1,15 @@
+---
+layout: default
+title: Artists
+permalink: /artists
+description: The Look Up Records roster.
+---
+<section class="artists">
+  <h1>Artists</h1>
+  {% for a in site.data.artists %}
+  <article class="artist" id="{{ a.key }}">
+    <h2>{% if a.page %}<a href="{{ a.page }}">{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}</h2>
+    {{ a.blurb | markdownify }}
+  </article>
+  {% endfor %}
+</section>

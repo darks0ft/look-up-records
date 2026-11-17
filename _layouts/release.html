@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<article class="release">
+  <p class="kicker"><a href="/catalog">Catalog</a>{% if page.artist %} · {{ page.artist }}{% endif %}</p>
+  <h1>{{ page.title }}{% if page.year %} <span class="year">({{ page.year }})</span>{% endif %}</h1>
+  {% if page.image %}<img class="cover" src="{{ page.image }}" alt="{{ page.title }} cover art">{% endif %}
+  {{ content }}
+  <p class="buttons">
+    {% if page.artist_page %}<a class="button" href="{{ page.artist_page }}">About the artist</a>{% endif %}
+    {% if page.external_link %}<a class="button" href="{{ page.external_link }}">Listen</a>{% endif %}
+  </p>
+</article>

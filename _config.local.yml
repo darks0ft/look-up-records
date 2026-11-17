@@ -1,0 +1,7 @@
+# Local builds only: jekyll serve --config _config.yml,_config.local.yml
+# macOS disks are case-insensitive, so /blog/tag/album would overwrite /blog/tag/Album (and /MARS
+# would overwrite /mars). GitHub Pages builds on a case-sensitive disk, so it keeps both.
+url: "http://localhost:4000"
+collections:
+  case_aliases:
+    output: false

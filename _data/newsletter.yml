@@ -1,0 +1,4 @@
+# Mailchimp signup (the same list as darksoft.band). `tags` is the Mailchimp tag ID added to
+# signups from this site. TODO: create a "Look Up Records" tag in Mailchimp and put its ID here.
+action: "https://look-up-records.us15.list-manage.com/subscribe/post?u=1819beca84185884371f382d9&id=d5fbadec4b"
+tags: ""

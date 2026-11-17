@@ -1,0 +1,13 @@
+---
+layout: default
+title: Blog
+permalink: /blog
+description: News, album reviews, interviews, and DIY music advice from Look Up Records.
+---
+<section class="archive">
+  <h1>Blog</h1>
+  <p class="terms">
+    {% for c in site.category_pages %}<a href="{{ c.url }}">{{ c.category }}</a>{% endfor %}
+  </p>
+  {% include post-list.html posts=site.posts %}
+</section>

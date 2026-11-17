@@ -1,0 +1,21 @@
+---
+layout: default
+title: Catalog
+permalink: /catalog
+description: Every release on Look Up Records.
+---
+{%- assign releases = site.releases | sort: "order" -%}
+<section class="catalog">
+  <h1>Catalog</h1>
+  <ul class="grid">
+    {% for r in releases %}
+    <li>
+      <a href="{{ r.url }}">
+        {% if r.image %}<img src="{{ r.image }}" alt="" loading="lazy">{% endif %}
+        <strong>{{ r.title }}</strong>
+        <span>{{ r.artist }}{% if r.year %} · {{ r.year }}{% endif %}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,9 @@
+archive/
+.DS_Store
+.venv/
+_site/
+.jekyll-cache/
+.sass-cache/
+vendor/
+.bundle/
+scripts/convert/out/

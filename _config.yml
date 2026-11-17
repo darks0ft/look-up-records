@@ -1,0 +1,78 @@
+# ================================
+#   Look Up Records — Jekyll config
+# ================================
+
+title: "Look Up Records"
+description: "Look Up Records is an independent record label from the Pacific Northwest, now based in Portland, Maine: releases, artists, reviews, and Look Up Fest."
+url: "https://www.look-up-records.com"   # must match CNAME (www is the live host)
+baseurl: ""
+timezone: America/Los_Angeles
+lang: en
+
+logo: /assets/brand/logo.webp
+social:
+  name: Look Up Records
+  links:
+    - https://instagram.com/lookuprecords
+    - https://www.facebook.com/LookUpRecordsSeattle/
+    - https://soundcloud.com/lookuprecords
+    - https://www.youtube.com/channel/UC7Hn_oSyFW5kEDanuKYoTgg
+    - https://lookuprecords.bandcamp.com/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:            # GitHub Pages–supported only
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+feed:
+  path: feed.xml
+  posts_limit: 20
+
+author:
+  name: "Look Up Records"
+
+# Core pages live in _pages/ (each sets its own extensionless permalink, e.g. /about)
+include:
+  - _pages
+
+exclude:
+  - archive
+  - scripts
+  - .venv
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE.md
+  - MIGRATION-PLAN.md
+  - _config.local.yml
+
+# URLs match Squarespace exactly: no trailing slash, no .html (GitHub Pages serves
+# /blog/foo from blog/foo.html). Every document sets its own permalink.
+collections:
+  tag_pages:        # /blog/tag/<Tag>
+    output: true
+  category_pages:   # /blog/category/<Category>
+    output: true
+  releases:         # /catalog/...
+    output: true
+  legacy:           # redirect stubs for retired Squarespace URLs
+    output: true
+  case_aliases:     # redirect stubs whose URL differs from a real page only by case (off in local builds)
+    output: true
+
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+  - scope: { path: "", type: drafts }
+    values: { layout: post }
+  - scope: { path: "", type: releases }
+    values: { layout: release }
+  - scope: { path: "", type: legacy }
+    values: { layout: redirect, sitemap: false }
+  - scope: { path: "", type: case_aliases }
+    values: { layout: redirect, sitemap: false }
