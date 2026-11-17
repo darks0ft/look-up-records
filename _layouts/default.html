@@ -2,6 +2,18 @@
 <html lang="{{ site.lang | default: 'en' }}">
 <head>
   <meta charset="UTF-8">
+  {%- if page.permalink == "/404.html" %}
+  <script>
+    /* Squarespace served /page/ and /page alike, so old links may carry a trailing slash.
+       GitHub Pages 404s those; send them to the slash-less URL before anything renders. */
+    (function () {
+      var p = location.pathname;
+      if (p.length > 1 && p.charAt(p.length - 1) === "/") {
+        location.replace(p.replace(/\/+$/, "") + location.search + location.hash);
+      }
+    })();
+  </script>
+  {%- endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#14130f" media="(prefers-color-scheme: dark)">
