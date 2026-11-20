@@ -6,6 +6,8 @@ description: Look Up Records is an independent record label founded in Seattle i
 ---
 {%- assign releases = site.releases | sort: "release_date", "first" | reverse -%}
 {%- assign latest = releases | first -%}
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
+{%- assign upcoming = false -%}{%- if latest.release_date.size == 10 and latest.release_date > today -%}{%- assign upcoming = true -%}{%- endif -%}
 {%- assign latest_artist = site.data.artists | where: "key", latest.artist_key | first -%}
 
 <section class="hero">
@@ -23,13 +25,13 @@ description: Look Up Records is an independent record label founded in Seattle i
   <div class="wrap feature">
     <a href="{{ latest.url }}" aria-hidden="true" tabindex="-1"><img class="cover" src="{{ latest.image }}" alt="" width="640" height="640"></a>
     <div>
-      <p class="kicker">Latest release · {{ latest.release_date | date: "%B %-d, %Y" }}</p>
+      <p class="kicker">{% if upcoming %}New album · Out {{ latest.release_date | date: "%B %-d, %Y" }}{% else %}Latest release · {{ latest.release_date | date: "%B %-d, %Y" }}{% endif %}</p>
       <h3><a href="{{ latest.url }}">{{ latest.title }}</a></h3>
       <p class="artist">{{ latest.artist }}{% if latest.format %} <span class="meta">· {{ latest.format }}</span>{% endif %}</p>
       {% if latest_artist %}<p>{{ latest_artist.blurb }}</p>{% endif %}
       <p class="buttons">
         {% if latest.bandcamp %}<a class="button solid" href="{{ latest.bandcamp }}">Bandcamp</a>{% endif %}
-        {% if latest.spotify %}<a class="button" href="{{ latest.spotify }}">Spotify</a>{% endif %}
+        {% if latest.spotify %}<a class="button{% if upcoming and latest.bandcamp == nil %} solid{% endif %}" href="{{ latest.spotify }}">{% if upcoming %}Pre-save on Spotify{% else %}Spotify{% endif %}</a>{% endif %}
         {% if latest.vinyl_cd %}<a class="button" href="{{ latest.vinyl_cd }}">Vinyl &amp; CD</a>{% endif %}
         {% if latest.announcement %}<a class="button" href="{{ latest.announcement }}">Read more</a>{% endif %}
       </p>

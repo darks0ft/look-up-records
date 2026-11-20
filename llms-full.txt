@@ -3,6 +3,7 @@ layout: null
 sitemap: false
 permalink: /llms-full.txt
 ---
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
 {%- assign releases = site.releases | sort: "release_date", "first" | reverse -%}
 # Look Up Records: full text
 
@@ -17,7 +18,7 @@ Look Up Records is an independent record label and music blog founded in Seattle
 URL: {{ r.url | absolute_url }}
 {% if r.catalog_no %}Catalog number: {{ r.catalog_no }}
 {% endif %}Format: {{ r.format }}
-{% if r.release_date.size == 10 %}Released: {{ r.release_date | date: "%B %-d, %Y" }}
+{% if r.release_date.size == 10 %}{% if r.release_date > today %}Release date (upcoming){% else %}Released{% endif %}: {{ r.release_date | date: "%B %-d, %Y" }}
 {% elsif r.year %}Released: {{ r.year }}
 {% endif %}{% if r.bandcamp %}Bandcamp: {{ r.bandcamp }}
 {% endif %}{% if r.spotify %}Spotify: {{ r.spotify }}

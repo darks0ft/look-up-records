@@ -6,6 +6,7 @@ Safe to re-run: it rewrites only the keys below (title/description/date/image) o
 tag, category and author pages, releases, and the fest pages that lack a description.
 """
 import json, re
+from datetime import date
 from pathlib import Path
 import yaml
 
@@ -82,11 +83,20 @@ for p in sorted((ROOT / "_releases").glob("*.md")):
     fmt = fmt if fmt.isupper() else fmt.lower()
     when = f"a {r['year']} {fmt}" if r.get("year") else f"a {fmt}"
     cat = f", catalog number {r['catalog_no']}" if r.get("catalog_no") else ""
-    desc = f"{r['title']} by {r['artist']}, {when} released on Look Up Records{cat}. Listen on Bandcamp and streaming services."
+    rd = str(r.get("release_date") or "")
+    upcoming = len(rd) == 10 and rd > date.today().isoformat()
+    if upcoming:
+        out = date.fromisoformat(rd).strftime("%B %-d, %Y")
+        desc = f"{r['title']} by {r['artist']}, a new {fmt} out {out} on Look Up Records{cat}. Pre-save it and order physical copies now."
+    else:
+        desc = f"{r['title']} by {r['artist']}, {when} released on Look Up Records{cat}. Listen on Bandcamp and streaming services."
     kv = dict(description=desc)
-    if r.get("release_date") and len(str(r["release_date"])) == 10:
-        kv["date"] = str(r["release_date"])
+    if len(rd) == 10 and not upcoming:
+        kv["date"] = rd   # Jekyll skips future-dated documents, so upcoming releases keep no date
     set_keys(p, **kv)
+    if upcoming:   # drop a date left over from an earlier run
+        fm, body = split(p)
+        p.write_text("---\n" + re.sub(r"^date:.*\n?", "", fm, flags=re.M).rstrip("\n") + "\n---\n" + body)
 
 FEST_DESC = {
     "/look-up-fest-2018": "Look Up Fest 2018, the first Look Up Fest: a sold-out, paranormal-themed mini music festival on September 9, 2018 at Machine House Brewery in Georgetown, Seattle.",

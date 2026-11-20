@@ -3,6 +3,7 @@ layout: null
 sitemap: false
 permalink: /llms.txt
 ---
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
 {%- assign releases = site.releases | sort: "release_date", "first" | reverse -%}
 {%- assign first_year = site.posts.last.date | date: "%Y" -%}
 {%- assign guides = site.categories["Advice"] | concat: site.categories["DIY"] | uniq | sort: "date" | reverse -%}
@@ -17,7 +18,7 @@ Key facts:
 - Founded: 2017 in Seattle, Washington. Now based in Portland, Maine. Run by Darksoft.
 - Genres: dream pop, shoegaze, psych, indie rock and folk.
 - Roster: {% for a in site.data.artists %}{{ a.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}.
-- Releases: {{ releases.size }} in the catalog; the newest is "{{ releases.first.title }}" by {{ releases.first.artist }} ({{ releases.first.release_date | date: "%B %Y" }}).
+- Releases: {{ releases.size }} in the catalog; the newest is "{{ releases.first.title }}" by {{ releases.first.artist }} ({% if releases.first.release_date > today %}out {% endif %}{{ releases.first.release_date | date: "%B %-d, %Y" }}).
 - Blog: {{ site.posts.size }} posts since {{ first_year }}: reviews, interviews, label news and DIY guides, by {{ site.author_pages.size }} writers.
 - Status: the label is not accepting submissions. The site is kept as an archive of the label's music, writing and events, and as the home for Darksoft's releases.
 - Contact: Instagram @lookuprecords (https://instagram.com/lookuprecords). Newsletter: {{ "/newsletter" | absolute_url }}
@@ -37,7 +38,7 @@ When citing, please link to the specific page on {{ site.url | remove: "https://
 ## Catalog
 
 {% for r in releases -%}
-- [{{ r.title }} by {{ r.artist }}]({{ r.url | absolute_url }}): {% if r.catalog_no %}{{ r.catalog_no }}, {% endif %}{{ r.format }}{% if r.release_date.size == 10 %}, released {{ r.release_date | date: "%B %-d, %Y" }}{% elsif r.year %}, {{ r.year }}{% endif %}.{% if r.bandcamp %} Bandcamp: {{ r.bandcamp }}{% endif %}
+- [{{ r.title }} by {{ r.artist }}]({{ r.url | absolute_url }}): {% if r.catalog_no %}{{ r.catalog_no }}, {% endif %}{{ r.format }}{% if r.release_date.size == 10 %}, {% if r.release_date > today %}out{% else %}released{% endif %} {{ r.release_date | date: "%B %-d, %Y" }}{% elsif r.year %}, {{ r.year }}{% endif %}.{% if r.bandcamp %} Bandcamp: {{ r.bandcamp }}{% endif %}
 {% endfor %}
 ## Artists
 

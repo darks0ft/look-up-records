@@ -2,6 +2,8 @@
 layout: default
 ---
 {%- assign artist = site.data.artists | where: "key", page.artist_key | first -%}
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
+{%- assign upcoming = false -%}{%- if page.release_date.size == 10 and page.release_date > today -%}{%- assign upcoming = true -%}{%- endif -%}
 {%- assign all = site.releases | sort: "release_date", "first" | reverse -%}
 {%- assign more = all | where: "artist_key", page.artist_key | where_exp: "r", "r.url != page.url" -%}
 {%- if artist -%}{%- assign tagged = site.tags[artist.name] -%}{%- endif -%}
@@ -9,11 +11,11 @@ layout: default
   <article class="release-head">
     {% if page.image %}<img class="cover" src="{{ page.image }}" alt="{{ page.title }} cover art" width="640" height="640">{% endif %}
     <div>
-      <p class="kicker"><a href="/catalog">Catalog</a> · {{ page.format | default: "Release" }}</p>
+      <p class="kicker"><a href="/catalog">Catalog</a> · {{ page.format | default: "Release" }}{% if upcoming %} · Upcoming{% endif %}</p>
       <h1>{{ page.title }}</h1>
       <p class="artist">{% if artist %}<a href="{{ artist.page | default: artist.post }}">{{ page.artist }}</a>{% else %}{{ page.artist }}{% endif %}</p>
       <dl class="facts">
-        {% if page.release_date %}<dt>Released</dt><dd>{% if page.release_date.size > 4 %}{{ page.release_date | date: "%B %-d, %Y" }}{% else %}{{ page.release_date }}{% endif %}</dd>{% endif %}
+        {% if page.release_date %}<dt>{% if upcoming %}Out{% else %}Released{% endif %}</dt><dd>{% if page.release_date.size > 4 %}{{ page.release_date | date: "%B %-d, %Y" }}{% else %}{{ page.release_date }}{% endif %}</dd>{% endif %}
         {% if page.catalog_no %}<dt>Catalog no.</dt><dd>{{ page.catalog_no }}</dd>{% endif %}
         {% if page.format %}<dt>Format</dt><dd>{{ page.format }}</dd>{% endif %}
         <dt>Label</dt><dd>Look Up Records</dd>
@@ -21,7 +23,7 @@ layout: default
       {{ content }}
       <p class="buttons">
         {% if page.bandcamp %}<a class="button solid" href="{{ page.bandcamp }}">Bandcamp</a>{% endif %}
-        {% if page.spotify %}<a class="button" href="{{ page.spotify }}">Spotify</a>{% endif %}
+        {% if page.spotify %}<a class="button{% if upcoming %} solid{% endif %}" href="{{ page.spotify }}">{% if upcoming %}Pre-save on Spotify{% else %}Spotify{% endif %}</a>{% endif %}
         {% if page.apple_music %}<a class="button" href="{{ page.apple_music }}">Apple Music</a>{% endif %}
         {% if page.vinyl_cd %}<a class="button" href="{{ page.vinyl_cd }}">Vinyl &amp; CD</a>{% endif %}
         {% if page.announcement %}<a class="button" href="{{ page.announcement }}">Release notes</a>{% endif %}
