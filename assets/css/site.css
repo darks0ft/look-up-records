@@ -156,6 +156,11 @@ td { padding: .55rem .6rem; border-bottom: 1px solid var(--rule); vertical-align
 .logo-tile.solid img { width: 100%; }
 .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); gap: .5rem; margin: 2rem 0; }
 .gallery img { aspect-ratio: 1; object-fit: cover; width: 100%; }
+/* Two formats side by side (e.g. vinyl + CD), each with its own order button */
+.format-pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.2rem; margin: 2rem 0; }
+.format-pair figure { margin: 0; display: flex; flex-direction: column; align-items: flex-start; gap: .8rem; }
+.format-pair img { width: 100%; height: auto; }
+@media (max-width: 560px) { .format-pair { grid-template-columns: minmax(0, 1fr); } }
 .callout { font-family: var(--mono); font-size: .9rem; border: 1px dashed var(--ink); padding: .8rem 1rem; }
 .prose ul, .prose ol { padding-left: 1.3rem; }
 .prose li { margin-bottom: .35em; }

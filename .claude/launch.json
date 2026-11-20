@@ -7,6 +7,13 @@
       "env": { "LANG": "en_US.UTF-8", "LC_ALL": "en_US.UTF-8" },
       "runtimeArgs": ["exec", "jekyll", "serve", "--config", "_config.yml,_config.local.yml", "--livereload", "--port", "4002", "--livereload-port", "35731", "--destination", "/tmp/look-up-site"],
       "port": 4002
+    },
+    {
+      "name": "jekyll-drafts",
+      "runtimeExecutable": "/opt/homebrew/opt/ruby@3.3/bin/bundle",
+      "env": { "LANG": "en_US.UTF-8", "LC_ALL": "en_US.UTF-8" },
+      "runtimeArgs": ["exec", "jekyll", "serve", "--drafts", "--config", "_config.yml,_config.local.yml", "--livereload", "--port", "4003", "--livereload-port", "35732", "--destination", "/tmp/look-up-drafts"],
+      "port": 4003
     }
   ]
 }
